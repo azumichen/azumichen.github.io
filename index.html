@@ -17,7 +17,7 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"azumichen.github.io","root":"/","scheme":"Mist","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"./public/search.xml"};
+    var CONFIG = {"hostname":"azumichen.github.io","root":"/","scheme":"Mist","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"./public/search.xml"};
   </script>
 
   <meta property="og:type" content="website">
@@ -103,7 +103,6 @@
 
   <div class="site-nav-right">
     <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -138,38 +137,11 @@
     <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a>
 
   </li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
-        </a>
-      </li>
   </ul>
 </nav>
 
 
 
-  <div class="search-pop-overlay">
-    <div class="popup search-popup">
-        <div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off"
-           placeholder="Searching..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div id="search-result">
-  <div id="no-result">
-    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
 
 </div>
     </header>
@@ -319,7 +291,7 @@ print(iris.DESCR)
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>商品分析の手法（ABC分析、アソシエーション分析）<br>ABC分析, アソシエーション分析, 連関分析, マーケットバスケット分析, 商品カテゴリー分析, おむつとビール, レコメンデーション<br>購買予測では、誰が買ってくれそうかを予測するとともに、「どの商品が売れるか」の予測も重要です。ここでは、誰が買ったかのデータがなくても売れ筋商品や死に筋商品を分析したり、この商品と一緒に売れる商品は何なのか等、商品についてのマーケティング施策に活かせる方法をご紹介します。</p>
+          <p>商品分析の手法（ABC分析、アソシエーション分析）<br>ABC分析, アソシエーション分析, 連関分析, マーケットバスケット分析, 商品カテゴリー分析, おむつとビール, レコメンデーション<br>購買予測では、誰が買ってくれそうかを予測するとともに、「どの商品が売れるか」の予測も重要です。ここでは、誰が買ったかのデータがなくても売れ筋商品や死に筋商品を分析したり、この商品と一緒に売れる商品は何なのか等、商品についてのマーケティング施策に活かせる方法をご紹介します。<br>&lt; !– more –&gt;</p>
 <p>商品カテゴリー分析<br>商品分析にあたって、まず行なわなくてはいけないのが、商品カテゴリー分析です。顧客分析の手法（デシル分析、RFM分析）では顧客をいくつかのグループに分ける手法の一部をご紹介しましたが、同様に商品のグループ分けも非常に重要で、商品の性質を知り、グループ化をします。なぜ商品カテゴリー分析が重要かは、ALBERT独自のCTB分析についてこちらに記してあるので、ご参照いただきたいのですが、商品の分類（大分類、中分類、小分類）は、カタログやホームページの構成、仕入れ先の都合など、企業の管理のために作られたものではなく、どんな商品かがイメージできる、顧客の視点で考案されたカテゴリーで分類されていなくてはなりません。</p>
 <p>購買ランキング<br>購買ランキングは、文字通り「売れた順にデータを並べ替える」作業です。最も簡単なランキングは、商品コード（SKU）を降順に並べる方法ですが、商品コードを並べただけでは、充分なインサイトを得られない事があります。商品コードが異なるが値引き販売やセット販売などで別の商品コードが使われていたために、正しい数値になっていない場合などです。購買ランキングを見るときにも、まずはデータをよく見て、目的に合った集計をしなくてはなりません。</p>
 <p>Webサイト運営に関するKPI指標例：<br>自然検索トラフィック数<br>セッション数<br>リピーター数<br>ページビュー数<br>ページごとのセッション数<br>平均セッション時間<br>直帰率</p>
@@ -387,7 +359,7 @@ print(iris.DESCR)
 </li>
 <li><p>要加粗的文字左右分别用两个<em>号包起来<br>要倾斜和加粗的文字左右分别用三个</em>号包起来<br>要加删除线的文字左右分别用两个~~号包起来</p>
 </li>
-<li><p>在引用的文字前加&gt;即可。</p>
+<li><p>在引用的文字前加&gt;即可。<br>&lt; !– more –&gt;</p>
 </li>
 <li><p>分割线:三个或者三个以上的 - 或者 * 都可以。</p>
 </li>
@@ -479,7 +451,7 @@ print(iris.DESCR)
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>今天在娄山关路吃了寿司🍣。</p>
+          <p>今天在娄山关路吃了寿司🍣。<br>&lt; !– more –&gt;</p>
 <p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/psb1.jpeg" alt=""></p>
 <ul>
 <li>Anna Chen </li>
@@ -751,10 +723,6 @@ print(iris.DESCR)
   
 
 
-
-
-  
-<script src="/js/local-search.js"></script>
 
 
 
