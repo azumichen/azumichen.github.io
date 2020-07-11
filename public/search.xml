@@ -3,7 +3,17 @@
   <entry>
     <title>序</title>
     <url>/2020/06/03/a/</url>
-    <content><![CDATA[<p>市场营销。 有趣</p>
+    <content><![CDATA[<p>categories: </p>
+<ul>
+<li>marflower</li>
+<li>花脉</li>
+<li>花士</li>
+<li>花肥</li>
+</ul>
+<hr>
+<p>top: true<br>author: AzumiC</p>
+<hr>
+<p>市场营销。 有趣</p>
 <p>算法  </p>
 <p>npm，brew， docker，linux：成就，抵达成品。</p>
 <p>文学: 在我看来，抑郁是一种气血不足，是一种呆滞的纯洁，而纯洁又何尝不可，但不总是那样幸运，所以我们需要纯洁和复杂的综合能力。</p>
@@ -191,11 +201,11 @@ print(iris.DESCR)
 <p>##花肥网站##营销监测 Marketing Analytics</p>
 <p>目前这三个网站是有半年（2020年6月-2020年12月）的测试期。测试期间并不想把重心放在流量上，而是放在品牌建设上.2020年1月预计开通相应的微信公众号，可进行品牌推广和流量建设。品牌建设期间，欢迎大家参与内容建议和指正，提出各种宝贵的意见。</p>
 ]]></content>
-      <categories>
-        <category>花脉，花士，花肥</category>
-      </categories>
       <tags>
-        <tag>new</tag>
+        <tag>机器学习</tag>
+        <tag>AI</tag>
+        <tag>花数据预测</tag>
+        <tag>KNN</tag>
       </tags>
   </entry>
   <entry>
