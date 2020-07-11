@@ -6,7 +6,6 @@
     <content><![CDATA[<p>市场营销。 有趣</p>
 <p>算法  </p>
 <p>npm，brew， docker，linux：成就，抵达成品。</p>
-<p>文学: 在我看来，抑郁是一种气血不足，是一种呆滞的纯洁，而纯洁又何尝不可，但不总是那样幸运，所以我们需要纯洁和复杂的综合能力。</p>
 <h2 id="–-AI-MarTech："><a href="#–-AI-MarTech：" class="headerlink" title="–  AI.MarTech："></a>–  AI.MarTech：</h2><figure class="highlight clean"><table><tr><td class="code"><pre><span class="line">&#123;% codeblock %&#125;</span><br><span class="line">iris = load_iris()</span><br><span class="line">    iris.data.shape</span><br><span class="line">    (<span class="number">150</span>, <span class="number">4</span>)</span><br><span class="line">    print(iris.DESCR)</span><br><span class="line">    ##sepal 萼片##</span><br><span class="line">    ##petal 花瓣##</span><br><span class="line">&#123;% endcodeblock %&#125;</span><br></pre></td></tr></table></figure>
 <blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
 <footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
