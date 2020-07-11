@@ -3,8 +3,7 @@
   <entry>
     <title>序</title>
     <url>/2020/06/03/a/</url>
-    <content><![CDATA[<p>   ##&lt;script type=”text/javascript”<br>   ##src=”<a href="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;" target="_blank" rel="noopener">http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;</a><br>   ##</script></p>
-<p>市场营销。 有趣</p>
+    <content><![CDATA[<p>市场营销。 有趣</p>
 <p>算法  </p>
 <p>npm，brew， docker，linux：成就，抵达成品。</p>
 <h2 id="–-AI-MarTech："><a href="#–-AI-MarTech：" class="headerlink" title="–  AI.MarTech："></a>–  AI.MarTech：</h2><figure class="highlight clean"><table><tr><td class="code"><pre><span class="line">&#123;% codeblock %&#125;</span><br><span class="line">iris = load_iris()</span><br><span class="line">    iris.data.shape</span><br><span class="line">    (<span class="number">150</span>, <span class="number">4</span>)</span><br><span class="line">    print(iris.DESCR)</span><br><span class="line">    ##sepal 萼片##</span><br><span class="line">    ##petal 花瓣##</span><br><span class="line">&#123;% endcodeblock %&#125;</span><br></pre></td></tr></table></figure>
