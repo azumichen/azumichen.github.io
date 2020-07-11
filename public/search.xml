@@ -263,8 +263,12 @@ print(iris.DESCR)
 <p>货的指标</p>
 <p>场的指标<br>```</p>
 ]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
       <tags>
-        <tag>ABC, DEF</tag>
+        <tag>ABC</tag>
+        <tag>DEF</tag>
       </tags>
   </entry>
   <entry>
