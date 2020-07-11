@@ -8,6 +8,8 @@
 <p>npm，brew， docker，linux：成就，抵达成品。</p>
 <p>文学: 在我看来，抑郁是一种气血不足，是一种呆滞的纯洁，而纯洁又何尝不可，但不总是那样幸运，所以我们需要纯洁和复杂的综合能力。</p>
 <h2 id="–-AI-MarTech："><a href="#–-AI-MarTech：" class="headerlink" title="–  AI.MarTech："></a>–  AI.MarTech：</h2><figure class="highlight clean"><table><tr><td class="code"><pre><span class="line">&#123;% codeblock %&#125;</span><br><span class="line">iris = load_iris()</span><br><span class="line">    iris.data.shape</span><br><span class="line">    (<span class="number">150</span>, <span class="number">4</span>)</span><br><span class="line">    print(iris.DESCR)</span><br><span class="line">    ##sepal 萼片##</span><br><span class="line">    ##petal 花瓣##</span><br><span class="line">&#123;% endcodeblock %&#125;</span><br></pre></td></tr></table></figure>
+<blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
 
 <figure class="highlight django"><table><tr><td class="code"><pre><span class="line"><span class="template-tag">&#123;% <span class="name">codeblock</span> [lang:language] [title] [url] [link text] %&#125;</span></span><br><span class="line"><span class="xml">code snippet</span></span><br><span class="line"><span class="template-tag">&#123;% <span class="name">endcodeblock</span> %&#125;</span></span><br></pre></td></tr></table></figure>
 <figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">---公元<span class="number">1320</span>年</span><br><span class="line">     Laugh <span class="keyword">in</span> the Wind!</span><br><span class="line">                Change <span class="keyword">in</span> the world! </span><br><span class="line">  增长，增长，增长！</span><br><span class="line">   无稽崖华山峰下，</span><br><span class="line">      俄见生得骨格不凡，丰神迥异的一</span><br><span class="line">                     僧一道远远而来，</span><br><span class="line">   高僧奏琴，</span><br><span class="line">                 流道吟诗: A.I. 智能生</span><br><span class="line">       Devoted friend, play a piece <span class="keyword">of</span> music, </span><br><span class="line">       incisively and vividly，</span><br><span class="line">       No match <span class="keyword">for</span> our laughing <span class="keyword">in</span> the wind.</span><br><span class="line">                Laugh <span class="keyword">in</span> the wind?</span><br><span class="line">  </span><br></pre></td></tr></table></figure>    
@@ -182,6 +184,23 @@
 <p>##花肥网站##营销监测 Marketing Analytics</p>
 <p>目前这三个网站是有半年（2020年6月-2020年12月）的测试期。测试期间并不想把重心放在流量上，而是放在品牌建设上.2020年1月预计开通相应的微信公众号，可进行品牌推广和流量建设。品牌建设期间，欢迎大家参与内容建议和指正，提出各种宝贵的意见。</p>
 ]]></content>
+      <categories>
+        <category>花脉</category>
+        <category>花士</category>
+        <category>花肥</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>AI</tag>
+        <tag>花数据预测</tag>
+        <tag>KNN</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>boke</title>
+    <url>/2020/07/11/1/</url>
+    <content><![CDATA[<blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>]]></content>
       <categories>
         <category>花脉</category>
         <category>花士</category>
