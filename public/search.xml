@@ -29,23 +29,15 @@
 <p> namely harmoney between yin and yang. 阴阳中和。Changes of Zhou</p>
 <p>laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe. </p>
 <p>Video 美国自然博物馆人类人口的进化史</p>
-1 A.D. | 170  
-100 A.D. | 176 
-200 A.D. | 182 
-300 A.D. | 180 
-500 A.D. | 177 
-610 A.D. | 179 
-775 A.D. | 195 
-800 A.D. | 195 
-1000 A.D. | 288 
-1200 A.D. | 370 
-1347 A.D. | 355 
-1492 A.D. | 195 
-1760 A.D. | 800 
-1914-1918 A.D. | 1700 
-2000 A.D. | 9,500 
-2050 A.D. | 11,000 
-775 A.D. | 195 
+
+      <div id="d8sodn12nku" class="hexo-tag-easy-charts" style="width: 100%; height: 480px;"></div>
+
+      <script type="text/javascript">
+        var chart = echarts.init(document.getElementById('d8sodn12nku'));
+        chart.setOption({"title":{"text":"Barchart with Vertical Headings"},"animation":true,"tooltip":{"trigger":"axis"},"xAxis":{"data":["Durian","Clementine","Durian","Mulberry","Papaya","Rambutan"]},"yAxis":{},"series":[{"name":"Sales","type":"bar","data":["56","85","73","93","68","53"]}]});
+      </script>
+    
+
 
 <p>从非洲走向全世界，<br>1 A.D.一亿七千万人170M<br>100 A.D. 176M<br>200 A.D.  182M Silk<br>300 A.D. India 180M<br>500 A.D.177 M Maya Culture<br>610 A.D.  179M Islm<br>775 A.D. ?? 195 M Japan Tianhua<br>800 A.D. Taoist  Huoyao</p>
 <p>1000 A.D.  288 M Zhinanzhen<br>1200 A.D. Menggu  360 M - 380 M<br>1347 A.D.  360 M - 350 M heiniu Sickness<br>1492 A.D. Columbia<br>1760 800 M industry revolution<br>1914-1918  1.7-2.7 Billion<br>2000 A.D. 9.5 Bilion<br>2050   11 billion</p>
