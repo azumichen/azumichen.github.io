@@ -30,10 +30,10 @@
 <p>laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe. </p>
 <p>Video 美国自然博物馆人类人口的进化史</p>
 
-      <div id="d8sodn12nku" class="hexo-tag-easy-charts" style="width: 100%; height: 480px;"></div>
+      <div id="83hg3bfne1p" class="hexo-tag-easy-charts" style="width: 100%; height: 480px;"></div>
 
       <script type="text/javascript">
-        var chart = echarts.init(document.getElementById('d8sodn12nku'));
+        var chart = echarts.init(document.getElementById('83hg3bfne1p'));
         chart.setOption({"title":{"text":"Barchart with Vertical Headings"},"animation":true,"tooltip":{"trigger":"axis"},"xAxis":{"data":["Durian","Clementine","Durian","Mulberry","Papaya","Rambutan"]},"yAxis":{},"series":[{"name":"Sales","type":"bar","data":["56","85","73","93","68","53"]}]});
       </script>
     
