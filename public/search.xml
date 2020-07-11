@@ -30,14 +30,100 @@
 <p>laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe. </p>
 <p>Video 美国自然博物馆人类人口的进化史</p>
 
-      <div id="83hg3bfne1p" class="hexo-tag-easy-charts" style="width: 100%; height: 480px;"></div>
+      <div id="og151s0f9bp" class="hexo-tag-easy-charts" style="width: 100%; height: 480px;"></div>
 
       <script type="text/javascript">
-        var chart = echarts.init(document.getElementById('83hg3bfne1p'));
+        var chart = echarts.init(document.getElementById('og151s0f9bp'));
         chart.setOption({"title":{"text":"Barchart with Vertical Headings"},"animation":true,"tooltip":{"trigger":"axis"},"xAxis":{"data":["Durian","Clementine","Durian","Mulberry","Papaya","Rambutan"]},"yAxis":{},"series":[{"name":"Sales","type":"bar","data":["56","85","73","93","68","53"]}]});
       </script>
     
+<div id="echarts2370" style="width: 81%;height: 400px;margin: 0 auto"></div>
+<script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('echarts2370'));
 
+        // 指定图表的配置项和数据
+        var option = 
+{
+    title: {
+        text: '一天用电量分布',
+        subtext: '纯属虚构'
+    },
+    tooltip: {
+        trigger: 'axis',
+        axisPointer: {
+            type: 'cross'
+        }
+    },
+    toolbox: {
+        show: true,
+        feature: {
+            saveAsImage: {}
+        }
+    },
+    xAxis:  {
+        type: 'category',
+        boundaryGap: false,
+        data: ['00:00', '01:15', '02:30', '03:45', '05:00', '06:15', '07:30', '08:45', '10:00', '11:15', '12:30', '13:45', '15:00', '16:15', '17:30', '18:45', '20:00', '21:15', '22:30', '23:45']
+    },
+    yAxis: {
+        type: 'value',
+        axisLabel: {
+            formatter: '{value} W'
+        },
+        axisPointer: {
+            snap: true
+        }
+    },
+    visualMap: {
+        show: false,
+        dimension: 0,
+        pieces: [{
+            lte: 6,
+            color: 'green'
+        }, {
+            gt: 6,
+            lte: 8,
+            color: 'red'
+        }, {
+            gt: 8,
+            lte: 14,
+            color: 'green'
+        }, {
+            gt: 14,
+            lte: 17,
+            color: 'red'
+        }, {
+            gt: 17,
+            color: 'green'
+        }]
+    },
+    series: [
+        {
+            name:'用电量',
+            type:'line',
+            smooth: true,
+            data: [300, 280, 250, 260, 270, 300, 550, 500, 400, 390, 380, 390, 400, 500, 600, 750, 800, 700, 600, 400],
+            markArea: {
+                data: [ [{
+                    name: '早高峰',
+                    xAxis: '07:30'
+                }, {
+                    xAxis: '10:00'
+                }], [{
+                    name: '晚高峰',
+                    xAxis: '17:30'
+                }, {
+                    xAxis: '21:15'
+                }] ]
+            }
+        }
+    ]
+}
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+</script>
 
 <p>从非洲走向全世界，<br>1 A.D.一亿七千万人170M<br>100 A.D. 176M<br>200 A.D.  182M Silk<br>300 A.D. India 180M<br>500 A.D.177 M Maya Culture<br>610 A.D.  179M Islm<br>775 A.D. ?? 195 M Japan Tianhua<br>800 A.D. Taoist  Huoyao</p>
 <p>1000 A.D.  288 M Zhinanzhen<br>1200 A.D. Menggu  360 M - 380 M<br>1347 A.D.  360 M - 350 M heiniu Sickness<br>1492 A.D. Columbia<br>1760 800 M industry revolution<br>1914-1918  1.7-2.7 Billion<br>2000 A.D. 9.5 Bilion<br>2050   11 billion</p>
