@@ -284,7 +284,7 @@ print(iris.DESCR)
   <entry>
     <title>T blog</title>
     <url>/2019/11/16/t/</url>
-    <content><![CDATA[<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">---公元<span class="number">1320</span>年</span><br><span class="line">     Laugh <span class="keyword">in</span> the Wind!</span><br><span class="line">                Change <span class="keyword">in</span> the world! </span><br><span class="line">  增长，增长，增长！</span><br><span class="line">   无稽崖华山峰下，</span><br><span class="line">      俄见生得骨格不凡，丰神迥异的一</span><br><span class="line">                     僧一道远远而来，</span><br><span class="line">   高僧奏琴，</span><br><span class="line">                 流道吟诗: A.I. 智能生&lt;!-- more --&gt; </span><br><span class="line">       Devoted friend, play a piece <span class="keyword">of</span> music, </span><br><span class="line">       incisively and vividly，</span><br><span class="line">       No match <span class="keyword">for</span> our laughing <span class="keyword">in</span> the wind.</span><br><span class="line">                Laugh <span class="keyword">in</span> the wind?</span><br><span class="line">  </span><br></pre></td></tr></table></figure>    
+    <content><![CDATA[<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">---公元<span class="number">1320</span>年</span><br><span class="line">     Laugh <span class="keyword">in</span> the Wind!</span><br><span class="line">                Change <span class="keyword">in</span> the world! </span><br><span class="line">  增长，增长，增长！</span><br><span class="line">   无稽崖华山峰下，</span><br><span class="line">      俄见生得骨格不凡，丰神迥异的一</span><br><span class="line">                     僧一道远远而来，</span><br><span class="line">   高僧奏琴，</span><br><span class="line">                 流道吟诗: A.I. 智能生</span><br><span class="line">&lt;!-- more --&gt;</span><br><span class="line">       Devoted friend, play a piece <span class="keyword">of</span> music, </span><br><span class="line">       incisively and vividly，</span><br><span class="line">       No match <span class="keyword">for</span> our laughing <span class="keyword">in</span> the wind.</span><br><span class="line">                Laugh <span class="keyword">in</span> the wind?</span><br><span class="line">  </span><br></pre></td></tr></table></figure>    
 
 <p>  机器学习 花瓣？？—智能—花士，花脉还是花肥</p>
 <p>生命是一个减熵的过程。智能在开放系统中，积极有效地<strong>减熵</strong>做功。（熵：系统中不可逆且永远在增加的无效能量，一个从有序到无序直至死亡的过程。–）</p>
@@ -310,8 +310,12 @@ print(iris.DESCR)
 <p>  道士开口道，「师曰，心不驰则心定，形不劳则精至，神不扰则丹结，妙道得矣。」<br>  两个传教士摇了摇头，似乎没怎么太能听懂。但这位道士似乎领会到二位迷路的困惑，表示愿意带路，抖了抖白衣上的尘土，随即起身和两位一起向上走。</p>
 <p>  华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着<br>念到：</p>
 ]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
       <tags>
-        <tag>ABC, DEF</tag>
+        <tag>ABC</tag>
+        <tag>DEF</tag>
       </tags>
   </entry>
   <entry>
@@ -320,8 +324,10 @@ print(iris.DESCR)
     <content><![CDATA[<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">---公元<span class="number">1320</span>年</span><br><span class="line">     Laugh <span class="keyword">in</span> the Wind!</span><br><span class="line">                Change <span class="keyword">in</span> the world! </span><br><span class="line">  增长，增长，增长！</span><br><span class="line">   无稽崖华山峰下，</span><br><span class="line">      俄见生得骨格不凡，丰神迥异的一</span><br><span class="line">                     僧一道远远而来，</span><br><span class="line">   高僧奏琴，</span><br><span class="line">                 流道吟诗: A.I. 智能生&lt;!-- more --&gt; </span><br><span class="line">       Devoted friend, play a piece <span class="keyword">of</span> music, </span><br><span class="line">       incisively and vividly，</span><br><span class="line">       No match <span class="keyword">for</span> our laughing <span class="keyword">in</span> the wind.</span><br><span class="line">                Laugh <span class="keyword">in</span> the wind?</span><br><span class="line">  </span><br></pre></td></tr></table></figure>    
 
 <p>  机器学习 花瓣？？—智能—花士，花脉还是花肥</p>
+<a id="more"></a> 
+
 <p>生命是一个减熵的过程。智能在开放系统中，积极有效地<strong>减熵</strong>做功。（熵：系统中不可逆且永远在增加的无效能量，一个从有序到无序直至死亡的过程。–）</p>
-<p> 易经有没有减熵的道理？对抗规律 K*log2m m:微观态个数</p>
+<p>易经有没有减熵的道理？对抗规律 K*log2m m:微观态个数</p>
 <p>$1 + 1 = 2$</p>
 <p>$\text{E} = mc^2$</p>
 <p>$\text{S} = -\sum_iPi*lnPi$</p>
