@@ -1,6 +1,228 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>517Sushi</title>
+    <url>/2019/11/16/517Sushi/</url>
+    <content><![CDATA[<p>今天在娄山关路吃了寿司🍣。</p>
+<a id="more"></a>
+
+<p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/psb1.jpeg" alt=""></p>
+<ul>
+<li>Anna Chen </li>
+<li>Sushi</li>
+</ul>
+<iframe width="854" height="480" src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4" frameborder="0" allowfullscreen></iframe>
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"video":{"url":"https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+<iframe src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"  height="580" quality="high" > </iframe>
+
+<h1 id="以及标题"><a href="#以及标题" class="headerlink" title="以及标题"></a>以及标题</h1>]]></content>
+      <tags>
+        <tag>ABC, DEF</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>boke one</title>
+    <url>/2020/07/11/1/</url>
+    <content><![CDATA[<blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>]]></content>
+      <categories>
+        <category>花脉</category>
+        <category>花士</category>
+        <category>花肥</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>AI</tag>
+        <tag>花数据预测</tag>
+        <tag>KNN</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于“人，货，场“的KPI指标在Marketing Mix中的应用</title>
+    <url>/2019/11/16/my-first-blog/</url>
+    <content><![CDATA[<ol>
+<li><p>一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。</p>
+</li>
+<li><p>要加粗的文字左右分别用两个<em>号包起来<br>要倾斜和加粗的文字左右分别用三个</em>号包起来<br>要加删除线的文字左右分别用两个~~号包起来</p>
+</li>
+<li><p>在引用的文字前加&gt;即可。</p>
+<a id="more"></a></li>
+<li><p>分割线:三个或者三个以上的 - 或者 * 都可以。</p>
+</li>
+<li><p>图片![图片alt](图片地址 ‘’图片title’’)</p>
+<p> 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。<br> 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加<br> 示例: ![blockchain](<a href="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/" target="_blank" rel="noopener">https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/</a></p>
+<pre><code>u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg &quot;区块链&quot;)</code></pre><p> 上传本地图片直接点击导航栏的图片标志，选择图片即可</p>
+</li>
+<li><p><a href="超链接地址" title="超链接title">超链接名</a><br> title可加可不加<br> <a href="http://jianshu.com" target="_blank" rel="noopener">简书</a><br> <a href="http://baidu.com" target="_blank" rel="noopener">百度</a></p>
+<p> 注：Markdown本身语法不支持链接在新页面中打开，貌似简书做了处理，是可以的。别的平台可能就不行了，如果想    要在新页面中打开的话可以用html语言的a标签代替。<br> <a href="超链接地址" target="_blank">超链接名</a><br> 示例<br> <a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">简书</a></p>
+</li>
+<li><p>无序列表用 - + * 任何一种都可以<br>有序列表: 数字加点<br>列表嵌套：上一级和下一级之间敲三个空格即可</p>
+</li>
+<li><p>表格<br>表头|表头|表头</p>
+</li>
+</ol>
+<p>—|:–:|—:<br>内容|内容|内容<br>内容|内容|内容</p>
+<p>第二行分割表头和内容。</p>
+<ul>
+<li>有一个就行，为了对齐，多加了几个<br>文字默认居左</li>
+<li>两边加：表示文字居中</li>
+<li>右边加：表示文字居右<br>注：原生的语法两边都要用 | 包起来。此处省略</li>
+</ul>
+<p>示例：<br>姓名|技能|排行<br>–|:–:|–:<br>刘备|哭|大哥<br>关羽|打|二哥<br>张飞|骂|三弟</p>
+<ol start="9">
+<li><p>代码<br>单行代码：代码之间分别用一个反引号包起来<br>代码块：代码之间分别用三个反引号包起来，且两边的反引号单独占一行</p>
+</li>
+<li><p>流程图</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">st&#x3D;&gt;start: 开始</span><br><span class="line">op&#x3D;&gt;operation: My Operation</span><br><span class="line">cond&#x3D;&gt;condition: Yes or No?</span><br><span class="line">e&#x3D;&gt;end</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br><span class="line">&amp;</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<p>人的指标</p>
+<p>货的指标</p>
+<p>场的指标<br>```</p>
+]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
+      <tags>
+        <tag>ABC</tag>
+        <tag>DEF</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>my second blog</title>
+    <url>/2019/11/16/my-second-blog/</url>
+    <content><![CDATA[<p>商品分析の手法（ABC分析、アソシエーション分析）<br>ABC分析, アソシエーション分析, 連関分析, マーケットバスケット分析, 商品カテゴリー分析, おむつとビール, レコメンデーション<br>購買予測では、誰が買ってくれそうかを予測するとともに、「どの商品が売れるか」の予測も重要です。ここでは、誰が買ったかのデータがなくても売れ筋商品や死に筋商品を分析したり、この商品と一緒に売れる商品は何なのか等、商品についてのマーケティング施策に活かせる方法をご紹介します。</p>
+<a id="more"></a>
+
+<p>商品カテゴリー分析<br>商品分析にあたって、まず行なわなくてはいけないのが、商品カテゴリー分析です。顧客分析の手法（デシル分析、RFM分析）では顧客をいくつかのグループに分ける手法の一部をご紹介しましたが、同様に商品のグループ分けも非常に重要で、商品の性質を知り、グループ化をします。なぜ商品カテゴリー分析が重要かは、ALBERT独自のCTB分析についてこちらに記してあるので、ご参照いただきたいのですが、商品の分類（大分類、中分類、小分類）は、カタログやホームページの構成、仕入れ先の都合など、企業の管理のために作られたものではなく、どんな商品かがイメージできる、顧客の視点で考案されたカテゴリーで分類されていなくてはなりません。</p>
+<p>購買ランキング<br>購買ランキングは、文字通り「売れた順にデータを並べ替える」作業です。最も簡単なランキングは、商品コード（SKU）を降順に並べる方法ですが、商品コードを並べただけでは、充分なインサイトを得られない事があります。商品コードが異なるが値引き販売やセット販売などで別の商品コードが使われていたために、正しい数値になっていない場合などです。購買ランキングを見るときにも、まずはデータをよく見て、目的に合った集計をしなくてはなりません。</p>
+<p>Webサイト運営に関するKPI指標例：<br>自然検索トラフィック数<br>セッション数<br>リピーター数<br>ページビュー数<br>ページごとのセッション数<br>平均セッション時間<br>直帰率</p>
+<p>ソーシャルメディアに関するKPI指標例：<br>ソーシャルメディア毎のトラフィック数<br>リードへの転換に貢献したソーシャルメディアチャネル<br>顧客化に貢献したソーシャルメディア<br>ソーシャルメディアのフォロワー数の増加率<br>Facebookへの「いいね」の数の増加（Twitter、LinkedIn）<br>チャネル毎のエンゲージメントの高さ（リツート数 / いいね / シェア / コメント）</p>
+<p>モバイルに関するKPI指標例：<br>モバイルからのトラフィック数<br>モバイルからの流入によるリード獲得数<br>モバイルに最適化されたランディングページのコンバージョン率<br>モバイルごとのトラフィック数（タブレット or スマートフォン）<br>モバイルからのバウンス率</p>
+]]></content>
+      <tags>
+        <tag>self-introduction</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>T blog</title>
+    <url>/2019/11/16/t/</url>
+    <content><![CDATA[<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">---公元<span class="number">1320</span>年</span><br><span class="line">     Laugh <span class="keyword">in</span> the Wind!</span><br><span class="line">                Change <span class="keyword">in</span> the world! </span><br><span class="line">  增长，增长，增长！</span><br><span class="line">   无稽崖华山峰下，</span><br><span class="line">      俄见生得骨格不凡，丰神迥异的一</span><br><span class="line">                     僧一道远远而来，</span><br><span class="line">   高僧奏琴，</span><br><span class="line">                 流道吟诗: A.I. 智能生</span><br><span class="line">&lt;!-- more --&gt;</span><br><span class="line">       Devoted friend, play a piece <span class="keyword">of</span> music, </span><br><span class="line">       incisively and vividly，</span><br><span class="line">       No match <span class="keyword">for</span> our laughing <span class="keyword">in</span> the wind.</span><br><span class="line">                Laugh <span class="keyword">in</span> the wind?</span><br><span class="line">  </span><br></pre></td></tr></table></figure>    
+
+<p>  机器学习 花瓣？？—智能—花士，花脉还是花肥</p>
+<p>生命是一个减熵的过程。智能在开放系统中，积极有效地<strong>减熵</strong>做功。（熵：系统中不可逆且永远在增加的无效能量，一个从有序到无序直至死亡的过程。–）</p>
+<a id="more"></a>
+<p>易经有没有减熵的道理？对抗规律 K*log2m m:微观态个数</p>
+<p>$1 + 1 = 2$</p>
+<p>$\text{E} = mc^2$</p>
+<p>$\text{S} = -\sum_iPi*lnPi$</p>
+<p>$\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right)<br>                   = -x[class] + \log\left(\sum_j \exp(x[j])\right)$</p>
+<p><strong>Marflower</strong>    </p>
+<p> Marflower生态中，##花脉##是关于算法modeling的博客，##花士##写一些人物和小故事；而##花肥##是对营销监测的补充。##花裙##是万花筒配套的社交小群，辅助电商/境外电商，介绍一些五湖四海，异国他乡的奇珍异宝。过去以渠道做营销，那现在的media channel算不算渠道呢。流量。现在做用户研究，品牌定位，产品价值，俯瞰全局，多面考量，专注执行。</p>
+<p>64 hexagrams 12 hexagrams </p>
+<p>开放系统，积极做功于规律，更加智能。打破平衡，非线性逻辑。</p>
+<p>逻辑 x 想象力 x人性     科学和艺术的融合。营销：人口，文明，产业，资本整合吗？规律吗？做功规律吗？花脉，花士，花肥。The story just begun。</p>
+<p>1bit信息熵 = kln2（J/K）热力学熵。</p>
+<p> namely harmoney between yin and yang. 阴阳中和。Changes of Zhou</p>
+<p>laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe. </p>
+<p>Video 美国自然博物馆人类人口的进化史</p>
+<p>从非洲走向全世界，<br>1 A.D.一亿七千万人170M<br>100 A.D. 176M<br>200 A.D.  182M Silk<br>300 A.D. India 180M<br>500 A.D.177 M Maya Culture<br>610 A.D.  179M Islm<br>775 A.D. ?? 195 M Japan Tianhua<br>800 A.D. Taoist  Huoyao</p>
+<p>1000 A.D.  288 M Zhinanzhen<br>1200 A.D. Menggu  360 M - 380 M<br>1347 A.D.  360 M - 350 M heiniu Sickness<br>1492 A.D. Columbia<br>1760 800 M industry revolution<br>1914-1918  1.7-2.7 Billion<br>2000 A.D. 9.5 Bilion<br>2050   11 billion</p>
+<p>   公元2020年3月开春，两外国人到无稽崖华山峰攀岩寻路，气喘吁吁，无畏前途却绕来绕去，绕回原地，忽见一穿白衣的道长，闭目垂眉，在前面一块磐石上静坐不动。 其中一位白发碧眼，花白胡子的西洋大叔用中文慢慢询问道：<br>「Excuse me，请问您知道上山的路怎么走吗？」<br>　这道士似乎无什么动静，另一位有着中国西域长相，但灰头发，披着长袍大衣的回族兄长补充了一句：<br>「we missed the way to the upward mountains, and we noticed you are siting here to see whether you can help us?」<br>　原来现在赶上新冠疫情，不光中原人士，就是老外都想往山中避一避。</p>
+<p>西方文化看重business sense（尊重商业），主仆意识，艺术品fine art意识，创立bitch精神却出现了文化倒退</p>
+<p>东方文化看重文化教育意识，家庭意识。也有很长时间忽视和误解了自己的文化，但又对文化再认识。</p>
+<p>  道士开口道，「师曰，心不驰则心定，形不劳则精至，神不扰则丹结，妙道得矣。」<br>  两个传教士摇了摇头，似乎没怎么太能听懂。但这位道士似乎领会到二位迷路的困惑，表示愿意带路，抖了抖白衣上的尘土，随即起身和两位一起向上走。</p>
+<p>  华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着<br>念到：</p>
+]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
+      <tags>
+        <tag>ABC</tag>
+        <tag>DEF</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>T2 blog</title>
+    <url>/2019/11/16/t2/</url>
+    <content><![CDATA[<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">---公元<span class="number">1320</span>年</span><br><span class="line">     Laugh <span class="keyword">in</span> the Wind!</span><br><span class="line">                Change <span class="keyword">in</span> the world! </span><br><span class="line">  增长，增长，增长！</span><br><span class="line">   无稽崖华山峰下，</span><br><span class="line">      俄见生得骨格不凡，丰神迥异的一</span><br><span class="line">                     僧一道远远而来，</span><br><span class="line">   高僧奏琴，</span><br><span class="line">                 流道吟诗: A.I. 智能生&lt;!-- more --&gt; </span><br><span class="line">       Devoted friend, play a piece <span class="keyword">of</span> music, </span><br><span class="line">       incisively and vividly，</span><br><span class="line">       No match <span class="keyword">for</span> our laughing <span class="keyword">in</span> the wind.</span><br><span class="line">                Laugh <span class="keyword">in</span> the wind?</span><br><span class="line">  </span><br></pre></td></tr></table></figure>    
+
+<p>  机器学习 花瓣？？—智能—花士，花脉还是花肥</p>
+<a id="more"></a> 
+
+<p>生命是一个减熵的过程。智能在开放系统中，积极有效地<strong>减熵</strong>做功。（熵：系统中不可逆且永远在增加的无效能量，一个从有序到无序直至死亡的过程。–）</p>
+<p>易经有没有减熵的道理？对抗规律 K*log2m m:微观态个数</p>
+<p>$1 + 1 = 2$</p>
+<p>$\text{E} = mc^2$</p>
+<p>$\text{S} = -\sum_iPi*lnPi$</p>
+<p>$\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right)<br>                   = -x[class] + \log\left(\sum_j \exp(x[j])\right)$</p>
+<p><strong>Marflower</strong>    </p>
+<p> Marflower生态中，##花脉##是关于算法modeling的博客，##花士##写一些人物和小故事；而##花肥##是对营销监测的补充。##花裙##是万花筒配套的社交小群，辅助电商/境外电商，介绍一些五湖四海，异国他乡的奇珍异宝。过去以渠道做营销，那现在的media channel算不算渠道呢。流量。现在做用户研究，品牌定位，产品价值，俯瞰全局，多面考量，专注执行。</p>
+<p>64 hexagrams 12 hexagrams </p>
+<p>开放系统，积极做功于规律，更加智能。打破平衡，非线性逻辑。</p>
+<p>逻辑 x 想象力 x人性     科学和艺术的融合。营销：人口，文明，产业，资本整合吗？规律吗？做功规律吗？花脉，花士，花肥。The story just begun。</p>
+<p>1bit信息熵 = kln2（J/K）热力学熵。</p>
+<p> namely harmoney between yin and yang. 阴阳中和。Changes of Zhou</p>
+<p>laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe. </p>
+<p>Video 美国自然博物馆人类人口的进化史</p>
+<p>从非洲走向全世界，<br>1 A.D.一亿七千万人170M<br>100 A.D. 176M<br>200 A.D.  182M Silk<br>300 A.D. India 180M<br>500 A.D.177 M Maya Culture<br>610 A.D.  179M Islm<br>775 A.D. ?? 195 M Japan Tianhua<br>800 A.D. Taoist  Huoyao</p>
+<p>1000 A.D.  288 M Zhinanzhen<br>1200 A.D. Menggu  360 M - 380 M<br>1347 A.D.  360 M - 350 M heiniu Sickness<br>1492 A.D. Columbia<br>1760 800 M industry revolution<br>1914-1918  1.7-2.7 Billion<br>2000 A.D. 9.5 Bilion<br>2050   11 billion</p>
+<p>   公元2020年3月开春，两外国人到无稽崖华山峰攀岩寻路，气喘吁吁，无畏前途却绕来绕去，绕回原地，忽见一穿白衣的道长，闭目垂眉，在前面一块磐石上静坐不动。 其中一位白发碧眼，花白胡子的西洋大叔用中文慢慢询问道：<br>「Excuse me，请问您知道上山的路怎么走吗？」<br>　这道士似乎无什么动静，另一位有着中国西域长相，但灰头发，披着长袍大衣的回族兄长补充了一句：<br>「we missed the way to the upward mountains, and we noticed you are siting here to see whether you can help us?」<br>　原来现在赶上新冠疫情，不光中原人士，就是老外都想往山中避一避。</p>
+<p>西方文化看重business sense（尊重商业），主仆意识，艺术品fine art意识，创立bitch精神却出现了文化倒退</p>
+<p>东方文化看重文化教育意识，家庭意识。也有很长时间忽视和误解了自己的文化，但又对文化再认识。</p>
+<p>  道士开口道，「师曰，心不驰则心定，形不劳则精至，神不扰则丹结，妙道得矣。」<br>  两个传教士摇了摇头，似乎没怎么太能听懂。但这位道士似乎领会到二位迷路的困惑，表示愿意带路，抖了抖白衣上的尘土，随即起身和两位一起向上走。</p>
+<p>  华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着<br>念到：</p>
+]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>T2 blog</title>
+    <url>/2019/11/16/t%E7%9A%84%E5%89%AF%E6%9C%AC/</url>
+    <content><![CDATA[<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">---公元<span class="number">1320</span>年</span><br><span class="line">     Laugh <span class="keyword">in</span> the Wind!</span><br><span class="line">                Change <span class="keyword">in</span> the world! </span><br><span class="line">  增长，增长，增长！</span><br><span class="line">   无稽崖华山峰下，</span><br><span class="line">      俄见生得骨格不凡，丰神迥异的一</span><br><span class="line">                     僧一道远远而来，</span><br><span class="line">   高僧奏琴，</span><br><span class="line">                 流道吟诗: A.I. 智能生&lt;!-- more --&gt; </span><br><span class="line">       Devoted friend, play a piece <span class="keyword">of</span> music, </span><br><span class="line">       incisively and vividly，</span><br><span class="line">       No match <span class="keyword">for</span> our laughing <span class="keyword">in</span> the wind.</span><br><span class="line">                Laugh <span class="keyword">in</span> the wind?</span><br><span class="line">  </span><br></pre></td></tr></table></figure>    
+
+<p>  机器学习 花瓣？？—智能—花士，花脉还是花肥</p>
+<a id="more"></a> 
+
+<p>生命是一个减熵的过程。智能在开放系统中，积极有效地<strong>减熵</strong>做功。（熵：系统中不可逆且永远在增加的无效能量，一个从有序到无序直至死亡的过程。–）</p>
+<p>易经有没有减熵的道理？对抗规律 K*log2m m:微观态个数</p>
+<p>$1 + 1 = 2$</p>
+<p>$\text{E} = mc^2$</p>
+<p>$\text{S} = -\sum_iPi*lnPi$</p>
+<p>$\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right)<br>                   = -x[class] + \log\left(\sum_j \exp(x[j])\right)$</p>
+<p><strong>Marflower</strong>    </p>
+<p> Marflower生态中，##花脉##是关于算法modeling的博客，##花士##写一些人物和小故事；而##花肥##是对营销监测的补充。##花裙##是万花筒配套的社交小群，辅助电商/境外电商，介绍一些五湖四海，异国他乡的奇珍异宝。过去以渠道做营销，那现在的media channel算不算渠道呢。流量。现在做用户研究，品牌定位，产品价值，俯瞰全局，多面考量，专注执行。</p>
+<p>64 hexagrams 12 hexagrams </p>
+<p>开放系统，积极做功于规律，更加智能。打破平衡，非线性逻辑。</p>
+<p>逻辑 x 想象力 x人性     科学和艺术的融合。营销：人口，文明，产业，资本整合吗？规律吗？做功规律吗？花脉，花士，花肥。The story just begun。</p>
+<p>1bit信息熵 = kln2（J/K）热力学熵。</p>
+<p> namely harmoney between yin and yang. 阴阳中和。Changes of Zhou</p>
+<p>laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe. </p>
+<p>Video 美国自然博物馆人类人口的进化史</p>
+<p>从非洲走向全世界，<br>1 A.D.一亿七千万人170M<br>100 A.D. 176M<br>200 A.D.  182M Silk<br>300 A.D. India 180M<br>500 A.D.177 M Maya Culture<br>610 A.D.  179M Islm<br>775 A.D. ?? 195 M Japan Tianhua<br>800 A.D. Taoist  Huoyao</p>
+<p>1000 A.D.  288 M Zhinanzhen<br>1200 A.D. Menggu  360 M - 380 M<br>1347 A.D.  360 M - 350 M heiniu Sickness<br>1492 A.D. Columbia<br>1760 800 M industry revolution<br>1914-1918  1.7-2.7 Billion<br>2000 A.D. 9.5 Bilion<br>2050   11 billion</p>
+<p>   公元2020年3月开春，两外国人到无稽崖华山峰攀岩寻路，气喘吁吁，无畏前途却绕来绕去，绕回原地，忽见一穿白衣的道长，闭目垂眉，在前面一块磐石上静坐不动。 其中一位白发碧眼，花白胡子的西洋大叔用中文慢慢询问道：<br>「Excuse me，请问您知道上山的路怎么走吗？」<br>　这道士似乎无什么动静，另一位有着中国西域长相，但灰头发，披着长袍大衣的回族兄长补充了一句：<br>「we missed the way to the upward mountains, and we noticed you are siting here to see whether you can help us?」<br>　原来现在赶上新冠疫情，不光中原人士，就是老外都想往山中避一避。</p>
+<p>西方文化看重business sense（尊重商业），主仆意识，艺术品fine art意识，创立bitch精神却出现了文化倒退</p>
+<p>东方文化看重文化教育意识，家庭意识。也有很长时间忽视和误解了自己的文化，但又对文化再认识。</p>
+<p>  道士开口道，「师曰，心不驰则心定，形不劳则精至，神不扰则丹结，妙道得矣。」<br>  两个传教士摇了摇头，似乎没怎么太能听懂。但这位道士似乎领会到二位迷路的困惑，表示愿意带路，抖了抖白衣上的尘土，随即起身和两位一起向上走。</p>
+<p>  华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着<br>念到：</p>
+]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>序</title>
     <url>/2020/06/03/Game/</url>
     <content><![CDATA[<p>Marflower之 GAME：our mission:花脉，花士，花肥的识别</p>
@@ -204,228 +426,6 @@ petal width:    0.1  2.5   1.20  0.76     0.9565  (high!)
         <tag>AI</tag>
         <tag>花数据预测</tag>
         <tag>KNN</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>boke one</title>
-    <url>/2020/07/11/1/</url>
-    <content><![CDATA[<blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
-<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>]]></content>
-      <categories>
-        <category>花脉</category>
-        <category>花士</category>
-        <category>花肥</category>
-      </categories>
-      <tags>
-        <tag>机器学习</tag>
-        <tag>AI</tag>
-        <tag>花数据预测</tag>
-        <tag>KNN</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>my second blog</title>
-    <url>/2019/11/16/my-second-blog/</url>
-    <content><![CDATA[<p>商品分析の手法（ABC分析、アソシエーション分析）<br>ABC分析, アソシエーション分析, 連関分析, マーケットバスケット分析, 商品カテゴリー分析, おむつとビール, レコメンデーション<br>購買予測では、誰が買ってくれそうかを予測するとともに、「どの商品が売れるか」の予測も重要です。ここでは、誰が買ったかのデータがなくても売れ筋商品や死に筋商品を分析したり、この商品と一緒に売れる商品は何なのか等、商品についてのマーケティング施策に活かせる方法をご紹介します。</p>
-<a id="more"></a>
-
-<p>商品カテゴリー分析<br>商品分析にあたって、まず行なわなくてはいけないのが、商品カテゴリー分析です。顧客分析の手法（デシル分析、RFM分析）では顧客をいくつかのグループに分ける手法の一部をご紹介しましたが、同様に商品のグループ分けも非常に重要で、商品の性質を知り、グループ化をします。なぜ商品カテゴリー分析が重要かは、ALBERT独自のCTB分析についてこちらに記してあるので、ご参照いただきたいのですが、商品の分類（大分類、中分類、小分類）は、カタログやホームページの構成、仕入れ先の都合など、企業の管理のために作られたものではなく、どんな商品かがイメージできる、顧客の視点で考案されたカテゴリーで分類されていなくてはなりません。</p>
-<p>購買ランキング<br>購買ランキングは、文字通り「売れた順にデータを並べ替える」作業です。最も簡単なランキングは、商品コード（SKU）を降順に並べる方法ですが、商品コードを並べただけでは、充分なインサイトを得られない事があります。商品コードが異なるが値引き販売やセット販売などで別の商品コードが使われていたために、正しい数値になっていない場合などです。購買ランキングを見るときにも、まずはデータをよく見て、目的に合った集計をしなくてはなりません。</p>
-<p>Webサイト運営に関するKPI指標例：<br>自然検索トラフィック数<br>セッション数<br>リピーター数<br>ページビュー数<br>ページごとのセッション数<br>平均セッション時間<br>直帰率</p>
-<p>ソーシャルメディアに関するKPI指標例：<br>ソーシャルメディア毎のトラフィック数<br>リードへの転換に貢献したソーシャルメディアチャネル<br>顧客化に貢献したソーシャルメディア<br>ソーシャルメディアのフォロワー数の増加率<br>Facebookへの「いいね」の数の増加（Twitter、LinkedIn）<br>チャネル毎のエンゲージメントの高さ（リツート数 / いいね / シェア / コメント）</p>
-<p>モバイルに関するKPI指標例：<br>モバイルからのトラフィック数<br>モバイルからの流入によるリード獲得数<br>モバイルに最適化されたランディングページのコンバージョン率<br>モバイルごとのトラフィック数（タブレット or スマートフォン）<br>モバイルからのバウンス率</p>
-]]></content>
-      <tags>
-        <tag>self-introduction</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>517Sushi</title>
-    <url>/2019/11/16/517Sushi/</url>
-    <content><![CDATA[<p>今天在娄山关路吃了寿司🍣。</p>
-<a id="more"></a>
-
-<p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/psb1.jpeg" alt=""></p>
-<ul>
-<li>Anna Chen </li>
-<li>Sushi</li>
-</ul>
-<iframe width="854" height="480" src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4" frameborder="0" allowfullscreen></iframe>
-<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"video":{"url":"https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-<iframe src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"  height="580" quality="high" > </iframe>
-
-<h1 id="以及标题"><a href="#以及标题" class="headerlink" title="以及标题"></a>以及标题</h1>]]></content>
-      <tags>
-        <tag>ABC, DEF</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于“人，货，场“的KPI指标在Marketing Mix中的应用</title>
-    <url>/2019/11/16/my-first-blog/</url>
-    <content><![CDATA[<ol>
-<li><p>一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。</p>
-</li>
-<li><p>要加粗的文字左右分别用两个<em>号包起来<br>要倾斜和加粗的文字左右分别用三个</em>号包起来<br>要加删除线的文字左右分别用两个~~号包起来</p>
-</li>
-<li><p>在引用的文字前加&gt;即可。</p>
-<a id="more"></a></li>
-<li><p>分割线:三个或者三个以上的 - 或者 * 都可以。</p>
-</li>
-<li><p>图片![图片alt](图片地址 ‘’图片title’’)</p>
-<p> 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。<br> 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加<br> 示例: ![blockchain](<a href="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/" target="_blank" rel="noopener">https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/</a></p>
-<pre><code>u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg &quot;区块链&quot;)</code></pre><p> 上传本地图片直接点击导航栏的图片标志，选择图片即可</p>
-</li>
-<li><p><a href="超链接地址" title="超链接title">超链接名</a><br> title可加可不加<br> <a href="http://jianshu.com" target="_blank" rel="noopener">简书</a><br> <a href="http://baidu.com" target="_blank" rel="noopener">百度</a></p>
-<p> 注：Markdown本身语法不支持链接在新页面中打开，貌似简书做了处理，是可以的。别的平台可能就不行了，如果想    要在新页面中打开的话可以用html语言的a标签代替。<br> <a href="超链接地址" target="_blank">超链接名</a><br> 示例<br> <a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">简书</a></p>
-</li>
-<li><p>无序列表用 - + * 任何一种都可以<br>有序列表: 数字加点<br>列表嵌套：上一级和下一级之间敲三个空格即可</p>
-</li>
-<li><p>表格<br>表头|表头|表头</p>
-</li>
-</ol>
-<p>—|:–:|—:<br>内容|内容|内容<br>内容|内容|内容</p>
-<p>第二行分割表头和内容。</p>
-<ul>
-<li>有一个就行，为了对齐，多加了几个<br>文字默认居左</li>
-<li>两边加：表示文字居中</li>
-<li>右边加：表示文字居右<br>注：原生的语法两边都要用 | 包起来。此处省略</li>
-</ul>
-<p>示例：<br>姓名|技能|排行<br>–|:–:|–:<br>刘备|哭|大哥<br>关羽|打|二哥<br>张飞|骂|三弟</p>
-<ol start="9">
-<li><p>代码<br>单行代码：代码之间分别用一个反引号包起来<br>代码块：代码之间分别用三个反引号包起来，且两边的反引号单独占一行</p>
-</li>
-<li><p>流程图</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">st&#x3D;&gt;start: 开始</span><br><span class="line">op&#x3D;&gt;operation: My Operation</span><br><span class="line">cond&#x3D;&gt;condition: Yes or No?</span><br><span class="line">e&#x3D;&gt;end</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br><span class="line">&amp;</span><br></pre></td></tr></table></figure>
-
-</li>
-</ol>
-<p>人的指标</p>
-<p>货的指标</p>
-<p>场的指标<br>```</p>
-]]></content>
-      <categories>
-        <category>花脉</category>
-      </categories>
-      <tags>
-        <tag>ABC</tag>
-        <tag>DEF</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>T blog</title>
-    <url>/2019/11/16/t/</url>
-    <content><![CDATA[<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">---公元<span class="number">1320</span>年</span><br><span class="line">     Laugh <span class="keyword">in</span> the Wind!</span><br><span class="line">                Change <span class="keyword">in</span> the world! </span><br><span class="line">  增长，增长，增长！</span><br><span class="line">   无稽崖华山峰下，</span><br><span class="line">      俄见生得骨格不凡，丰神迥异的一</span><br><span class="line">                     僧一道远远而来，</span><br><span class="line">   高僧奏琴，</span><br><span class="line">                 流道吟诗: A.I. 智能生</span><br><span class="line">&lt;!-- more --&gt;</span><br><span class="line">       Devoted friend, play a piece <span class="keyword">of</span> music, </span><br><span class="line">       incisively and vividly，</span><br><span class="line">       No match <span class="keyword">for</span> our laughing <span class="keyword">in</span> the wind.</span><br><span class="line">                Laugh <span class="keyword">in</span> the wind?</span><br><span class="line">  </span><br></pre></td></tr></table></figure>    
-
-<p>  机器学习 花瓣？？—智能—花士，花脉还是花肥</p>
-<p>生命是一个减熵的过程。智能在开放系统中，积极有效地<strong>减熵</strong>做功。（熵：系统中不可逆且永远在增加的无效能量，一个从有序到无序直至死亡的过程。–）</p>
-<a id="more"></a>
-<p>易经有没有减熵的道理？对抗规律 K*log2m m:微观态个数</p>
-<p>$1 + 1 = 2$</p>
-<p>$\text{E} = mc^2$</p>
-<p>$\text{S} = -\sum_iPi*lnPi$</p>
-<p>$\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right)<br>                   = -x[class] + \log\left(\sum_j \exp(x[j])\right)$</p>
-<p><strong>Marflower</strong>    </p>
-<p> Marflower生态中，##花脉##是关于算法modeling的博客，##花士##写一些人物和小故事；而##花肥##是对营销监测的补充。##花裙##是万花筒配套的社交小群，辅助电商/境外电商，介绍一些五湖四海，异国他乡的奇珍异宝。过去以渠道做营销，那现在的media channel算不算渠道呢。流量。现在做用户研究，品牌定位，产品价值，俯瞰全局，多面考量，专注执行。</p>
-<p>64 hexagrams 12 hexagrams </p>
-<p>开放系统，积极做功于规律，更加智能。打破平衡，非线性逻辑。</p>
-<p>逻辑 x 想象力 x人性     科学和艺术的融合。营销：人口，文明，产业，资本整合吗？规律吗？做功规律吗？花脉，花士，花肥。The story just begun。</p>
-<p>1bit信息熵 = kln2（J/K）热力学熵。</p>
-<p> namely harmoney between yin and yang. 阴阳中和。Changes of Zhou</p>
-<p>laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe. </p>
-<p>Video 美国自然博物馆人类人口的进化史</p>
-<p>从非洲走向全世界，<br>1 A.D.一亿七千万人170M<br>100 A.D. 176M<br>200 A.D.  182M Silk<br>300 A.D. India 180M<br>500 A.D.177 M Maya Culture<br>610 A.D.  179M Islm<br>775 A.D. ?? 195 M Japan Tianhua<br>800 A.D. Taoist  Huoyao</p>
-<p>1000 A.D.  288 M Zhinanzhen<br>1200 A.D. Menggu  360 M - 380 M<br>1347 A.D.  360 M - 350 M heiniu Sickness<br>1492 A.D. Columbia<br>1760 800 M industry revolution<br>1914-1918  1.7-2.7 Billion<br>2000 A.D. 9.5 Bilion<br>2050   11 billion</p>
-<p>   公元2020年3月开春，两外国人到无稽崖华山峰攀岩寻路，气喘吁吁，无畏前途却绕来绕去，绕回原地，忽见一穿白衣的道长，闭目垂眉，在前面一块磐石上静坐不动。 其中一位白发碧眼，花白胡子的西洋大叔用中文慢慢询问道：<br>「Excuse me，请问您知道上山的路怎么走吗？」<br>　这道士似乎无什么动静，另一位有着中国西域长相，但灰头发，披着长袍大衣的回族兄长补充了一句：<br>「we missed the way to the upward mountains, and we noticed you are siting here to see whether you can help us?」<br>　原来现在赶上新冠疫情，不光中原人士，就是老外都想往山中避一避。</p>
-<p>西方文化看重business sense（尊重商业），主仆意识，艺术品fine art意识，创立bitch精神却出现了文化倒退</p>
-<p>东方文化看重文化教育意识，家庭意识。也有很长时间忽视和误解了自己的文化，但又对文化再认识。</p>
-<p>  道士开口道，「师曰，心不驰则心定，形不劳则精至，神不扰则丹结，妙道得矣。」<br>  两个传教士摇了摇头，似乎没怎么太能听懂。但这位道士似乎领会到二位迷路的困惑，表示愿意带路，抖了抖白衣上的尘土，随即起身和两位一起向上走。</p>
-<p>  华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着<br>念到：</p>
-]]></content>
-      <categories>
-        <category>花脉</category>
-      </categories>
-      <tags>
-        <tag>ABC</tag>
-        <tag>DEF</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>T2 blog</title>
-    <url>/2019/11/16/t2/</url>
-    <content><![CDATA[<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">---公元<span class="number">1320</span>年</span><br><span class="line">     Laugh <span class="keyword">in</span> the Wind!</span><br><span class="line">                Change <span class="keyword">in</span> the world! </span><br><span class="line">  增长，增长，增长！</span><br><span class="line">   无稽崖华山峰下，</span><br><span class="line">      俄见生得骨格不凡，丰神迥异的一</span><br><span class="line">                     僧一道远远而来，</span><br><span class="line">   高僧奏琴，</span><br><span class="line">                 流道吟诗: A.I. 智能生&lt;!-- more --&gt; </span><br><span class="line">       Devoted friend, play a piece <span class="keyword">of</span> music, </span><br><span class="line">       incisively and vividly，</span><br><span class="line">       No match <span class="keyword">for</span> our laughing <span class="keyword">in</span> the wind.</span><br><span class="line">                Laugh <span class="keyword">in</span> the wind?</span><br><span class="line">  </span><br></pre></td></tr></table></figure>    
-
-<p>  机器学习 花瓣？？—智能—花士，花脉还是花肥</p>
-<a id="more"></a> 
-
-<p>生命是一个减熵的过程。智能在开放系统中，积极有效地<strong>减熵</strong>做功。（熵：系统中不可逆且永远在增加的无效能量，一个从有序到无序直至死亡的过程。–）</p>
-<p>易经有没有减熵的道理？对抗规律 K*log2m m:微观态个数</p>
-<p>$1 + 1 = 2$</p>
-<p>$\text{E} = mc^2$</p>
-<p>$\text{S} = -\sum_iPi*lnPi$</p>
-<p>$\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right)<br>                   = -x[class] + \log\left(\sum_j \exp(x[j])\right)$</p>
-<p><strong>Marflower</strong>    </p>
-<p> Marflower生态中，##花脉##是关于算法modeling的博客，##花士##写一些人物和小故事；而##花肥##是对营销监测的补充。##花裙##是万花筒配套的社交小群，辅助电商/境外电商，介绍一些五湖四海，异国他乡的奇珍异宝。过去以渠道做营销，那现在的media channel算不算渠道呢。流量。现在做用户研究，品牌定位，产品价值，俯瞰全局，多面考量，专注执行。</p>
-<p>64 hexagrams 12 hexagrams </p>
-<p>开放系统，积极做功于规律，更加智能。打破平衡，非线性逻辑。</p>
-<p>逻辑 x 想象力 x人性     科学和艺术的融合。营销：人口，文明，产业，资本整合吗？规律吗？做功规律吗？花脉，花士，花肥。The story just begun。</p>
-<p>1bit信息熵 = kln2（J/K）热力学熵。</p>
-<p> namely harmoney between yin and yang. 阴阳中和。Changes of Zhou</p>
-<p>laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe. </p>
-<p>Video 美国自然博物馆人类人口的进化史</p>
-<p>从非洲走向全世界，<br>1 A.D.一亿七千万人170M<br>100 A.D. 176M<br>200 A.D.  182M Silk<br>300 A.D. India 180M<br>500 A.D.177 M Maya Culture<br>610 A.D.  179M Islm<br>775 A.D. ?? 195 M Japan Tianhua<br>800 A.D. Taoist  Huoyao</p>
-<p>1000 A.D.  288 M Zhinanzhen<br>1200 A.D. Menggu  360 M - 380 M<br>1347 A.D.  360 M - 350 M heiniu Sickness<br>1492 A.D. Columbia<br>1760 800 M industry revolution<br>1914-1918  1.7-2.7 Billion<br>2000 A.D. 9.5 Bilion<br>2050   11 billion</p>
-<p>   公元2020年3月开春，两外国人到无稽崖华山峰攀岩寻路，气喘吁吁，无畏前途却绕来绕去，绕回原地，忽见一穿白衣的道长，闭目垂眉，在前面一块磐石上静坐不动。 其中一位白发碧眼，花白胡子的西洋大叔用中文慢慢询问道：<br>「Excuse me，请问您知道上山的路怎么走吗？」<br>　这道士似乎无什么动静，另一位有着中国西域长相，但灰头发，披着长袍大衣的回族兄长补充了一句：<br>「we missed the way to the upward mountains, and we noticed you are siting here to see whether you can help us?」<br>　原来现在赶上新冠疫情，不光中原人士，就是老外都想往山中避一避。</p>
-<p>西方文化看重business sense（尊重商业），主仆意识，艺术品fine art意识，创立bitch精神却出现了文化倒退</p>
-<p>东方文化看重文化教育意识，家庭意识。也有很长时间忽视和误解了自己的文化，但又对文化再认识。</p>
-<p>  道士开口道，「师曰，心不驰则心定，形不劳则精至，神不扰则丹结，妙道得矣。」<br>  两个传教士摇了摇头，似乎没怎么太能听懂。但这位道士似乎领会到二位迷路的困惑，表示愿意带路，抖了抖白衣上的尘土，随即起身和两位一起向上走。</p>
-<p>  华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着<br>念到：</p>
-]]></content>
-      <categories>
-        <category>花脉</category>
-      </categories>
-      <tags>
-        <tag>机器学习</tag>
-        <tag>AI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>T2 blog</title>
-    <url>/2019/11/16/t%E7%9A%84%E5%89%AF%E6%9C%AC/</url>
-    <content><![CDATA[<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">---公元<span class="number">1320</span>年</span><br><span class="line">     Laugh <span class="keyword">in</span> the Wind!</span><br><span class="line">                Change <span class="keyword">in</span> the world! </span><br><span class="line">  增长，增长，增长！</span><br><span class="line">   无稽崖华山峰下，</span><br><span class="line">      俄见生得骨格不凡，丰神迥异的一</span><br><span class="line">                     僧一道远远而来，</span><br><span class="line">   高僧奏琴，</span><br><span class="line">                 流道吟诗: A.I. 智能生&lt;!-- more --&gt; </span><br><span class="line">       Devoted friend, play a piece <span class="keyword">of</span> music, </span><br><span class="line">       incisively and vividly，</span><br><span class="line">       No match <span class="keyword">for</span> our laughing <span class="keyword">in</span> the wind.</span><br><span class="line">                Laugh <span class="keyword">in</span> the wind?</span><br><span class="line">  </span><br></pre></td></tr></table></figure>    
-
-<p>  机器学习 花瓣？？—智能—花士，花脉还是花肥</p>
-<a id="more"></a> 
-
-<p>生命是一个减熵的过程。智能在开放系统中，积极有效地<strong>减熵</strong>做功。（熵：系统中不可逆且永远在增加的无效能量，一个从有序到无序直至死亡的过程。–）</p>
-<p>易经有没有减熵的道理？对抗规律 K*log2m m:微观态个数</p>
-<p>$1 + 1 = 2$</p>
-<p>$\text{E} = mc^2$</p>
-<p>$\text{S} = -\sum_iPi*lnPi$</p>
-<p>$\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right)<br>                   = -x[class] + \log\left(\sum_j \exp(x[j])\right)$</p>
-<p><strong>Marflower</strong>    </p>
-<p> Marflower生态中，##花脉##是关于算法modeling的博客，##花士##写一些人物和小故事；而##花肥##是对营销监测的补充。##花裙##是万花筒配套的社交小群，辅助电商/境外电商，介绍一些五湖四海，异国他乡的奇珍异宝。过去以渠道做营销，那现在的media channel算不算渠道呢。流量。现在做用户研究，品牌定位，产品价值，俯瞰全局，多面考量，专注执行。</p>
-<p>64 hexagrams 12 hexagrams </p>
-<p>开放系统，积极做功于规律，更加智能。打破平衡，非线性逻辑。</p>
-<p>逻辑 x 想象力 x人性     科学和艺术的融合。营销：人口，文明，产业，资本整合吗？规律吗？做功规律吗？花脉，花士，花肥。The story just begun。</p>
-<p>1bit信息熵 = kln2（J/K）热力学熵。</p>
-<p> namely harmoney between yin and yang. 阴阳中和。Changes of Zhou</p>
-<p>laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe. </p>
-<p>Video 美国自然博物馆人类人口的进化史</p>
-<p>从非洲走向全世界，<br>1 A.D.一亿七千万人170M<br>100 A.D. 176M<br>200 A.D.  182M Silk<br>300 A.D. India 180M<br>500 A.D.177 M Maya Culture<br>610 A.D.  179M Islm<br>775 A.D. ?? 195 M Japan Tianhua<br>800 A.D. Taoist  Huoyao</p>
-<p>1000 A.D.  288 M Zhinanzhen<br>1200 A.D. Menggu  360 M - 380 M<br>1347 A.D.  360 M - 350 M heiniu Sickness<br>1492 A.D. Columbia<br>1760 800 M industry revolution<br>1914-1918  1.7-2.7 Billion<br>2000 A.D. 9.5 Bilion<br>2050   11 billion</p>
-<p>   公元2020年3月开春，两外国人到无稽崖华山峰攀岩寻路，气喘吁吁，无畏前途却绕来绕去，绕回原地，忽见一穿白衣的道长，闭目垂眉，在前面一块磐石上静坐不动。 其中一位白发碧眼，花白胡子的西洋大叔用中文慢慢询问道：<br>「Excuse me，请问您知道上山的路怎么走吗？」<br>　这道士似乎无什么动静，另一位有着中国西域长相，但灰头发，披着长袍大衣的回族兄长补充了一句：<br>「we missed the way to the upward mountains, and we noticed you are siting here to see whether you can help us?」<br>　原来现在赶上新冠疫情，不光中原人士，就是老外都想往山中避一避。</p>
-<p>西方文化看重business sense（尊重商业），主仆意识，艺术品fine art意识，创立bitch精神却出现了文化倒退</p>
-<p>东方文化看重文化教育意识，家庭意识。也有很长时间忽视和误解了自己的文化，但又对文化再认识。</p>
-<p>  道士开口道，「师曰，心不驰则心定，形不劳则精至，神不扰则丹结，妙道得矣。」<br>  两个传教士摇了摇头，似乎没怎么太能听懂。但这位道士似乎领会到二位迷路的困惑，表示愿意带路，抖了抖白衣上的尘土，随即起身和两位一起向上走。</p>
-<p>  华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着<br>念到：</p>
-]]></content>
-      <categories>
-        <category>花脉</category>
-      </categories>
-      <tags>
-        <tag>机器学习</tag>
-        <tag>AI</tag>
       </tags>
   </entry>
 </search>
