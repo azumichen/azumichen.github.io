@@ -3,125 +3,20 @@
   <entry>
     <title>序文</title>
     <url>/2020/06/03/1%E8%87%AA%E5%BA%8F/</url>
-    <content><![CDATA[<p>​    <strong>起草</strong></p>
-<p>这本书起草给我的专业–市场营销 marketing science：从营销的起源和故事写起[花士]，总结营销的AI技术[花脉]，再进化到数字生态谈营销管理[花肥]。这本书是我个人专业知识的整理，也是《Marflower》从起草到改进的过程。</p>
-<p>​    我希望这本书能帮助当今企业更健康地发展；同时将知识和实务相结合献给我的母校-筑波大学；也希望这是一本同时面向中国，美国和日本读者的书。</p>
-<p>​    </p>
-<p>さて、「マーケティング」とは何でしょうか。</p>
+    <content><![CDATA[<p>​    さて、「マーケティング」とは何でしょうか。Well, what is Marketing?</p>
 <p>モノやサービスを売ることでしょうか。それとも広告、宣伝、PRのことでしょうか。</p>
 <p>やっている仕事の内容は、ただ広告・宣伝のチラシを作るだけだったり、アンケート調査や商品の販売状況に関する報告書をまとめるだけだったりと、会社によってかなりバラバラのが実態ではないでしょうか。</p>
 <p><strong>无论东西，経済数字はウソをつかない！</strong></p>
 <p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/%E4%B8%96%E7%95%8C%E6%97%B6%E4%BB%A3.jpeg" alt=""></p>
 <p>「世界銀行のGDPデータ」によると、循環しながら、人類の変化の過程において、何を失い、何を獲得してきたかとい う観点から、過去を振り返り、人類の未来を展望する必要がある。古代ギリシアや古代中国の時代から今日に至るまで常に繰り返 し問い続けられてきている。</p>
 <p>正是这样的反反复复，让我们看到了阴和阳，东方和西方的相互依存，不可或缺。让我们开始思考：也许东方文明，西方文明和人工智能加起来，才是整个世界。</p>
+<p>这本书起草给我的专业–市场营销 marketing science：从营销的起源和故事写起[花士]，总结营销的AI技术[花脉]，再进化到数字生态谈营销管理[花肥]。这本书是我个人专业知识的整理，也是《Marflower》从起草到改进的过程。</p>
+<p>​    我希望这本书能帮助当今企业更健康地发展；同时将知识和实务相结合献给我的母校-筑波大学；也希望这是一本同时面向中国，美国和日本读者的书。</p>
 ]]></content>
       <categories>
         <category>花脉</category>
         <category>花士</category>
         <category>花肥</category>
-      </categories>
-      <tags>
-        <tag>机器学习</tag>
-        <tag>AI</tag>
-        <tag>花数据预测</tag>
-        <tag>KNN</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>起点  The origin of marketing</title>
-    <url>/2020/07/12/2%E8%B5%B7%E7%82%B9/</url>
-    <content><![CDATA[<p><strong>生活中的小发现</strong></p>
-<p>​    个人的生活细节中发现，中西文化对人性”desire-mistake-crime“的理解不同。不见得乖巧的欲望在西方有可能被认同并得到考虑。</p>
-<p>​                —–“因腻爱而更感自由，因自由而输得更惨，因自由而创造出新的真理。”</p>
-<p>​    也许这是我们通俗中所说的自由主义，准确地说是西方自由主义。</p>
-<p>​    <strong><em>問い：西方具有商业文明传统，但东方自古以来有没有自由主义的基因呢？</em></strong>  </p>
-<p>​    唐尧时，古歌谣《击壤歌》道：</p>
-<p>​                               “吾日出而作，日入而息，凿井而饮，耕田而食，帝力何有于我哉?”                    </p>
-<p>​    There is a saying that </p>
-<p>​                ———“与西欧的“<strong>城里空气使人自由</strong>”不同，中国却有“<strong>地里空气使人自由</strong>”的东方自由主义。” </p>
-<p>Marflower<strong>**之人类的起源</strong>  </p>
-<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"theme":"#FADFA3","loop":true,"video":{"url":"https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-
-<blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
-<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
-
-
-
-<p>从非洲走向全世界，<br>1 A.D.一亿七千万人170M<br>100 A.D. 176M<br>200 A.D.  182M Silk<br>300 A.D. India 180M<br>500 A.D.177 M Maya Culture<br>610 A.D.  179M Islm<br>775 A.D. ?? 195 M Japan Tianhua<br>800 A.D. Taoist  Huoyao</p>
-<p>1000 A.D.  288 M Zhinanzhen<br>1200 A.D. Menggu  360 M - 380 M<br>1347 A.D.  360 M - 350 M heiniu Sickness<br>1492 A.D. Columbia<br>1760 800 M industry revolution<br>1914-1918  1.7-2.7 Billion<br>2000 A.D. 9.5 Bilion<br>2050   11 billion</p>
-<p>   公元2020年，3月开春，一片寂静，秋日忽然来临，树上全开了红红的花，茂茂密密地随风晃荡。天空真的好高，难得有黄昏的金光。两外国人到无稽崖华山峰攀岩寻路，气喘吁吁，无畏前途却绕来绕去，绕回原地，忽见一穿白衣的道长，闭目垂眉，在前面一块磐石上静坐不动。 其中一位白发碧眼，花白胡子的西洋大叔用中文慢慢询问道：<br>「Excuse me，请问您知道上山的路怎么走吗？」<br>　这道士似乎无什么动静，另一位有着中国西域长相，但灰头发，披着长袍大衣的回族兄长补充了一句：<br>「we missed the way to the upward mountains, and we noticed you are siting here to see whether you can help us?」<br>　原来现在赶上新冠疫情，不光中原人士，就是老外都想往山中避一避。</p>
-<p>  道士开口道，「师曰，心不驰则心定，形不劳则精至，神不扰则丹结，妙道得矣。」<br>  两个传教士摇了摇头，似乎没怎么太能听懂。但这位道士似乎领会到二位迷路的困惑，表示愿意带路，抖了抖白衣上的尘土，随即起身和两位一起向上走。</p>
-<p>  华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着<br>念到：<br>「At mountains of Ararat,<br> God created the heaven and the earth.<br> God bring a flood of waters to destroy the evil livings,<br> Noah, the upright man without sin in his generation<br> save the world by an ark…」</p>
-<p>道长畅谈开来：<br>  「此洪水也淹到了中国，只是你们只是等洪水退落，方舟来救，而尧舜之世并没因洪水而倾动，举出禹来治平了它。」<br>  「Well, well, how did you stop the flood?」回族兄长问。<br> 道长捋了捋胡须，说到，<br>  「井田自然。找到规律，引流」眼前已是绿油油的山峰峰回路转。</p>
-<p>比尔・波特沿着绿峰转了个圈眺望远方，随后接着往下读那本经书：<br>    「Noah begat Shem, Ham and Japheth, and of them was the whole earth overspread. </p>
-<p>  The children of Shem：<br>      Elam, and Asshur, and Arphaxad, and Lud, and Aram,<br>      dwelling from Mesha, goest unto Sephar：Egypt and Mesopotamia。<br>people invent writing in Cuneiform,<br>and Arabian civilization.  </p>
-<p>  The sons of Japheth:<br>Gomer, Magog, Madai, avan, Tubal, Meshech, and Tiras,<br>then developed into Romance, Germanic, Slavicand,<br>construct Indo-European family. </p>
-<p>  And the sons of Ham:<br>Cush, Mizraim, Phut, Canaan, and Heth,<br>Heth formed Persian civilization.<br>immigrated into America, and Far East,<br>Found Khetae, invented Oracle script and formed Chinese civilization. 」</p>
-<p>原来西洋早先巴比伦人曾与中国通谱，中国是诺亚的三大子孙之一， 含的子孙。<br>「Hahahaha，」道长笑道，<br>「闪兄沉迷在古兰，雅弗弟疯狂于资本奴隶的驱动，中国形成井田之时起，大家就各家各宗了。」</p>
-<p>此时天色已暗，绿峰背后，回族外长眼前一亮，是一块巨大石岩上刻着一副地图，List[中华文明，日本文明，印度文明，伊斯兰文明，东正教文明，西方文明，拉丁美洲文明，非洲文明]。</p>
-<p>![image-20200615163655434](/Users/apple/Library/Application Support/typora-user-images/image-20200615163655434.png)     </p>
-<p>​                              图下署名为，亨廷顿,1993 AD。</p>
-<p>Data云：闪兄de<strong>伊斯兰文明</strong>：16亿人口，平均年龄只有20岁出头。 </p>
-<p>​               雅弗后裔的<strong>西方文明</strong>：12亿人口，平均年龄超过40岁。 </p>
-<p>​               以俄罗斯为核心的字<strong>东正教文明</strong>: 辽阔，2亿人口。</p>
-<p>​               含的后裔<strong>中华文明和印度文明</strong>，人口==14亿</p>
-<p>​               <strong>日本文明</strong>: &lt;2亿。</p>
-<p>そうですよね。世界は一つ、経済は一つ。</p>
-<p>人工智能有可能成为自达尔文“物种起源”学说以后对基督教最大的威胁。</p>
-<p> 欲知后事如何，且听下回分解。</p>
-<p>比尔曰：People –Needs—Regions—social productivity–culture／civilization–industry</p>
-]]></content>
-      <categories>
-        <category>花士</category>
-      </categories>
-      <tags>
-        <tag>机器学习</tag>
-        <tag>AI</tag>
-        <tag>花数据预测</tag>
-        <tag>KNN</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>语言 language</title>
-    <url>/2020/07/12/2%E8%AF%AD%E8%A8%80/</url>
-    <content><![CDATA[<p><strong>秦の始皇帝は六国を併呑して，中国を統一した．</strong></p>
-<p>700 A.D. 开始了穿越。A,B,和C三个人穿越到了8世纪的唐朝，那里的人都不是说的北京话，听到唐朝的官话，吴语，日本留学生，中国人民向东南方迁徙。</p>
-<p>中国方言？？？Story-telling  时间序列变化分析图</p>
-<p> 田舍汉</p>
-<p>半书面半口语 切韵音</p>
-<p>洛阳地区的语音，南迁金陵地区 洛阳河北地区 </p>
-<p>中间地区形成中原音 金陵洛下音。《切韵》</p>
-<p>长安关中地区 文化地位不高</p>
-<p>『<strong>切韻</strong>』（せついん）とは、隋の文帝の仁寿元年（601年）の序がある、陸法言によって作られた韻書。唐の科挙の作詩のために広く読まれた。最初は193韻の韻目が立てられていた。陸法言の序によれば、開皇の初め（580年代）に陸法言の家に劉臻ら8人が集まったときに[1]、各地の方言が異なり、既存の韻書も分韻が異なることが問題になった。そこで蕭該・顔之推らが中心になって分韻を決定し、その概略を陸法言が記した。その結果は長く放置されていたが、十数年後に諸字書・韻書に照らして『切韻』5巻にまとめた。</p>
-<p>640 A.D -750 A.D 唐代的经济，人口，需求，地域，文化，演进，创新，形态，政策，时间，更替。</p>
-<p>其实生活中很多名言教条有些表面，</p>
-<p>Be real, be honest. 西方文明鼓励人expressive，但并不是要你不忍耐。</p>
-<p>一个人要隐藏多少秘密，才能顺利地安度此生。</p>
-<p>这句话的真理是：东方文明鼓励含蓄，但并不是要你不诚实。</p>
-<p>我小的时候（其实也不过是5年前都算小时候）就经常理解为表面的意思，后来我学会了联系上下文理解每一个意思才能把话理解全面。但生活中又何尝不是很多人也跟我小时候一样犯同样的错误。这种错误是来自于大众的，来自于底层人民的，而社会意识更多由底层人民形成。</p>
-<p>人类对文化的理解不全面，造成了我们在19世纪到20世纪忽略了中国文化以至中医的价值。而对西方文化的误读，会不会也大量误解西方文化对人类社会的推动。人工智能的发展，会不会也让我们忽略人类文明的价值。</p>
-<p>我指的hot有点接近西方的自由。hot：open，equal，expressive，honest</p>
-<p>东方文化：cold，专制，等级制度，</p>
-<p>日本是极度cold文化里面藏着极度hot。</p>
-<p>中国是东方文化发源的地方，后来中国文化被蒙古，大金，俄罗斯洗刷，进一步走向专制。</p>
-<p>当专制和含蓄出了问题的时候，又会走向西方的民主自由；当西方的民主自由出了问题的时候，又会走向东方的含蓄专制。</p>
-<p>且听下回分解，周期。</p>
-]]></content>
-      <categories>
-        <category>花脉</category>
-      </categories>
-      <tags>
-        <tag>ABC</tag>
-        <tag>DEF</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GAME!</title>
-    <url>/2020/07/12/4GAME/</url>
-    <content><![CDATA[<pre><code>花脉，花士，花肥的识别</code></pre><p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8701.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8702.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8703.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/marflowerdistribution.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8708.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8709.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8710.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8711.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8712.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8713.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8714.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8715.jpg" alt=""></p>
-]]></content>
-      <categories>
-        <category>花脉</category>
       </categories>
       <tags>
         <tag>机器学习</tag>
@@ -280,6 +175,75 @@
       </tags>
   </entry>
   <entry>
+    <title>GAME!</title>
+    <url>/2020/07/12/4GAME/</url>
+    <content><![CDATA[<pre><code>花脉，花士，花肥的识别</code></pre><p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8701.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8702.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8703.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/marflowerdistribution.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8708.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8709.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8710.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8711.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8712.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8713.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8714.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8715.jpg" alt=""></p>
+]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>AI</tag>
+        <tag>花数据预测</tag>
+        <tag>KNN</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>起点  The origin of marketing</title>
+    <url>/2020/07/12/2%E8%B5%B7%E7%82%B9/</url>
+    <content><![CDATA[<p><strong>生活中的小发现</strong></p>
+<p>​    个人的生活细节中发现，中西文化对人性”desire-mistake-crime“的理解不同。不见得乖巧的欲望在西方有可能被认同并得到考虑。</p>
+<p>​                —–“因腻爱而更感自由，因自由而输得更惨，因自由而创造出新的真理。”</p>
+<p>​    也许这是我们通俗中所说的自由主义，准确地说是西方自由主义。</p>
+<p>​    <strong><em>問い：西方具有商业文明传统，但东方自古以来有没有自由主义的基因呢？</em></strong>  </p>
+<p>​    唐尧时，古歌谣《击壤歌》道：</p>
+<p>​                               “吾日出而作，日入而息，凿井而饮，耕田而食，帝力何有于我哉?”                    </p>
+<p>​    There is a saying that </p>
+<p>​                ———“与西欧的“<strong>城里空气使人自由</strong>”不同，中国却有“<strong>地里空气使人自由</strong>”的东方自由主义。” </p>
+<p>Marflower<strong>**之人类的起源</strong>  </p>
+<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"theme":"#FADFA3","loop":true,"video":{"url":"https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+
+<blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
+
+
+
+<p>从非洲走向全世界，<br>1 A.D.一亿七千万人170M<br>100 A.D. 176M<br>200 A.D.  182M Silk<br>300 A.D. India 180M<br>500 A.D.177 M Maya Culture<br>610 A.D.  179M Islm<br>775 A.D. ?? 195 M Japan Tianhua<br>800 A.D. Taoist  Huoyao</p>
+<p>1000 A.D.  288 M Zhinanzhen<br>1200 A.D. Menggu  360 M - 380 M<br>1347 A.D.  360 M - 350 M heiniu Sickness<br>1492 A.D. Columbia<br>1760 800 M industry revolution<br>1914-1918  1.7-2.7 Billion<br>2000 A.D. 9.5 Bilion<br>2050   11 billion</p>
+<p>   公元2020年，3月开春，一片寂静，秋日忽然来临，树上全开了红红的花，茂茂密密地随风晃荡。天空真的好高，难得有黄昏的金光。两外国人到无稽崖华山峰攀岩寻路，气喘吁吁，无畏前途却绕来绕去，绕回原地，忽见一穿白衣的道长，闭目垂眉，在前面一块磐石上静坐不动。 其中一位白发碧眼，花白胡子的西洋大叔用中文慢慢询问道：<br>「Excuse me，请问您知道上山的路怎么走吗？」<br>　这道士似乎无什么动静，另一位有着中国西域长相，但灰头发，披着长袍大衣的回族兄长补充了一句：<br>「we missed the way to the upward mountains, and we noticed you are siting here to see whether you can help us?」<br>　原来现在赶上新冠疫情，不光中原人士，就是老外都想往山中避一避。</p>
+<p>  道士开口道，「师曰，心不驰则心定，形不劳则精至，神不扰则丹结，妙道得矣。」<br>  两个传教士摇了摇头，似乎没怎么太能听懂。但这位道士似乎领会到二位迷路的困惑，表示愿意带路，抖了抖白衣上的尘土，随即起身和两位一起向上走。</p>
+<p>  华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着<br>念到：<br>「At mountains of Ararat,<br> God created the heaven and the earth.<br> God bring a flood of waters to destroy the evil livings,<br> Noah, the upright man without sin in his generation<br> save the world by an ark…」</p>
+<p>道长畅谈开来：<br>  「此洪水也淹到了中国，只是你们只是等洪水退落，方舟来救，而尧舜之世并没因洪水而倾动，举出禹来治平了它。」<br>  「Well, well, how did you stop the flood?」回族兄长问。<br> 道长捋了捋胡须，说到，<br>  「井田自然。找到规律，引流」眼前已是绿油油的山峰峰回路转。</p>
+<p>比尔・波特沿着绿峰转了个圈眺望远方，随后接着往下读那本经书：<br>    「Noah begat Shem, Ham and Japheth, and of them was the whole earth overspread. </p>
+<p>  The children of Shem：<br>      Elam, and Asshur, and Arphaxad, and Lud, and Aram,<br>      dwelling from Mesha, goest unto Sephar：Egypt and Mesopotamia。<br>people invent writing in Cuneiform,<br>and Arabian civilization.  </p>
+<p>  The sons of Japheth:<br>Gomer, Magog, Madai, avan, Tubal, Meshech, and Tiras,<br>then developed into Romance, Germanic, Slavicand,<br>construct Indo-European family. </p>
+<p>  And the sons of Ham:<br>Cush, Mizraim, Phut, Canaan, and Heth,<br>Heth formed Persian civilization.<br>immigrated into America, and Far East,<br>Found Khetae, invented Oracle script and formed Chinese civilization. 」</p>
+<p>原来西洋早先巴比伦人曾与中国通谱，中国是诺亚的三大子孙之一， 含的子孙。<br>「Hahahaha，」道长笑道，<br>「闪兄沉迷在古兰，雅弗弟疯狂于资本奴隶的驱动，中国形成井田之时起，大家就各家各宗了。」</p>
+<p>此时天色已暗，绿峰背后，回族外长眼前一亮，是一块巨大石岩上刻着一副地图，List[中华文明，日本文明，印度文明，伊斯兰文明，东正教文明，西方文明，拉丁美洲文明，非洲文明]。</p>
+<p>![image-20200615163655434](/Users/apple/Library/Application Support/typora-user-images/image-20200615163655434.png)     </p>
+<p>​                              图下署名为，亨廷顿,1993 AD。</p>
+<p>Data云：闪兄de<strong>伊斯兰文明</strong>：16亿人口，平均年龄只有20岁出头。 </p>
+<p>​               雅弗后裔的<strong>西方文明</strong>：12亿人口，平均年龄超过40岁。 </p>
+<p>​               以俄罗斯为核心的字<strong>东正教文明</strong>: 辽阔，2亿人口。</p>
+<p>​               含的后裔<strong>中华文明和印度文明</strong>，人口==14亿</p>
+<p>​               <strong>日本文明</strong>: &lt;2亿。</p>
+<p>そうですよね。世界は一つ、経済は一つ。</p>
+<p>人工智能有可能成为自达尔文“物种起源”学说以后对基督教最大的威胁。</p>
+<p> 欲知后事如何，且听下回分解。</p>
+<p>比尔曰：People –Needs—Regions—social productivity–culture／civilization–industry</p>
+]]></content>
+      <categories>
+        <category>花士</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>AI</tag>
+        <tag>花数据预测</tag>
+        <tag>KNN</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>终点</title>
     <url>/2020/07/12/8%E7%BB%88%E7%82%B9/</url>
     <content><![CDATA[<p><strong>Marflower**</strong>之周期**</p>
@@ -354,6 +318,40 @@
 ]]></content>
       <tags>
         <tag>self-introduction</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>语言 language</title>
+    <url>/2020/07/12/2%E8%AF%AD%E8%A8%80/</url>
+    <content><![CDATA[<p><strong>秦の始皇帝は六国を併呑して，中国を統一した．</strong></p>
+<p>700 A.D. 开始了穿越。A,B,和C三个人穿越到了8世纪的唐朝，那里的人都不是说的北京话，听到唐朝的官话，吴语，日本留学生，中国人民向东南方迁徙。</p>
+<p>中国方言？？？Story-telling  时间序列变化分析图</p>
+<p> 田舍汉</p>
+<p>半书面半口语 切韵音</p>
+<p>洛阳地区的语音，南迁金陵地区 洛阳河北地区 </p>
+<p>中间地区形成中原音 金陵洛下音。《切韵》</p>
+<p>长安关中地区 文化地位不高</p>
+<p>『<strong>切韻</strong>』（せついん）とは、隋の文帝の仁寿元年（601年）の序がある、陸法言によって作られた韻書。唐の科挙の作詩のために広く読まれた。最初は193韻の韻目が立てられていた。陸法言の序によれば、開皇の初め（580年代）に陸法言の家に劉臻ら8人が集まったときに[1]、各地の方言が異なり、既存の韻書も分韻が異なることが問題になった。そこで蕭該・顔之推らが中心になって分韻を決定し、その概略を陸法言が記した。その結果は長く放置されていたが、十数年後に諸字書・韻書に照らして『切韻』5巻にまとめた。</p>
+<p>640 A.D -750 A.D 唐代的经济，人口，需求，地域，文化，演进，创新，形态，政策，时间，更替。</p>
+<p>其实生活中很多名言教条有些表面，</p>
+<p>Be real, be honest. 西方文明鼓励人expressive，但并不是要你不忍耐。</p>
+<p>一个人要隐藏多少秘密，才能顺利地安度此生。</p>
+<p>这句话的真理是：东方文明鼓励含蓄，但并不是要你不诚实。</p>
+<p>我小的时候（其实也不过是5年前都算小时候）就经常理解为表面的意思，后来我学会了联系上下文理解每一个意思才能把话理解全面。但生活中又何尝不是很多人也跟我小时候一样犯同样的错误。这种错误是来自于大众的，来自于底层人民的，而社会意识更多由底层人民形成。</p>
+<p>人类对文化的理解不全面，造成了我们在19世纪到20世纪忽略了中国文化以至中医的价值。而对西方文化的误读，会不会也大量误解西方文化对人类社会的推动。人工智能的发展，会不会也让我们忽略人类文明的价值。</p>
+<p>我指的hot有点接近西方的自由。hot：open，equal，expressive，honest</p>
+<p>东方文化：cold，专制，等级制度，</p>
+<p>日本是极度cold文化里面藏着极度hot。</p>
+<p>中国是东方文化发源的地方，后来中国文化被蒙古，大金，俄罗斯洗刷，进一步走向专制。</p>
+<p>当专制和含蓄出了问题的时候，又会走向西方的民主自由；当西方的民主自由出了问题的时候，又会走向东方的含蓄专制。</p>
+<p>且听下回分解，周期。</p>
+]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
+      <tags>
+        <tag>ABC</tag>
+        <tag>DEF</tag>
       </tags>
   </entry>
 </search>
