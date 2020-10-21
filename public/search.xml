@@ -1,41 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>序文</title>
-    <url>/2020/06/03/1%E8%87%AA%E5%BA%8F/</url>
-    <content><![CDATA[<p>​    「さて、「マーケティング」とは何でしょうか。」</p>
-<p>　　</p>
-<p>​    Well, what is Marketing?</p>
-<p>　</p>
+    <title>序- 百花聚会</title>
+    <url>/2020/06/03/1%E7%99%BE%E8%8A%B1%E8%81%9A%E4%BC%9A/</url>
+    <content><![CDATA[<p><strong>《宝记》Marflower</strong> <strong>数字营销：战略</strong>—文化，模型，数字</p>
+<p>Have you ever questioned<br>the nature of your reality??</p>
+<p>いええ.</p>
+<p>Tell us what you think<br>of your world.</p>
+<p>Some people choose to see<br>the ugliness in this world.</p>
+<p>The disarray.</p>
+<p>I choose to see<br>the beauty.</p>
+<a id="more"></a>
+
+<hr>
+<p>@上海　　<strong><em>（小视频，考虑可用上海话录制）</em></strong></p>
+<p><strong>A：</strong>咖啡 低卡，</p>
+<p><strong>Server：</strong>那就喝牛奶好了</p>
+<p><strong>A：</strong>不，那就没有咖啡的味道了，</p>
+<p>​       喜欢享受咖啡的味道，但受不了咖啡后的兴奋感。</p>
+<p><strong>B：</strong>那我们一起去非洲吧？一緒にアフリカへ行こう？</p>
+<hr>
+<p><strong>Marflower之周期</strong></p>
+<blockquote><p>公元1320年<br>     Laugh in the Wind!<br>                Change in the world!<br>  增长，增长，增长！</p>
+<p>更替，减熵，创新，发展   无稽崖华山峰下，<br>      俄见生得骨格不凡，丰神迥异的一<br>                     僧一道远远而来，<br>   高僧奏琴，<br>                 流道吟诗: A.I. 智能生<br>       Devoted friend, play a piece of music,<br>       incisively and vividly，<br>       No match for our laughing in the wind.<br>                Laugh in the wind?</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
+
+<hr>
+<p>1bit信息熵 = kln2（J/K）热力学熵。对抗规律 K*log2m m:微观态个数</p>
+<blockquote>
+<p>$1+1=2$<br>$\text{E} = mc^2$<br>$\text{S} = -\sum_iPi*lnPi$<br>$\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right)<br>           = -x[class] + \log\left(\sum_j \exp(x[j])\right)$</p>
+</blockquote>
+<blockquote><p>$1+1=2$<br>$\text{E} = mc^2$<br>$\text{S} = -\sum_iPi*lnPi$<br>$\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right)<br>                 = -x[class] + \log\left(\sum_j \exp(x[j])\right)$</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
+
+<p>生命是一个减熵的过程。智能在开放系统中，积极有效地<strong>减熵</strong>做功。（熵：系统中不可逆且永远在增加的无效能量，一个从有序到无序直至死亡的过程。–）</p>
+<p>熵减 Changes of Zhou 熵，系统中的无效能量，不可逆，且永远在增加，从有序到无序，直至死亡。开放系统，积极做功于规律，更加智能。打破平衡，非线性逻辑。减熵的终极方向是智能化，所以营销也走向智能化。</p>
 <ul>
-<li>「何が売れるかを知るためには、長年蓄積された勘が大切だ」：<font color=Blue>有人说是直觉告诉我们什么东西卖得好。</font></li>
-</ul>
-<ul>
-<li><p>「良い商品さえ作れば、モノは売れるのだ」：<font color=Blue>只要产品做得好就卖得好。</font></p>
+<li><p>花士： 文化 <strong>新东邪西毒</strong>，<strong>南帝北丐</strong></p>
 </li>
-<li><p>「技術と研究開発こそが全てだ」とか，：<font color=Blue>整体就是技术和研发。</font></p>
+<li><p>花脉：模型 。</p>
 </li>
-<li><p>「マーケティングはアートでありサイエンスではない」等々：<font color=Blue>营销不是科学，而是艺术。</font></p>
-<p> これらは<font color=red>直感的・情緒的なアプローチ</font>にすぎません。</p>
+<li><p>花肥：数字分析 书籍，带货。</p>
 </li>
 </ul>
-<p>  <font color=#008000>我是绿色</font><br>  <font size=5>我是尺寸</font></p>
-<p>  <font color=Blue>营销不是科学，而是艺术。</font></p>
-<p>  <font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font></p>
-<p>トムの机のところに歩いてゆく。ケンはコーヒーを手に持っている。</p>
-<p>ビジネス・スクールでは膨大な具体的事例を集め、分析し、その結果として得られるエッセンスを非常に明確な形で整理し、教えています。</p>
-<p>Kolter告诉我们，市场营销是</p>
-<p>\1.   顾客价值创造：认知，创造，传播，交付顾客价值。是做功于规律，科学和艺术的融合。</p>
-<p>\2.   企业的一套经营理念：以顾客价值为中心，指导企业如何分配资源，如何塑造品牌和盈利。</p>
-<p>\3.   L2C的执行流程：通过KPI控制消费线索到顾客忠诚的流程。</p>
-<p>这个连载的博客是我个人专业知识的整理，也是《Marflower》从起草到改进的过程。将从Anna的知识角度，和您一起夜谈营销。在这个博客里，我们要共同建立一颗大树：</p>
-<p>树分为《花士》，《花脉》，《花肥》三个大主干。</p>
-<p>​    我希望这歌博客同时面向中国，美国和日本读者。但是博客里面会用到普通话(mandarin)，日语，文言文，方言，英语，其他外语，数学语言，计算机语言(javascript, python, C, etc.)等，我的想法是哪种语言能能更准确表达意思，就启用哪种语言来记录。我认为这样做一个有意思的地方是你会发现：人类所有的语言，都只是我们更准确表达意思的符号。</p>
-<p>首先，营销要从经济说起。我们看一下一幅图：</p>
-<p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/%E4%B8%96%E7%95%8C%E6%97%B6%E4%BB%A3.jpeg" alt=""></p>
-<p>「世界銀行のGDPデータ」によると、循環しながら、人類の変化の過程において、何を失い、何を獲得してきたかとい う観点から、過去を振り返り、人類の未来を展望する必要がある。古代ギリシアや古代中国の時代から今日に至るまで常に繰り返 し問い続けられてきている。</p>
-<p>反反复复，让我们看到了阴和阳，东方和西方的相互依存，不可或缺。让我们开始思考：也许东方文明，西方文明和人工智能加起来，才是整个世界。</p>
-<p>经济的起源是需求，需求的来源是人。所以市场营销的起源，追根朔源是—–人类的起源。</p>
+<p>目标：mar-tech爱好者；language爱好者；marketing爱好者；AI/data science爱好者。</p>
+<p>定位： 1. 中国奢侈品，新奢侈品 2. 地域性产品 3. 语言 4， 数字营销</p>
+<table>
+<thead>
+<tr>
+<th align="center">《Marflower》</th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">背景</td>
+<td align="center">从上古文明-新文明-战略的角度写营销                                                                                     市场营销学（Marketing）于20世纪初期产生于美国。</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">产业</td>
+<td align="center">山奇珍宝（上古）・汉货・唐货・蒙古货・地域产品・上海特产・课程・西方奢侈品／丝绸(古罗马奢侈品)・中国奢侈品</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">花脉：模型</td>
+<td align="center">学前： 手工派・小农派・商品派・奢侈派・细工派・资本派・流通派・水利工程派・扶农派・ <br />学后：流通派 <strong>·</strong> 功能派 <strong>·</strong> 管理派 <strong>·</strong> 品牌派 <strong>·</strong> 生活方式派 <strong>·</strong> 竞争派 <strong>·</strong> 价值创新派 <strong>·</strong> CRM/CAM派 <strong>·</strong>  AI派・新文明派         营销组合marketing mix・4Ps・4Cs・6Ps・10Ps・STP+4P+CRM・媒体组合media mix・营销归因 attribution・增量模型Uplift Modeling・随即森林randomForest・决策树decision tree・聚类Clustering・逻辑回归・SoftMax・A/B test・</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">花士：人物</td>
+<td align="center">老子・孔子・孙子・阿切·W·肖(Arch.W.Shaw)・巴特勒(Ralph Star.Bulter)・约翰·B·斯威尼(John B.Swirniy)・赫杰特齐(J.E.Hagerty) <strong>·</strong> 彼得·杜拉克・克拉克(F.E.Clerk) <strong>·</strong> 尼尔博登(Neil Borden)・杰罗姆·麦卡锡（McCarthy） <strong>·</strong> 菲利普<em>·</em>科特勒（Philip Kotler) <strong>·</strong> 梅纳德(Maynard)・贝克曼(Beckman) <strong>·</strong> 乔治·道宁(George S.Downing) <strong>·</strong> 西德尼·莱维 <strong>·</strong> 威廉·莱泽 <strong>·</strong> 大卫·奥格威 <strong>·</strong> 杰克·特劳特 <strong>·</strong> 迈克尔·波特 <strong>·</strong> 普契尼・W. Chan Kim・Renée Mauborgne・Barbara Bund Jackson・</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">花肥：数字分析，书籍，带货</td>
+<td align="center">数据处理・异常值・渠道筛选・渠道展示・调试参数・数据字典・词频统计・关键词挖掘・话题关联・场景关联      《茶经》(陆羽著)《史记・货殖列传》《大秦景教流行中国碑》635 <strong>·</strong>《威尼斯商人》1915・图兰朵・《关于分销的若干问题》1915 <strong>·</strong> 《管理实践》1954<strong>·</strong> 《市场营销学原理》克拉克1942 <strong>·</strong> 《基础营销》(Basic Marketing)1960 <strong>·</strong> 《成果管理》彼得·德鲁克1964・《营销管理：分析、计划、执行和控制》（marketing management）菲利普·科特勒 1967 <strong>·</strong> 《市场营销学原理》梅纳德(Maynard)・贝克曼(Beckman)1952 <strong>·</strong> 《基础市场营销：系统研究法》1971・《定位》杰克·特劳特和艾·里斯1981・《竞争优势》迈克尔·波特（1985）・《国家竞争优势》迈克尔·波特（1990）・全球化的市场》（Globalization of Markets）西奥多·莱维特Theodore Levitt (1983)・《论大市场营销》菲利普·科特勒 (1986)・蓝海战略 W. Chan Kim， Renée Mauborgne (2005)・茅台・五粮液・红旗・海鸥・上海滩・周大福・水井坊・东北虎・夏姿陈・张裕解百纳・瓷器・玉石・书画・紫茶壶・包包・丝巾・香水・美体鞋</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">一带一路</td>
+<td align="center">上海，杭州，台州，温州，武汉，宜昌，重庆，四川，东京，香港，大阪，京都，洛杉矶，纽约，大连</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">话题</td>
+<td align="center">文化产品，中国特色的奢侈品 比如丝绸，蚕丝被，或者旗袍，中国代表服装等。       跟文化搭上边的都可。</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">渠道</td>
+<td align="center">website，抖音，bilbili，youtube，twitter，weibo，weichat，</td>
+</tr>
+</tbody></table>
 ]]></content>
       <categories>
         <category>花脉</category>
@@ -50,12 +135,402 @@
       </tags>
   </entry>
   <entry>
-    <title>起点  The origin of marketing</title>
-    <url>/2020/07/12/2%E8%B5%B7%E7%82%B9/</url>
-    <content><![CDATA[<p>上一章提到市场营销追根朔源是人类的起源. So what is the Origin of Human-being?</p>
-<p><strong>From 考古学派</strong></p>
+    <title>GAME!</title>
+    <url>/2020/07/12/8GAME/</url>
+    <content><![CDATA[<pre><code>花脉，花士，花肥的识别</code></pre><p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8701.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8702.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8703.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/marflowerdistribution.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8708.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8709.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8710.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8711.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8712.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8713.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8714.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8715.jpg" alt=""></p>
+]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>AI</tag>
+        <tag>花数据预测</tag>
+        <tag>KNN</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>产业与资本</title>
+    <url>/2020/07/12/4%E5%94%90/</url>
+    <content><![CDATA[<p><strong>穿越到了唐朝</strong>   唐朝的大数据，花脉／模型，花肥／货品</p>
+<p>唐代手工业发达，同一产品下面品类繁多，各个产地都有自己的特色。唐后期南方丝织业已凌驾于北方之上，“吴蚕万机”，“竞添花样，绫纱妙称江左”。瓷器生产飞跃发展，各地名窑辈出。其他各以质地精良而驰名的手工业品还很多，如襄州的漆器、益州的雕版书籍、湖州的笔、宣州的纸、广州的[上下席]簟〔dian电，竹席〕、扬州的铜镜、织锦等，不胜枚举。被称为“轻货”的手工业品日益增多地参加地区间的交流，这是唐代贩运贸易的一个特点。至于茶叶，在唐代随着“茶道大行”更是大量流转。 自江淮至山东、河北、关中，“舟车相继，所在山积，色额甚多”(《封氏闻见记》卷六)。早期的汇兑制度——“飞钱”，即是为便利茶叶贩运商的需要而在唐后期产生的(售茶后不需提取现钱，可凭券到所需的地点取钱，免除了长途运钱的烦费)。中国历史上第一部茶叶商品学著作——《茶经》(陆羽著)也于唐后期问世。</p>
+<p>唐朝和阿拉伯帝国（和伊斯兰教）形成了7-8世纪的世界格局。</p>
+<p>唐朝的国土面积在8世纪达到了850-1150万平方公里。</p>
+<p>752 A.D. 唐朝的在籍人口达到了5998万人，算上流动人口，总数可能达到了8050万人了。长安街头，络绎不绝。</p>
+<p>724A.D. 阿拉伯帝国的倭马亚王朝的人口增长至约3300万。850A.D.人口达到了6500万，可能超过了同时代的唐朝。</p>
+<p>汉唐时地区间贩运、市场上流转的商品，尽管日用消费品的比例在增加，但商业经营仍以给统治阶级的奢侈性消费服务为主，珍奇名贵之物，大利所在，仍为商人们竞相追逐的第一目标。特别是王朝日趋腐朽，统治阶级腐化日深，奢侈日甚之时，本来已占主要地位的奢侈性贸易更是无限膨胀，而一般人民因日趋贫困，购买力低下，以致日用品贸易不断萎缩。如东汉商业总的不如西汉，但奢侈品行业却生意兴隆(当时王符称之为“淫商”)。洛阳的以贵戚为首的富贵人家，衣服、饮食、车舆、装饰、庐舍，无不淫侈。死后棺材要用江南出产的大楠木，从数千里外运来，工匠雕治，“计一棺之成，功将千万”(王符：《潜夫论》)。西晋时奢侈风尚更超过东汉，“竞鬻无用之货，淫侈之币”的商业，千方百计为统治者的斗奢争侈效劳。当时麦糖被用来洗锅，蜡被当作柴烧，赤石脂拿来泥墙，精美的紫丝布和蜀锦也只是充作步障的料子而已。真是“奢侈之费”，“甚于天灾”。建立在这样的基础之上的商业的繁荣是虚假的繁荣，商业的发展是畸形的，其为消费服务的职能被严重扭曲了。唐后期也是奢侈日甚，奢侈性贸易畸形发展，与唐前期比，商业的繁荣也不无虚假的成分。由市之奢俭，可睹国之治乱，在中国历史上差不多已成为一种规律性的现象了。</p>
+<p>唐时京兆郡共有36万多户，人口二倍于汉时的西京长安，是最大的商业和对西域贸易的中心，“四方珍奇，皆所积集”。东都洛阳，漕船所聚，为南北物资交流的枢纽，“商贾贸易车马填塞于市”。唐前期北方有所谓“六雄”、“十望”之称，运河边上的汴州(开封)，“舟车辐凑、人庶浩繁”，即是“六雄”之一。在北方商业占领先地位的情况下，南方商业城市也有相当的发展，如扬州、楚州、苏州、鄂州(武昌)、升州(南京)、杭州、越州(绍兴)、广州等地商业更盛于昔时。唐后期，随着南方经济的进一步开发，10万户左右的州郡在南方多了起来。如苏杭二州元和时户数即各达10万，分别比开元时增加1/4和近50%。最突出的是扬州，已上升为全国第一个大商业城市，“商贾如织”，“富庶甲天下”；由于漕运所经，江淮荆湖岭南物产于此集散。扬州本身就有发达的手工业，而且盐铁转运使治所设置在这里，海盐贸易以此为中心，所以其商业发展特快，“舟车日夜灌输京师，居天下之十七”(宋时沈括语，见《舆地纪胜》所引)，“扬一益二”之誉实非虚语(益是成都)。南方城市商业的快速发展，从一个方面反映了中国经济重心逐渐南移的历史过程。</p>
+<p>班固在《两都赋》中所写的“九市开场，货别隧分，人不得顾，车不得旋”，正是指长安市内按商品分列肆，买卖拥挤的情景(到东汉时还是如此)。市列内的房舍铺席都由官府设置，凡利用这些设施在市内营业的商人，都要向官府登记，列入“市籍”，交纳“市租”。其他大中城市也和长安一样设有“市”，如宛市、洛阳市、临淄市、成都市、吴郡市、平阳市等；县城里一般也有“市”，但规模较小(未必每天开市)。驻军之所亦有“军市”之设。当时的市租收入归皇帝或封君私用。如西汉的临淄市因商业发达，年收市租达千金之巨。</p>
+<p>经营同类商品的店铺仍集中在同一街区内，不能杂设，同业店铺的街区叫做“行”(相当于汉时的列、行、次、肆)，各行各业的“行”字就是从这同业街区的“行”字引用过来的。长安东市共有220行，其中如肉行、铁行、绢行、织绉锦行、鞦辔〔pei佩，缰绳；鞦指皮条等〕行、秤行、鱼行、药行、烛行、金银行等。汉代大城市经营商品不过30几类，唐代市上行数之多表明商品种类比以前大为增加。汉代的“肆”字在唐代已变成零售网点——店铺之意，每个行包括几个、十几个以至几十个肆。长安东市一次失火即烧了24个行，4000多个肆。洛阳南市有120行3000多肆。同一行内的许多肆形成一种组织，也称为“行”，各行的成员叫“行人”、“行户”，行有“行头”(“行首”、“行长”)，对官府办理纳税和交涉其他事情，官府通过他们控制各行。</p>
+<p>中国商人巨大的远航船常到南洋、印度的南部东西两岸、波斯湾北岸、红海一带去贸易。东海贸易亦有所发展。 日本与唐政府之间起先采取传统的贡献与回赐的交易形式，后来特许的商船也互相进行贸易往来。除由登州经朝鲜去日本外，从扬州出长江口或从明州(宁波)出航利用季候风也可到日本。朝鲜半岛上的新罗商人来贸易的很多，北起登、莱，南至楚、泗，都有他们的足迹。唐后期海上贸易的进一步发展更使扬州成为东南海舶停泊的最终港口(当时扬州地势与今不同，海船可入)，大食、波斯的商船自广州，北航经泉州，直达扬州(货物不再取陆路越大庾岭)；扬州交易之盛不亚于广州。</p>
+<p>在对外贸易中，从西方和南海诸国进口的商品主要仍是香药、珠宝、犀角、象牙、禽兽，再加皮毛、吉贝(棉布)；从日本输入的有硫黄、砂金、漆器等物；从朝鲜则输入牛、马、麻、布、折扇等物。输出商品除了传统的丝织品和瓷器外，还有弓、矢、刀、铜器、铁器、纸、笔、绣货、药材、书籍等。波斯人称来自中国的铜器为“中国铜”，肉桂为“中国树”。中国的茶叶和茶种开始传入日本；四大发明之一的造纸术也在唐时传入阿拉伯，以后再通过大食传到埃及、摩洛哥和欧洲，为世界的文化作出了巨大的贡献。</p>
+<p>在中国的士，农，工，商职业排序中，商人排在了最后。但商业通过自己的努力，积累了可观的财富，做出了巨大的贡献。唐代的商人多数都是坐商，西市坐等批发商来进货，成就了很多长安富豪。</p>
+<p>初唐时期，经营丝绸和酒店生意的长安首富邹凤炽</p>
+<p>开元年间，敢于向皇帝炫富的珠宝商王元宝。</p>
+<p><strong>阿拉伯——唐</strong></p>
+<p>从公元635年到中国，在广州井市卖玻璃，珠宝，胡瓜，番茄。也要穿越到2020年赶上终南山寻道大会。信仰东正教，语言；东瀛 语言 产业 资本整合 4P 看到百花齐放 </p>
+<p>公元753年，遣唐使藤原清河带领船队从扬州返回日本</p>
+<p>700 A.D. 开始了穿越。A,B,和C三个人穿越到了8世纪的唐朝，那里的人都不是说的北京话，听到唐朝的官话，吴语，日本留学生，中国人民向东南方迁徙。</p>
+<p>战国波斯话，西汉罗马话，唐东瀛话／切韵音（吴），明朝英语（莎士比亚），道长现代中文。</p>
+<p>中国方言？？？Story-telling  时间序列变化分析图</p>
+<p> 田舍汉</p>
+<p>半书面半口语 切韵音</p>
+<p>洛阳地区的语音，南迁金陵地区 洛阳河北地区 </p>
+<p>中间地区形成中原音 金陵洛下音。《切韵》</p>
+<p>长安关中地区 文化地位不高</p>
+<p>『<strong>切韻</strong>』（せついん）とは、隋の文帝の仁寿元年（601年）の序がある、陸法言によって作られた韻書。唐の科挙の作詩のために広く読まれた。最初は193韻の韻目が立てられていた。陸法言の序によれば、開皇の初め（580年代）に陸法言の家に劉臻ら8人が集まったときに[1]、各地の方言が異なり、既存の韻書も分韻が異なることが問題になった。そこで蕭該・顔之推らが中心になって分韻を決定し、その概略を陸法言が記した。その結果は長く放置されていたが、十数年後に諸字書・韻書に照らして『切韻』5巻にまとめた。</p>
+<p>640 A.D -750 A.D 唐代的经济，人口，需求，地域，文化，演进，创新，形态，政策，时间，更替。</p>
+<p><strong>学习吴语的意义</strong></p>
+<p><strong>花士</strong>：老子，孔子，孙子，韩非子，</p>
+<p>花脉**：道德经模型，孙子兵法，</p>
+<p><strong>花肥</strong>： 壁画，东非特产， 金字塔公园， 其外有炎火之山， 撒哈拉沙漠，运河，尼罗河，乞力马扎罗山，玉米，纺织，丝织业。黄河流域，长江流域，养蚕，各级贵族。衣服，丝绸，礼物，祭祀，丝绸，矿石，植物，提纯，染料，制漆业。花生，胭脂红，扶木–仙人掌，墨西哥书法，武当山的时刻，甲骨文的符号，哲学中的二元论来自于阴阳，科罗拉多大峡谷，流金铄石的壮美风光，</p>
+<p>​                                                                                                                                                            <strong>The End.</strong> </p>
+]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
+      <tags>
+        <tag>DEF</tag>
+        <tag>language</tag>
+        <tag>Tang</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>先秦文明</title>
+    <url>/2020/10/20/2%E5%85%88%E7%A7%A6/</url>
+    <content><![CDATA[<p><strong>先秦：</strong></p>
+<p>从网上收集关于《圣经》和《山海经》的数据：</p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E4%B8%8A%E6%B5%B7%E7%BB%8F%E7%9F%A5%E4%B9%8E%E5%A4%A7%E6%95%B0%E6%8D%AE.png" alt="image-20201021084727451"></p>
+<p>山海经：</p>
+<ul>
+<li><p>华夏说：Xx条评论，xx个文字</p>
+</li>
+<li><p>世界圈：Xx条评论，xx个文字</p>
+</li>
+<li><p>局部区域：Xx条评论，xx个文字</p>
+</li>
+</ul>
+<p><strong>大数据的趋势： <font color=Blue>《山海经》是世界圈，《圣经》是史书。</font></strong></p>
+<p>ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー</p>
+<p>《山海经》全书篇幅为三万多字，包含18个章节，分为《山经》、《海外经》、《海内经》、《大荒经》四部分，依南、西、北、东等方位分篇。</p>
+<p>一共有26座山系，606座山。264条水道：</p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E5%B1%B1%E4%B8%8E%E6%B0%B4.jpg" alt="山与水"></p>
+<p>异兽、奇鸟、奇鱼分别是171种、99种、52种。怪木、药用奇草分别有130种与60种。</p>
+<p>《山海经》里的奇国一共有126个。ps. 远古时期的国更多是指人所聚集、生活的地区。</p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E5%B1%B1%E6%B5%B7%E7%BB%8F%E5%A5%87%E5%9B%BD%E5%9B%BE.png" alt="f1f9def7-5ef2-4f1c-a62c-43ed01541e0f"></p>
+<p>《山海经》神话人物一共有186个。庞大的神话系统源于先民对于创世神的原始崇拜，主要记载在《海经》中。在创世神中处于至上地位的是天帝，书中通常以“帝”出现。“帝颛顼”“帝俊”“帝尧”“黄帝”等带有称谓的“帝”不同于天帝，是创世神中与人类起源相关的祖先神。</p>
+<p>数据统计发现，在这些有具体称谓的“帝”神中，提及次数最多的是颛顼、帝俊，分别是17次与16次。颛顼后人形成了季禺国、讙头国、叔歜国等诸国，帝俊后裔是歌舞、琴瑟等文化的源头。这意味着，与其他黄帝为中心的神话不同，《山海经》建构的是以<strong>颛顼、帝俊</strong>为主的神话宇宙。</p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E5%B1%B1%E6%B5%B7%E7%BB%8F%E7%A5%9E%E4%BB%99%E5%9B%BE.jpg" alt="山海经神仙图"></p>
+<a id="more"></a>
+
+<p>除男性神之外，还有常羲、羲和等女性神，她们和日月、星宿有直接的联系。两位女性神皆为帝俊之妻，常羲“生十日”且为太阳沐浴，羲和“生月十有二”，且为月亮沐浴。这说明她们在创世神话中也占据极为重要的地位。再如员神磈氏主“司反景”（在太阳西沉时将影子拨到东方），女和月母国的神司日月之长短。足以可见，在先民关于日月星宿的知识中，真实与虚幻并存。   </p>
+<p>《山海经》里记录了神的模样，其外貌与如今常识中的神仙相异，它们多为人面兽身，带有动物的属性，例如“人首蛇身”的女娲、“九首蛇身”的相繇等。</p>
+<p>图腾是原始宗教的形态之一，《山海经》中有大宗的图腾崇拜线索，如日月崇拜、动物崇拜以及祭祀崇拜都可纳入《山海经》的宗教考古之中。远古时期的人类对神与兽类尚处于探索之中，特别是处于怪兽图腾的崇拜，使得神在人的基础之上，拥有了兽的特征。</p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E7%A5%9E%E4%B8%8E%E5%8A%A8%E7%89%A9.png" alt="神与动物"></p>
+<p>对长生不老的追求，在《山海经》中多有体现。“永生”的审美意象在书中反复出现，并以“不死”“延寿”“复生”“化生”四种形式呈现。先民幻想着灵魂不灭，将永生的信念贯穿于书籍始终。“不死”所包含的意向有不死之人、不死之山、不死之国、不死之药等等。“延寿”是突破死亡、寻求长生的方式，书中出现的“乘黄”与“吉量”皆为具有神力的坐骑，乘坐它们便有“乘之寿二千岁”与“乘之寿千岁”的作用。“死即复苏”与“冬死而夏生”等则是“复生”的路径，是通往永生之路，刑天与夏耕虽断首，却依旧能以复生的方式延续生命。“化生”同样在书中反复出现，如夸父“弃杖化林”，女娃溺于东海而化身精卫，都是“化身”的体现。</p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E4%B8%8D%E6%AD%BB.png" alt="不死"></p>
+<p>《帝王世纪》中皇甫谧引用了山海经的数据并加上了自己的评语，比如在讲周人祖先后稷冢的时候，他说“冢去中国三万里”。这里当然不是虚指，因为后面他还提到“四海之内则东西二万八千里。”</p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E5%B8%9D%E7%8E%8B%E4%B8%96%E7%BA%AA%E4%B9%8B%E4%BA%94.jpg" alt="帝王世纪之五"></p>
+<p>禹使大章步自东极，至于西垂，二亿三万三千五百里七十五步。又使竖亥步南极北尽于北垂，二亿三万三千五百里七十五步。四海之内，则东西二万八千里，南北二万六千里。</p>
+<p>古代的亿是十万。据《春秋》古代一里是300步，可以估计为约0.2km，折算后大约4.6万km，这个数据与赤道长度很接近了！也就是说南极到北垂、东极到西垂差不多是整个地球大陆！而四海之内大概是5600km！后稷冢去中国三万里，大概是6000km！在地球仪上划了条线，大概到非洲！！！由此可见，周人祖先根本就不在以中原地区（中国）为中心的四海之内。</p>
+<p>另外，关于古人活动范围小的问题，我们可以坚持一下马拉松长跑！</p>
+<hr>
+<p>180K BC @东非孵化出类人猿 旧（新）石器时代？</p>
+<p>80K BC 人类走出非洲，散布在世界各地</p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E4%B8%8B%E8%BD%BD.jpeg" alt="下载"></p>
+<p>6500BC 埃及尼罗河流域文明 </p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E6%96%87%E5%AD%97%E7%A5%96%E5%85%88.png" alt="image-20201021050459442"></p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E5%9F%83%E5%8F%8A%E6%96%87%E5%AD%97%E6%B1%89%E5%AD%97.png" alt="image-20201021045141734"></p>
+<p><strong>通过大数据判断：伊甸园和昆仑很可能是同一地方</strong></p>
+<p>4223 BC 《创世纪》亚当夏娃=*<em>伏羲女娲 *</em> 智人出现 伊甸园在东方，昆仑在西方</p>
+<p>四条大河 </p>
+<p>泥巴造人</p>
+<p><strong>诸神从昆仑圣地走出</strong>，开始引领人类社会。代表人物：亚当，夏娃，诺亚，亚伯拉罕，伏羲，女娲，西王母，黄帝等。</p>
+<p>禁果，长生不老药。</p>
+<p>木神树，绝天地通。巴别塔，人类的语言发生改变。</p>
+<p>中国圣书：《易经》</p>
+<p>洪水记忆。</p>
+<p>![image-20201005095306255](/Users/apple/Library/Application Support/typora-user-images/image-20201005095306255.png)</p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/%E6%A5%94%E5%BD%A2%E6%96%87%E5%AD%97.png" alt="image-20201021045640382"></p>
+<p>3200 BC：炎帝，黄帝，蚩尤部落时代</p>
+<p>「昔者苍颉作书，而天雨粟，鬼夜哭」</p>
+<p>​     —-汉字的出现，诞生了世界上一个伟大的文明。</p>
+<hr>
+<p>丹麦 Dalbyneder church，发现刑天壁画。炎黄大战。</p>
+<p>刑天与地至此争神，帝段其首，葬之常羊之山。乃以乳为目。–《海外西经》</p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/blemmyes.jpg" alt="blemmyes"></p>
+<p>@贝米斯Blemmyes，埃及的南边，红海的西边。</p>
+<p>​                                                                          ——–希罗多德</p>
+<p><strong>夏</strong>      西亚 the middle of yellow river Eridu Site </p>
+<p>埃及帝国后台：<strong>希伯来人／吐火罗人（炎帝）</strong>—-夏—夏后（夏甲-亚伯拉罕） 亚伯拉罕=炎帝原型</p>
+<p>大夏 = 吐火罗=印欧人indo-europeans=雅利安人Aryans=希伯来人（从北方越过大河的人）Gutian &amp; Xia Dynasty 希伯来人的故乡=哈兰 （伊甸园）</p>
+<p>In the early Bronze age, Tocharians began to engage in long-distance trade along the Amber Road connecting Europe and West Asia. Beginning from the Neplithis period the middle East already developed a center Where masses of high-end luxuries concentrated.  </p>
+<p>海外西经：轩辕国 轩辕山 夏后启出生的地方 楼兰 海外西经</p>
+<p>7.16:轩辕之国在此穷山之际，其不寿者八百岁。早女子国北。人面蛇身，尾交首上。</p>
+<p>轩辕奖</p>
+<p>XUANYUAN’S PEOPLE (XUANYUANMIN) a’¡ <em>TheLand of Xuanyuan lies here at the border of Extremity Mountain. Those who do not enjoy longevity live for eight-hundred years. It is located north of the Land of Women. The people have human faces and snake bodies. Their tails twist above their heads.*397 Xuan- yuan is the personal name of the Yellow Thearch. Extremity Mountain lies just to the north and is a place where people fear to shoot arrows westward for fear of disturbing the thearch’s spirit at Xuanyuan’s Mountain, a square-shaped formation protected on all sides by four snakes. This mountain is also mentioned in chapter 3 as standing 480 *li</em> west of Jade Mountain, where the Queen Mother of the West [nos. 65, 275] lives. Guo Pu regarded it as a dwelling place of the Yellow Thearch as well as the location where he took a wife. Yuan Ke noted that the appearance of these people is characteristic of gods and suggested that they may reflect the form of the Yellow Thearch himself.</p>
+<p><strong>商</strong>    东部沿海</p>
+<p>赫梯帝国后台（吐火罗人）和以色列人击败了夏—-商。以扫（紫色，腓尼基人，龙的传人）凤凰崇拜，殷商  intermarrige between Esau以扫 and Judith简狄（赫梯人）</p>
+<p><strong>龙的传人</strong>：腓尼基人 与汉人（商，希伯来人后裔所建，简狄与以扫）</p>
+<p><strong>周</strong></p>
+<p>周易， 周文王被商纣王关押，发展了文王八卦</p>
+<p>伏羲八卦 —-文王八卦，</p>
+<p>道家的道 = 儒家的无极，佛家的空，耶稣的上帝</p>
+<p>易（伏羲）-周易（周文王）-易传（孔子）-道德经（老子）</p>
+<p>昆仑奴：昆仑之丘 西王母高于周天子</p>
+<p>竹书纪年，周王朝穆天子往西走了三年，拜见西王母  热点：xx次</p>
+<p>​       —《穆天子传》</p>
+<p>西海之南，流沙之濱，赤水之後，黑水之前，有大山，名曰昆侖之丘。有神——人面虎身，有文有尾，皆白——處之。其下有弱水之淵環之，其外有炎火之山，投物輒然。有人，戴勝，虎齒，有豹尾，穴處，名曰西王母。此山萬物盡有。</p>
+<p>​                                 ——-《大荒西经》  –西王母–埃及女法老。</p>
+<p>长生不死—道教</p>
+<p><em>Guideways through Mountains and Seas</em> </p>
+<p>QUEEN MOTHER OF THE WEST (XI-WANGMU) Ë ̋¿ <em>Three hundred fiftyli farther west is Jade Mountain. This is where the Queen Mother of the West dwells. The Queen Mother of the West resembles a human with a leopard’s tail and tiger’s teeth. She is adept at whistling and wears a Sheng-Crown on top of her unkempt hair. She administers calamities from heaven as well as five punishments.*116 This is probably the earliest surviving description of this goddess. She appears here as dwelling not on Mount Kunlun, where she was later located, but on nearby Jade Mountain.  By the Han dynasty, she was recorded as dispensing immortality, usually on Mount Kunlun, and was also paired with the King Father of the East as symbols of yin-and-yang cosmology. Widely represented in Han tomb art, she usually appears as a human rather than as a hybrid, sometimes with some of the creatures mentioned in the *Guideways.</em> In a further phase of development, her image underwent even more refinement in religious Daoism, becoming by the Tang dy- nasty a beautiful goddess dispensing peaches of immortality to various humanized gods and Transcendents at the Yao-Stone Pool on Mount Kunlun。</p>
+<p>\275. QUEEN MOTHER OF THE WEST (XIWANGMU) Ë ̋¿ <em>The Queen Mother of the West leans on a low table, wears a Sheng-Crown, and carries a sta .*471 In contrast to her earlier appearance in chapter 2 [no. 65] at Jade Mountain, the Queen Mother of the West is described more simply here in chapter 12. She is located north of Mount Kunlun toward the beginning of the guideway through the northern lands within the seas, which extends eastward from the northwest corner. In chapter 16, she is recorded again as a god with a human face and a tiger’s body with stripes and a tail, both white, and as dwelling on Mount Kunlun. A further description is appended to this that almost repeats the entry here and adds that she lives in a cave. Both Yuan Ke and Hao Yixing believed that the graph *zhang</em> (“sta ”) was mistakenly addedlater.Theillustrationhere,however,indicatesthesta butnotthelowtable,while also including the leopard’s tail mentioned in the earlier and later entries. Guo Pu tried to resolve the textual discrepancies in the location of the Queen Mother of the West by stating that she had her primary residence on Mount Kunlun with additional residences on other mountains.《大荒西经》  –西王母–埃及女法老。</p>
+<p><strong>《易经》的起源</strong></p>
+<p>把“八卦城”麦加与耶路撒冷的清真寺联系起来，我们似乎感觉到更加浓郁的《易经》文化。</p>
+<p>“八卦图”的源头就在红海两岸</p>
+<p>“八神”就是“Eight Gods”，既“音译”又“意译”的话，我们确实是可以称呼其为“八高”或“八卦”的。( 新浪文化)[编辑：孙鹏]</p>
+<p>很可能在古埃及文明影响的红海区域内，在不同地点的人们在不同时期提供了不同的概念，比如古埃及的四对“夫妇”重点指出了“阴阳合一”，而“巴卡”则提供了名称，耶路撒冷圣城清真寺贡献了“三”、“八”、“圆”。这些思想与概念最后流传入中国之后在西周得以完善，最终成为中国哲学体系里的一部分。这个体系的产生时间非常早，假如有人经过深入研究告诉我此源头可能远达6000年前我也不会吃惊。古埃及的神话动辄就有7000年、10000年的历史。后来，西方也产生过四元说，中国诞生了五行，也诞生了“无为”，“我不争孰与我争”，“自然”的自由主义思想，但五行作为科学普及开来，但西方走向了“因果”和“自由主义”的逻辑思潮。</p>
+<p>64 hexagrams 12 hexagrams《易》道广大，无所不包。namely harmoney between yin and yang. 阴阳中和 laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe.  </p>
+<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/iching.jpg" alt="iching"></p>
+<p>“夏后以玄贝”，夏代用海贝(染黑色)为货币，以后贝币一直广泛使用，直至被金属铸币取代为止。由物物交换到交换媒介——货币的出现，是交换向前发展的标志。</p>
+<p>《左传》中不止一次记述了郑国商人的故事。西周末郑桓公率善经商的商遗民，辟草莱，开荒地，到“洛之东土，河济之南”来建立郑国，破例地解除其奴隶身份，并给予一定的经营自主权，双方还订有一个相互支持的盟誓，所以郑国的私商在春秋前中期就很活跃。公元前627年，郑国商人弦高贩运商品到洛阳去，途中发觉秦军正悄悄经过周、滑，去偷袭郑国。弦高即拿出12头牛和四张熟皮革，伪装奉郑君之命前来犒师；暗中派人回去火速报信。秦军认为郑国已有准备，放弃偷袭计划，灭滑而还。郑君用存国之赏赐与弦高，弦高不受而去。公元前597年，晋国大将荀[上艹下窑]〔ying英〕为楚军俘获，九年后有个来楚经商的郑国商人筹划把囚禁中的荀[上艹下窑]夹藏在货袋里偷运出楚境，计划正待执行，恰好楚国放了荀[上艹下窑]。日后这位商人到晋经商，荀[上艹下窑]仍像对救命恩人一样款待他。商人说我没有功劳，不敢领受这种待遇，就转到齐国经商去了。这两件事说明郑国的经营活动能力很强，在社会上已能发生相当的影响。</p>
+<p>春秋战国时自由商人因经营思想的不同，而分成两种类型：一种是“良商”、“诚贾”，一种是“佞商(奸商)”、“贪贾”。前者不搞投机倒把、囤积居奇，“富好行其德”(范蠡)，以经商为行“仁”术，知“取予”之道(白圭先予后取，在与人方便、好处的前提下，取得合理的利润)，薄利多销，货真价实，买卖公平，信誉卓著，受到人们的欢迎。后者抬价压价，故意扩大供求矛盾，制造价格波动，为牟取暴利而不惜破坏农业生产，影响人民生活；其欺诈掠夺该受人民的憎恶。子贡、范蠡、白圭能较好地处理经商谋利与商业道德的关系，处理取与予(赚钱与服务)的关系，堪称为诚贾的代表。他们的经商理论，诸如：“察时测变、储饶待乏”，“论其多寡、贵贱可测”，“周转从速、薄利厚得”，“完物上种、货求精择”，“知所取予、仁心为质”等内容，实已达到当时最高的水准，对后世也起了深远的良好的影响。</p>
+<p>封建末期的明清时期，商业资本积累空前巨大。各地商人形成许多大大小小的地区性商帮，主要如徽商、晋商、闽商、广商、宁波商、洞庭商、龙游商、江西商、山东商、陕西商，合称“十大商帮”。</p>
+<p>开始时是利用当地原料(竹、木、土)制作手工业品向外推销，或经营本地区的特产(茶、果、木以至丝绸、池盐)，行贾他乡，后来进而贩运四方物资，形成巨大商帮。徽商、晋商、龙游商、洞庭商即属于这种类型。也有的地区本身商品经济较发达，资源(棉花、茶叶、毛皮，以至粮食)较丰富，有大量的手工业品(主要是纺织业以及制瓷业)和剩余农副产品需向外寻求市场，就在这样的物质基础上经营商业，积累资本，形成商帮，再不仅以原来的推销当地产品为限。山东、江西、陕西商属于后一种类型。也有的商帮兴起和对外贸易有关(广商、闽商、宁波商)。商帮经营的最主要的是专利商品茶和盐；棉布、粮食、手工业原料(棉花、丝)和各种地区性的特产品以及舶来品，也无不贩运。大的商帮综合经营各种行业，构成一个整体。如与山西商人并称为秦晋大贾的陕西商人，输粟于边塞(开中)、治盐于淮扬、河东，贩布于吴越，运茶于川蜀。徽商、晋商也莫不如此。晋商是，“服贾于京畿、三江、两湖、岭表、东西北三口，致富皆在数千里或万余里外”(《五台新志》卷二《生计》)。</p>
+<p>义利关系儒家讲得最多。何谓义？“义者宜也”。宜即合理之意，人的行为必须合理，要有义的自觉。孔子说：“君子义以为上”，“君子义以为质”(《论语·阳货、卫灵公》)；孟子说：“义，人路也”(《孟子·告子上》)；荀子说：“夫义者，所以禁人之为恶与奸者也”(《荀子·强国》)。义和仁、礼、智被儒家视为人之“四端”(起点)。如何对待义利的矛盾？儒家的态度是：“义然后取”，“见利思义”，“见得思义”(《论语·宪问、子张》)。“义利两有”(荀子语)，而以义为先，以义为本。商人经商要赚钱、谋利，这个钱、这个利必须来得合理，不能不走正路。晋商说：“君子爱财，生财有道”；“爱财而取之有道”。徽商说：“财自道生，利缘义取”；“生财有大道，以义为利，不以利为利”；“以礼接人，以义应事”；“必轨于正经”，“不舞智以笼人，不专利以取怨”。这些朴素的语言表明了他们(诚贾)还是能掌握正确的义利观，反对取不义之财的。于此实受到儒家思想良好的教益。</p>
+<p>　　这些商人深知，只有讲求商德，才能把生意做长、做稳、做大、做活，否则不管合理不合理，一槌子买卖，狠赚一笔，但信誉丧失，买卖做绝，以后人们不敢来领教了。晋商王文显训诫其子说：“善商者处财货之场，而修高明之行，是故虽利而不污……利以义制，名以清修，各守其业……如此则子孙必昌，身安而家肥富。”他说出了一个道理：经商谨厚重义，可富而经久，合乎商人的最大利益和长远利益。</p>
+<p>昆仑山丘岭口，坐卧着一尊雄狮头似的山峰，顺狮头看去，雄狮拖着绵延起伏的龙身，云雾萦绕着莫测高深的神秘风韵，绵绵婉蜒在皑皑白雪中时隐时现的峦峰，在天空勾勒出了一线伟丽磅礴的轮廓。昆仑山下，安静的湖旁是一片荒芜的飞沙走石，横空出世, 莽昆仑, 阅尽人间春色，飞起玉龙三百万, 搅得周天寒彻。</p>
+<p>MOTTLED FLYING-FISH (WENYAOYU) </p>
+<p>ÂØΩ <em>OnehundredeightylifartherwestisGreatVesselMountain.<br> The Observation River emanates from it and flows west into the Desert of Shifting Sands. In it dwell many Mottled Flying-Fish. Its form resembles a carp with a fish’s body, bird’s wings, blue-black markings, a white head, and a red mouth. It often courses in the Western Sea and swims to the Eastern Sea. The Mottled Flying-Fish flies by night and makes a sound like a Luan-Chicken. It has a sweet-and-sour taste. Eating it can cure insanity. If seen by people, it is an omen of a bountiful harvest throughout the world.*103 The Mot- tled Flying-Fish was considered another delicacy in *The Compendium of Mr. Lü.</em> Its abil- ity to swim or fly from the Western Sea to the Eastern Sea suggests that the Four Seas were regarded as contiguous. </p>
+<p>D I J I A N G “ø <em>Five hundred forty li farther west stands Celestial Mountain. It contains an abundance of metal and jade, and there is green realgar. The Eminent River emanates from it and flows southwest into Hot Valley. There is a god here whose form re- sembles a yellow sack with a red aura like cinnabar. He has six legs and four wings and ex- ists in a state of confusion with no face or eyes. He knows how to sing and dance for he is, in fact, Dijiang.<em>130 Several other versions of this passage classify Dijiang as a divine bird, which may be explained by his ability to sing and dance like the Luan- and Feng-Birds. Through various lines of associative reasoning and linguistic connections, Dijiang has been seen by commentators as related or identical to a personification of cosmogonic chaos known as Hundun. This conclusion is largely based on reading the line “[he] exists in a state of confusion (</em>hundun</em>)” as the proper name Hundun. Hun- dun most notably appears in a fable in the <em>Master Zhuang,</em> though there his name is written with a variant graph: </p>
+<p>The thearch of the Southern Sea was named “Sudden,” the thearch of the Northern Sea was named “Hasty,” and the thearch of the Center was named “Hundun.” Once Sudden and Hasty together paid a visit to Hundun’s domain and were treated most courteously by him. They discussed among themselves how to repay his generosity saying, “All men have seven orifices to see, hear, eat, and breathe. Only he does not. Why not drill them for him?” Every day, they drilled one hole, but after seven days, Hundun died. </p>
+<p>HUMAN-FISH (RENYU) HΩ <em>Twohundredlifarthernortheaststands Dragon-Marquis Mountain. There are no plants or trees here, though much metal and jade. The Bursting River emanates from here and flows eastward into the Yellow River. In it dwell many Human-Fish. They resemble catfish with four legs and make a sound like a baby. Eating it will cure idiocy.</em>210 </p>
+<p>SPIRIT-GUARDIAN (JINGWEI) Î√ <em>Three thousand ninety li farther southeast, then northeast, stands Departing-Doves Mountain. On its heights are many mulberry trees. There is a bird dwelling here whose form resembles a crow with a patterned head, white beak, and red feet. It is called Jingwei and makes a sound like its name. She is the younger daughter of the Flame Thearch named Nüwa. Nüwa was swim- ming in the Eastern Sea when she was unable to return to shore and drowned. She then transformed into the bird Spirit-Guardian and regularly carries twigs and stones from the Western Mountains to fill up the Eastern Sea. The Zhang River emanates from here and flows eastward into the Yellow River.*222 One of the relatively few goddesses recorded in ancient Chinese mythology, Spirit-Guardian’s story has been seen as ex- emplifying the motifs of pathos, revenge, and, perhaps, punishment for trespassing in the territory of a sea god. The poet Tao Qian expressed sympathy with her plight in the tenth of his cycle of poems on reading the *Guideways</em> but saw her desire for revenge as ultimately futile. Later she was considered by Daoists to have become a Transcendent. In modern China, she has been popularized as a symbol of someone refusing to accept defeat.223 </p>
+<p>THE FEATHERED PEOPLE (YUMIN) –¡ <em>The Land of the Feathered People lies farther east of the Wing-Sharing Birds. The people have long heads, and feathers grow on their bodies. In another version, they are said to be located southeast of the Wing-Shar- ing Birds and have long cheeks</em> </p>
+<p>THE NEVER-DYING PEOPLE (BUSIMIN) £∫¡ <em>TheNever- Dying People dwell farther east of the Land of the People with Crossed Shins. They are black and enjoy longevity, never dying. According to another version, they dwell farther east of the Land of the People with Perforated Chests.</em> </p>
+<p>THE LONG-ARMS PEOPLE (CHANGBIMIN)  ̄u¡ <em>The Land of the Long-Arms People lies farther east of the Land of the Zhourao People. They catch fish in the water by grabbing hold of a fish with each hand.*376 Such tribes were also recorded in early sources as dwelling in the south or west, their arms said to span some twenty or thirty feet. Guo Pu cited a reference to these people later preserved in the “Treatise on the Eastern Yi-Barbarians” in the o‹cial *History of the Wei Dynasty</em> (<em>Weishu,</em> 554 c.e.): </p>
+<p>During the Huangchu era (220–226) of the Wei dynasty, Wang Qi (n.d.), the gov- ernor of Xuantu [Korean: Hyönt’o, in modern North Korea-Liaoning-southern Jilin], defeated King Shanshang [Sansang, r. 196–227] of Gaojuli [Koguryö, in modern Korea]. He pursued him past the Land of the Woju Tribe [Ökcho kuk,<br> in modern northeast Korea], whose eastern boundary bordered the sea close to where the sun rises. Wang asked the elders here if there were any people beyond the sea to the east. They replied that a cloth robe was once recovered from the sea. It resembled Chinese clothing, except that the sleeves were thirty feet long—this must have belonged to one of the Long-Arms People. </p>
+<p>Hao Yixing believed that the statement about their grasping fish in each hand re- ferred to how they were depicted in the early illustrations.377 </p>
+<p>THE XIA SOVEREIGN QI (XIAHOU QI) LZ“ <em>On the Plain of the Grand Music, the Xia Sovereign Qi danced “The Nine Dai Dances.” He rode on two dragons, and the clouds formed a canopy for him three layers high. In his left hand he held a feathered pennant, in his right, a jade ring, and he wore a jade semicircle from his belt. This is north of the Mountain of the Grand Movement. According to another ver<em>sion, this occurred on the Plain of the Great Bestowal.</em>380 The Xia Sovereign Qi (trad. r. c. 1978–1965 b.c.e.) is recorded here at the beginning of chapter 7, “Guideway through the Western Lands beyond the Sea,” which extends from the southwest cor- ner to the northwest corner of this area. His name, Qi, means “to open up,” and he was miraculously born of the union of Yu the Great and a girl of Muddy Mountain, who later metamorphosed into a stone out of fright when Yu transformed himself into a bear. Yu demanded his son, and Qi was born from the stone’s north side when it opened up. The second sovereign of the Xia dynasty, he is regarded in some myths as a culture hero who brought divine music and dance to humankind or as a trickster figure who stole the music from heaven. A variant myth is recorded in chapter 16, where he is re- ferred to by a later name, Kai [see no. 325], a Han dynasty usage to avoid the taboo per- sonal name of Liu Qi, Emperor Jing of the Western Han (r. 156–141 b.c.e.). However, other traditions regarded him less favorably. The utilitarian philosopher Mo Di (c. 479– 381 b.c.e.), who opposed ceremonial music, described him as a decadent ruler who in- dulged himself in entertainment and lost heaven’s favor. In the “Questions of Heaven” in the *Songs of Chu,</em> he supplanted his father’s choice for a successor and provoked a rebellion in addition to having caused the death and dismemberment of his mother through his miraculous birth.381 </p>
+<p>A MAN (ZHANGFU) V“ <em>TheLandofMenislocatednorthoftheWei- Birds. They wear proper robes and caps and carry swords.*391 The Wei-Birds were recorded as omens of the destruction of the state wherever they fly. The dress of these men indicates that they were regarded as comparatively civilized. Guo Pu probably com- bined several accounts when he noted that a Wang Meng (trad. c. 1440 b.c.e.) was sent by King Taimou of the Shang (trad. r. c. 1474–1400 b.c.e.) to search for medicinal herbs and followed the Queen Mother of the West [nos. 65, 275] to this place, where he ran out of food and could go no farther. Wang survived by eating the fruit of trees and wear- ing clothes of bark. Though he never married, he gave birth to two sons who sprang forth from his body, whereupon he died. These were the ancestors of the inhabitants of the Land of Men. In a more historicized version, Wang Meng was recorded in *The Bamboo Annals</em> as an o‹cial of King Taimou, who was dispatched in the twenty-sixth year of his reign to greet the Western Rong tribe when they came to pay a visit of sub- mission. However, no mention is made there of the Queen Mother of the West or of this land.</p>
+<p>WOMEN (NÜZI) kl <em>The Land of Women lies north of the Land of Shaman Xian. Two women dwell here in the water, which surrounds them. According to another version, they dwell together in a house.*395 These two women are the sole inhabitants of the Land of Women, and in this the place parallels the Land of Men [no. 234]. Guo Pu recorded a myth about a Yellow Lake, where the women bathe and then emerge pregnant. Any sons they give birth to suddenly die after three years. Among other later accounts, the “Treatise on the Eastern Yi-Barbarians” in the *History of the Wei Dynasty</em> states that there is a land in the sea beyond the Land of Woju [see no. 226] in the northeast inhabited only by women, while Hao Yixing quoted a similar treatise in the <em>History of the Latter [Eastern] Han Dynasty</em> (<em>Houhanshu,</em> mid-5th cent.) that notes that the women become pregnant by gazing into a divine well. The Land of Women is also mentioned in chapter 16 but without any further description.</p>
+<p>THE LONG-THIGHS PEOPLE (CHANGGUMIN)  ̄—¡ <em>The Land of the Long-Thighs People is located north of the Brave-and-Constant Tree. These people wear their hair long. In another version, they are called the Long-Feet People.</em>403 </p>
+<p>Guo Pu regarded the Brave-and-Constant Tree as providing bark used by the Supreme God Di to clothe humankind in remote antiquity. Concerning the Long-Thighs People, he commented that their legs are thirty feet in length and cited another account that they bear the Long-Arms People [no. 226] on their backs to fish. Perhaps that is why the illustrator chose to show one of them fishing with his hands. Their land is lo- cated east of the Red River. According to <em>The Bamboo Annals,</em> they came to the Chi- nese court to pay tribute to the Yellow Thearch in the fifty-ninth year of his reign, ac- companied by the People with Perforated Chests [no. 220]. Chapter 16 also records the Long-Shins People [no. 316] as dwelling beyond the Northwest Sea and east of the Red River. </p>
+<p>THE ONE-EYED PEOPLE (YIMUMIN) @ÿ¡ <em>The Land of the One-Eyed People lies to the east of Bell Mountain. The people who dwell here have one eye in the middle of their faces.*407 These people are mentioned at the begin- ning of chapter 8, the “Guideway through the Northern Lands Beyond the Sea,” which extends from the northeastern corner to the northwestern corner of this area. At the foot of Bell Mountain is where the god Torch-Darkness [see no. 55] dwells. The One- Eyed People are also mentioned in chapter 17, where they are surnamed Wei and are said to be descendants of the thearch Lesser-Brilliance who eat millet. They may be iden- tical to the inhabitants of the Land of the Demon People mentioned in chapter 12. These people also have one eye and the pronunciation of their name, *gui</em> (“demon”), is close in sound to the surname Wei. Guo Pu in his encomium used the dominant feature of the One-Eyed People to reflect on the nature of vision: </p>
+<p>Four eyes may not be too many; For these people, one is not too few. The musician Ziye, though blind, Required nothing for a clear view. Physically, he traveled far and wide But found only the infinitesimal </p>
+<p>to be of value.</p>
+<p>\243. THE FLEXIBLE PEOPLE (ROULIMIN) XQ¡ <em>The Land of the Flexible People is located east of the Land of the One-Eyed People [no. 242]. The people have one hand and one foot. Their knees are reversed and their feet bend upward. Accord- ing to another version, their land is called the Land of the Liuli People, and the people’s feet bend backward.</em>409 A variation on this theme appears in chapter 17, where the Land of the Niuli People contains people who have no bones and who are said to be the children of the Pendant-Ears People, a variant of the People Who Hold Up Their Ears [no. 246].410 </p>
+<p>MINISTER LIU (XIANG LIU) ¤h <em>An o‹cial of Gonggong [no. 314] is called Minister Liu. He has nine heads and consumes the sustenance provided by nine mountains. The tracks of his collisions with the landscape became lakes and streams. Yu the Great killed Minister Liu, and every place stained by his stinking blood could no longer grow the five varieties of grain. Yu excavated the land to a depth of three ren (twenty- four feet), but it still became soaked with blood three times. Thereupon, he constructed the Terrace of the Thearchs with the land. It stands north of Mount Kunlun and east of the Land of the Flexible People [no. 243]. Minister Liu has nine heads with human faces and a snake’s body, which is green. None here dare to shoot arrows northward for fear of Gong- gong’s Terrace. The terrace is located to the east and is square. Each corner has a snake with tiger stripes whose face looks southward.*411 In Chinese mythology, the god Gonggong unleashed the Deluge and struggled for supremacy against the Supreme God Di. The identity of his adversary varies, but in one version preserved in the *Master of</em> <em>Huainan</em> he fought against Zhuanxu and created Cleft Mountain af-<br> ter colliding with it, a place recorded in chapter 2 as east of Mount<br> Kunlun. This snapped the cord joining heaven and earth, causing<br> Heaven to tilt toward the northwest and a gap to open up on earth<br> in the southeast. In this version, however, it is Yu the Great who re-<br> stores order by killing Gonggong’s o‹cial. Yuan Ke saw Gonggong<br> in the line of resisters to the power of the Yellow Thearch and his<br> lineage. His terrace is described as similar to Xuanyuan’s Mountain [see no. 237]. In chapter 17, Minister Liu is known as Minister You and similarly described with only slight variations. Hao Yixing noted the apparent contradiction in the location of Mount Kunlun. Here it is in a chapter of lands “beyond the sea” while in chapter 12, both it and the Terrace of the Thearchs are located “within the sea.”4 </p>
+<p>THE DEEP-EYED PEOPLE (SHENMUMIN) 深目国<em>TheLand of the Deep-Eyed People lies to the east of Minister Liu. The people raise one arm and have one eye. They are located east of Gonggong’s Terrace.</em>413  </p>
+<p>THE PEOPLE WHO HOLD UP THEIR EARS (NIE’ERMIN) </p>
+<p>聂耳国<em>TheLandofthePeopleWhoHoldUpTheirEarsislocatedeastoftheLandof the People without Intestines. The people command two striped tigers. They hold up their ears with their hands, and they dwell on an island in the middle of the sea and capture many strange things that go in and come out of the water. The two tigers are located to the east of these people.</em></p>
+<p>KUAFU THE BOASTER (KUAFU) j ̃ <em>KuafutheBoasterchased after the sun and ran to where it sets. He became thirsty and wanted to drink, so he drank from the Yellow River and the Wei River. The water from the Yellow River and the Wei River was not su‹cient for him so he went north to drink from the Grand Lake. But before he reached it, he died of thirst on the road. He threw down his sta , which became trans- formed into the Deng Forest.*417 Kuafu is a divine hero who vainly challenged superior power. He is also recorded in more detail in chapter 17. There his divinity is more apparent, for Kuafu is described as wearing two yellow snakes in his ears and as grasping two yellow snakes, which is how he is illustrated here. A grandson of the god Lord Earth (Houtu), who is symbolically correlated with the color yellow in Five Agents cosmology, Kuafu is located at the Capital City That Supports Heaven, a mountain in the Great Wilds to the North where he is said to have died. The text here states that he failed to estimate the limits of his strength when he chased the sun and reached Ape Valley where the sun sets. He sought to drink from the Yellow River and finding it insu‹cient, was proceeding toward the Grand Lake when he died. It then appends an- other myth of Kuafu stating that he was killed by Winged-Dragon  latter had executed the rebel Chiyou. Thus, Kuafu was also regarded<br> as a rebel against the Yellow Thearch. The symbolism of Five Agents<br> cosmology is present in all these myths. Kuafu, representing “earth”<br> (yellow; Lord Earth) is overcome by “water” (thirst; or Winged-<br> Dragon) as he struggles against “fire,” or the dominant ruler of Earth<br> (the sun; Yellow Thearch). Grand Lake is mentioned in chapters 11<br> and 17 as one hundred *li</em> in circumference located north of Geese-<br> Gate (Yanmen, modern Dai District, Shanxi), where flocks of birds hatch and molt. Ac- cording to a later more widely known version of Kuafu in the <em>Master Lie</em> (<em>Liezi,</em> c. late 4th cent.), his sta became a forest by soaking up his decaying flesh. Thus, Kuafu was transformed into the phase “wood” and, as trees, remains dependent on the benevo- lence of the sun, earth, and water and can still be destroyed by fire. In his encomium, Guo Pu interpreted him philosophically as an example of cosmic mystery and saw Kuafu’s physical metamorphosis into the Deng Forest as a kind of triumphant com- pensation. The modern writer and early mythologist Shen Yanbing (1896–1981), how- ever, regarded Kuafu as representing an ancient tribe of giants analagous to the Greek </p>
+<p>XI-RHINOCEROS (XINIU犀牛) R ̊ <em>Northwest of the Xingxing dwell Xi-Rhinoceros. Their form resembles an ox that is black.*450 The Xi-Rhinoceros appears in ten places in the *Guideways</em> and is also illustrated in chapter 1 [no. 26]. Guo Pu commented here that it resembles a water bu alo with the head of a pig and has short legs and three horns. Rhinoceros horn has long been associated with male po- tency and was used for decorative carvings such as wine cups. Despite the decimation of the remaining population in the world, the horn continues to be in demand in tra- ditional Chinese medicine.</p>
+<p>FENGHUANG-BIRD (FENGHUANG) Òƒ <em>West of the Beast- Facing-East are Fenghuang-Birds and Luan-Birds. Both wear and tread on snakes. There is a red snake on their breasts. . . .<em>464 *[North of the Beast-Facing-East] are the Fenghuang- Birds, all of whom carry shields.</em>465 The Fenghuang-Bird, also known simply as the Feng-Bird (Feng), appears here with a similar creature, the Luan-Bird [no. 49], as guardians of the environs of Mount Kunlun. The illustrator has apparently taken artis- tic license by representing the Fenghuang-Bird with a spear. Feng-Birds or Fenghuang- Birds appear in eight places in the *Guideways</em> and Luan-Birds in ten. The Feng /Fenghuang- Bird is usually given primacy in Chinese mythology; however, the iconography and significance of the Luan-Bird is sometimes indistinguishable from it. Recorded as early as the Shang dynasty oracle-bone inscriptions, the Feng-/Fenghuang-Bird emerged in Zhou texts as a primary omen of political harmony. In what is probably a later inter- polation, it is recorded in chapter 1 at Cinnabar Cave Mountain as a symbol of Confu- cian values. It is described as five-colored and resembling a chicken with the markings of the graph for <em>virtue</em> on its head, <em>duty</em> on its wings, <em>ritual</em> on its back, <em>humaneness</em> on its breast, and <em>trust</em> on its stomach. It eats, drinks, sings, and dances at will and, if seen, is an omen of world peace. Elsewhere, in chapters 7 and 16, the Feng-Bird and Luan- Bird are found in paradisical places where the people consumed their eggs. Though al- most universally mistranslated in the West as the “phoenix,” with which it has little in common, the Feng-Bird’s origins have been traced by some modern scholars to the os- trich, eagle, pheasant, or peacock. Its depiction has varied over the centuries and become increasingly flamboyant. Later, it was commonly paired with the Luan-Bird or dragon as an imperial symbol and has become a popular decorative motif denoting yin-yang conjugal harmony. </p>
+<p>THE ONE-EYED PEOPLE (YIMUMIN) @ÿ¡ <em>Therearepeople with one eye in the middle of their faces. According to another version, they are surnamed Wei and are the descendants of Lesser-Brilliance. They eat grains.*584 Hao Yi- xing identified these people with the One-Eyed People [no. 242] mentioned in chapter 8. Yuan Ke, however, identified them with the Demon People [no. 280] in chapter 12 based on the homophony between the surname Wei and the word *gui</em> (“demon”). </p>
+<p>This final passage in the text pays tribute to Yu the Great, founder of the Xia Dynasty. Ac- cording to several myths, Yu was born from the belly of Gun three years after Gun was executed at Feather Mountain. The latter was also said to have transformed into a yel- low bear or a yellow dragon. Liu Xin in his preface stated that: </p>
+<p>Yu spent four years notching trees along the mountains as he fixed the courses of the great rivers by the tall mountains. Yi and Boyi were in charge of driving out the birds and beasts, naming the mountains and rivers, classifying the plants and trees, and distinguishing the features of watery bodies and land masses. The Four Marchmounts assisted them as they traveled throughout the four directions to where men seldom venture on foot and boats and carriages rarely reach. Within, they distinguished the mountains of the five directions and beyond, they identified the seas in the eight directions. They recorded rare treasures and extraordinary objects, things living in foreign places, the locations on land and sea of plants and trees, birds and beasts, insects, Lin-Beasts and Feng-Birds [nos. 271, 330], wherever auspicious omens hide themselves, and, beyond the Four Seas, the lands in far-o regions and the strange peoples there. Yu defined the Nine Provinces and deter- mined which products were to be submitted as tribute. Yi and the others classified things into beneficial and harmful, writing down the <em>Guideways through Moun- tains and Seas</em> as a record of matters pertaining to sages and worthies, all clearly set down in ancient graphs. </p>
+<p>In this final illustration, Yu the Great appears in the upper right inspecting workers who are cutting a channel to drain the floodwaters. To the left is an o‹cial holding a sword, probably either Yi or Boyi, though neither appears in the text of the <em>Guideways.</em> Like plate I, this plate was also eliminated from later editions.608 </p>
+<p><strong>波斯（550BC-330BC）</strong> <strong>希腊文化崛起</strong></p>
+<p>波斯最伟大的王朝：阿契美尼德王朝（前550年—前330年）马其顿亚历山大帝国</p>
+<p>公元前331年，亚历山大带领希腊人攻克波斯波利斯，并焚毁了这里。战乱，一位少女伫立在湖边的沙石上。这少女身穿紫色衣衫，手链银光闪闪，眼神深邃却灿烂，眼睛中隐隐有海水之蓝意。这位波斯女子逃难到了这里。</p>
+<p>当时商贸的项目从各种宝石、玉料、特殊毛皮、珍奇动物到贵金属和药材等，不一而足，很可能甚至包括一些特等日用品，比如某些地方特产的盐以及衣料、颜料、陶瓷等。丝织品在春秋战国时经西北民族(如匈奴)之手辗转贩运，先后见于波斯、希腊的市场上。</p>
+<p>写战国波斯 语言 产业资本整合 4P；</p>
+<p><a href="http://www.chinaknowledge.de/History/Zhou/zhou-event-zhanguo.html" target="_blank" rel="noopener">Warring States</a> 戰國</p>
+<p>雅思米敏（Yasmimin）生于346 BC的波斯。家族从事地毯手工生产和买卖。远从波斯来到中国。–波斯文明 讲古波斯语。2420岁。货币？？？<strong>又西百七十里，曰南山，上多丹栗。丹水出焉，北流注于渭，鸟多尸鸠。</strong></p>
+<p>阿拉米文字，楔形文字。</p>
+<p>公元前400年，咸阳市上，有金铺、珠宝玉器铺、粮食铺、绸布铺、皮货铺、盐铺、药铺、鞋铺，上自卖良剑的，下至卖兔、羊、豚、鱼、鳖，卖茅草、黍种，卖浆，杀狗卖狗肉的，以至卖矛和盾的，无不具备；还有“悬帜甚高”招徕顾客的酒店；在牛马等大牲畜的交易中，为买卖双方评价说合的牙人已经出现。坐肆列贩卖的都是些小商人和自产自销的小手工业者。春秋后期以来，有的小手工业者已被允许在住所前屋接受加工订货。如宋相国子罕的南邻是“工人，为鞔者也”，子罕没有逼他家迁徙，因为这家“为鞔以食”已经“三世”，如搬走，宋国之求鞔者将不知其处了(《吕氏春秋·召类篇》)。</p>
+<p>工商合一，前店后坊，这是商品交换的一种补充形式，以后在封建社会中长期保留下来。</p>
+<p>临淄户数更达七万，“其民无不吹竽、鼓瑟、弹琴、击筑〔古乐器，似筝〕、斗鸡、走狗、六博、蹋鞠〔taju 踏居，踢球〕者。临淄之途，车毂击，人肩摩，连衽成帷，举袂成幕，挥汗成雨。家殷人足，志高气扬。”(《史记·苏秦列传》)由于商业能给统治者增加收入(官营商业的利润和对外来商人私营商业的商税)，并能提供“难得之货”，满足他们各方面的需要，所以，除了某些时候某些国家外，各国统治者对商业一般是很重视的。素有重商传统的齐国，把商业提到与农业并重的地步。</p>
+<p>奴隶在战国时还被作为商品买卖。“民无饘〔zhan毡，厚粥〕者，卖其子”(《管子·揆度》)，“天饥岁荒”而“嫁妻卖子”(《韩非子·六反》)，小农的破产，高利贷的作祟，造成了一种前所少见的“债务奴隶”。秦国设奴婢之市，与牛马同栏。但奴隶的来源毕竟较前为少，价格也因此上涨，赎一逃奴百金，买一美女三千金。奴隶主要用于家内劳动、商业和手工业。以后在封建社会里，一直保留着买卖家奴的旧制度的残余。</p>
+<p>商业还主要是以迎合统治者的奢侈消费为急为先。连城市手工业，以竞相为“末作奇巧”，生产“悦在玩好”的奢侈品。虽然也有粮食参加贩运贸易，也有以经营“下谷”之类的商人出现，但贩运贸易仍把重点放在转输体轻价贵，便于远地转运的奢侈品、工艺品和土特产品上面，尤其是珠玉仍在商业的经营中占首要地位。《韩非子》有“买椟还珠”和“毁璞得玉”的故事</p>
+<p>《战国策》也记有吕不韦“珠玉之赢”，“百倍”其利的说法。所有这些都是战国商人在大做其珠宝生意的写照。珠玉之利与土特品倍蓰之价又不可同日而语。所以，商人都要趋之若鹜了。“商人资本的独立发展，是与社会的一般经济发展成反比例的。”这一规律在“转运贸易的历史上表现得最为明显。”(《资本论》)中国的情况也是如此。商业独立于生产之外，而向贩运贸易发展，尤其狭隘地以珠玉等奢侈品为重点，正说明商品经济还有一定的限度，真正的商品生产还不多，自然经济还居统治地位。</p>
+<p>到隋唐重新统一中国，三个多世纪中，社会经济由恢复到发展，商业再迈开前进的步伐。上升→下降→再上升，发展恰呈马鞍形。在这里就让我们来追寻一下这1100多年间商业发展的历史轨迹吧。</p>
+<p><strong>花脉</strong>：阴阳论，三十六计，道学，儒学，</p>
+<p><strong>花肥</strong>： 壁画，东非特产， 金字塔公园， 撒哈拉沙漠，运河，尼罗河，乞力马扎罗山，咖啡，纺织，丝织业，养蚕，衣服，丝绸，祭祀，矿石，玉，植物，染料，制漆业。胭脂红，甲骨文的符号，《道德经》，《孙子兵法》，</p>
+<p><strong>花士</strong>：老子，孔子，孙子，韩非子，贵族</p>
+<p>​                                                                                                                                                            <strong>The End.</strong> </p>
+]]></content>
+      <categories>
+        <category>花士</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>AI</tag>
+        <tag>花数据预测</tag>
+        <tag>KNN</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>语言 language</title>
+    <url>/2020/10/20/3%E6%B1%89/</url>
+    <content><![CDATA[<hr>
+<p><strong>罗马——–汉</strong></p>
+<p>汉朝罗马人比尔・波特 语言 产业资本整合  4P；</p>
+<p>赶上2020年的终南山营销寻道大会。</p>
+<p><strong>汉商业</strong></p>
+<p> 罗马实行公民制，富人大庄园，军官凯撒奠定君主制政体模式。在帝国时代，罗马的疆域陆地面积达到了500万平方公里，海域面积更可观，在巅峰时代图拉真时代，因征服了两河流域，使面积到达了600万平方公里，超越汉朝成为了世界面积最大的国家。</p>
+<p>到前1世纪，到达了560万平方公里左右。是世界上面积最大的国家。汉朝是一个农耕文明帝国，中国的粮食产量位居世界第一。从人——口方面就可以看出，汉朝在到了西汉末期到达了6000万左右，位居世界第一。东汉时期，人口也保持稳定，也达到了6000万左右。</p>
+<p>汉朝建立的是高度集中的中央集权和君主专制体制。在地方上实行“郡国制”，后来又设置了州，总体而言对地方的控制是不断加强的。中央设置了“三公九卿”“内外朝”，实行独裁。 而汉朝的法律就是“王法”，也就是皇帝的工具；汉朝的法律没有私法，主要是公法；汉朝没有严谨的司法制度，审判过程充满暴力、盲目，人治色彩明显。</p>
+<p>《史记·货殖列传》中说：“山西饶材、竹、榖〔gu谷，木名，即楮〕、[纟卢]〔lu卢，麻缕〕、牦、玉石；山东多鱼、盐、漆、丝、声色；江南出楠、梓、姜、桂、金、锡、连(铅)、丹砂、犀、玳瑁、珠玑、齿革；龙门、碣石北多马、牛、羊、毡、裘、筋角；</p>
+<p>铜铁则千里往往山出棋置：此其大较(大略)也。”战国以来各地自然资源和物产的地域分工与商品化，仍然是汉代贩运贸易发展的基础。</p>
+<p>“船长十丈，轺车百乘，牛车千辆”，行贾郡国，是商人们活动的热点。珍奇货贿的交易仍是其最主要的内容。</p>
+<p>所谓“农不出则乏其食，工不出则乏其事，商不出则三宝绝，虞不出则财匮少”(《史记·货殖列传》，虞为掌管山泽之官)，地区间贩运贸易与“三宝”紧相联系的传统观念仍未改变。</p>
+<p>时至西汉，待“商而通之”的已不仅是为统治者享用的珍异之物；“皆中国人民所喜好，谣俗被服饮食奉生送死之具”(《货殖列传》)，涉及一般人日常生活的物资也越来越多地在各地进行交流。商业在联系地区经济方面的作用日益加强。不过当时与人民生活关系最大的粮食，参加远距离大规模的流转的尚不算多，“千里不贩粜〔tiao跳，售粮〕”的谚语就是实际情况的反映。</p>
+<p>汉武帝推行了“盐铁官营”和“算缗”政策之后，导致大量的商人、作坊破产，工商业发展受到严重的打击。从汉武帝之后，虽然工商业发展有所恢复，但是由于战争、重农抑商等影响，使得工商业的发展始终无法到达汉初的水平。当然在商业方面也有一定的贡献，例如开通了丝绸之路，加强了中西经济文化的交流。在一些手工业技术方面，例如纺织、制瓷、钢铁冶炼方面达到了世界领先水平。</p>
+<p>西汉之初尚使用陶器，后来始有成功的青瓷制作，到孙吴时青瓷器已具有相当规模，“瓷”字使用始于汉代，后世这一大商品由此奠基。瓷器同纸一样，都是人类文明史上的重大创造。</p>
+<p>东汉时市场上出现了一种新兴的商品——纸。西汉时虽已有粗制的纸，经过东汉蔡伦改进了造纸方法，纸才成为价格较廉易于推广的商品，逐渐代替了简帛，有利于文化的传播。与之相伴，笔墨砚等文具也在市上大量出售。手抄的书籍已进入流通，城市里有书肆；王充少时买不起书就常在书肆里阅览。他过目不忘，以后成为著名的学者。</p>
+<p>罗马在共和国时代实行的是贵族民主体制。但是随着罗马的扩张，共和国也开始转变为帝制。帝国时代，罗马最高权力掌握在皇帝手中，但是罗马的帝制并没有汉朝这么强，皇帝的权力并非是无限的。从政治体制来说，罗马的法律制度的确比汉朝先进好多。首先，罗马的法律有至高无上的权威，就连皇帝也必须服从。其次，罗马的私法十分发达，对于维护个人的财产，解决个人纠纷非常到位，而罗马的司法制度健全，有律师制度，讲究证据。也因为罗马的法律先进，因此目前全世界的法律都是学习了罗马法。 </p>
+<p>罗马的农业在耕作技术上并没有汉朝先进，不过粮食产量也比较可观。罗马时代埃及不需要精耕细作就能够高产，成为了地中海的粮仓。另外，西班牙、意大利等地的经济作物广泛种植，为工商业繁荣提供了条件。罗马繁荣时期有人口6000万，可见农业也是十分繁荣的。</p>
+<p>工商业方面，罗马应该是全面领先世界：陶器、呢绒、橄榄油、葡萄酒、玻璃器皿等在世界上非常具有竞争力。其中毛纺织是最为发达的手工业，其工艺之先进，足以傲视世界。罗马虽然没有发明瓷器技术，却拥有十分发达的玻璃制造业。廉价的玻璃器皿成为了陶瓷和金属器物的重要竞争对手，玻璃，已经发展成为一个真正的产业。商业方面，罗马拥有地中海为内湖，交通十分便利，有条条大路通罗马的说法。</p>
+<p>476 A.D. 西罗马灭亡，中国也在南北朝分裂时期。其后北欧蛮族又向罗马从头学起一千年，西方基督教世界那不可以造像的上帝，亦是冠剑尽失的罗马皇帝在天上归位。 </p>
+<p>中国不堕产业竞争，过去青铜器铁器皆比西洋迟三五百年，但是却能够发展到高度。中国人用细工做产业。西方用资本发展产业，东方用精致发展产业。</p>
+<p>当时从长安经西域各小国以达西亚、欧洲的商路有两条：一条是出阳关，沿昆仑山北麓(沙漠以南)，经楼兰、于田，到莎车，越葱岭(帕米尔)南部西去，可到大月氏(今阿姆河流域中部)、大夏、安息(今伊朗境内)，再西行可到条支(伊拉克境内)、大秦(罗马帝国地中海东部一带)，称“南道”；另一条是出玉门关，沿天山南麓(沙漠以北)，经车师、龟兹，到疏勒，越葱岭西北，可到大宛(今费尔干纳)、康居(今锡尔河、阿姆河中下游)、奄蔡(今咸海与里海间)诸国，再往西可到大秦，称“北道”。由于奄蔡及其东北等地盛产貂皮，貂皮由此输往中国，故北道也称为“皮毛路”；而南道则是汉方大批货物输出的通道，其中以丝和丝织品为主，因此也称“丝路”。后世闻名的“丝绸之路”即是由此时开端的。汉时中国的丝织业已十分发达，品种繁多，花色精美，经中间商人(安息)之手运往大秦，一两丝与一两黄金同价。大秦把中国称为“丝国”，对东方充满着美好的憧憬和向往。</p>
+<p>张骞通西域与丝绸之路示意图</p>
+<p>　　中外贸易是中外经济文化交流的重要通道。中亚的石榴、葡萄、核桃、芝麻、苜蓿等随之传到中国，在中原土地上生根、开花、结果。中国的凿井术和炼钢术传到了中亚。中国良好的国际影响扩大到远方。</p>
+<p>　　东汉中叶，从红海到印度的海道已经畅通，中亚、西欧的贸易多改由海道。公元166年，罗马商人以大秦国王安敦使臣名义，由海路经日南到达东汉帝都洛阳，这是中国和罗马直接交往的开始。孙吴时大秦商人秦伦从交趾到建业(今南京)面见孙权，在东吴住了七八年之久。</p>
+<p><strong>花士</strong>：老子，孔子，孙子，韩非子，</p>
+<p>花脉**：道德经模型，孙子兵法，</p>
+<p><strong>花肥</strong>： 壁画，东非特产， 金字塔公园， 其外有炎火之山， 撒哈拉沙漠，运河，尼罗河，乞力马扎罗山，玉米，纺织，丝织业。黄河流域，长江流域，养蚕，各级贵族。衣服，丝绸，礼物，祭祀，丝绸，矿石，植物，提纯，染料，制漆业。花生，胭脂红，扶木–仙人掌，墨西哥书法，武当山的时刻，甲骨文的符号，哲学中的二元论来自于阴阳，科罗拉多大峡谷，流金铄石的壮美风光，</p>
+<p>​                                                                                                                                                            <strong>The End.</strong> </p>
+]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>AI</tag>
+        <tag>花数据预测</tag>
+        <tag>KNN</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>现代营销学</title>
+    <url>/2020/10/20/6%E7%8E%B0%E4%BB%A3%E8%90%A5%E9%94%80%E5%AD%A6/</url>
+    <content><![CDATA[<p>1910~ 营销学时代</p>
+<p><strong>1流通派</strong>1960年，美国市场营销协会（AMA）把营销定义为是“引导货物和劳务从生产者流向消费者或用户所进行的一切业务活动”。亨利 · 福特的T型车是一个典型的对接大规模生产与消费的案例。在20世纪初的美国，汽车是价格昂贵的奢侈品，普通民众无力消费，消费者的低购买能力限制了企业的扩张能力。因此，企业要处理的核心问题是如何解除生产到消费之间的障碍。福特在芝加哥参观过屠宰业流水线后，开始在汽车工业试行流水作业方式，掀起了世界范围内具有历史进步性的大批量生产的产业革命。T型车于1908年10月1日推出，售价850美元，很快就令千百万美国人着迷；在出产第一年，T型车产量达到10,660辆，创下了汽车行业的纪录。随着设计和生产的不断改进，售价最终降至260美元。到了1921年，T型车的产量已占世界汽车总产量的56.6％，是全世界第一辆普通百姓买得起的汽车。至1927年夏天T型车成为历史，共售出1500多万辆。福特以“大生产”的手法释放出了消费者的消费能力，形成了“低价格—很多的消费者—规模经济—提高收益—低价格—更多的消费者”的有效循环。这种经营思路是以刺激消费为基础的，在汽车行业当时的历史背景下打通了销售障碍的关键。</p>
+<p>流通说的关键在于提高这种从生产到消费对接的系统效率。基于流通说，企业营销策略的关键就是如何使产品或服务能够高效率贯穿生产领域、流通领域以及消费领域。企业的广告推动，终端的拦截和促销，都是为了使这个对接过程更有效率，同时减缓甚至阻止对手对接。流通说提醒企业不能仅仅停留在客户角度或企业角度单方面来思考问题，而是将两者打通，去追求价值链层面上的共赢。</p>
+<p><strong>2需求管理说</strong></p>
+<p>我曾当面向菲利普 · 科特勒请教“哪一个词语可以精准定义营销”，他给出的词就是Demand management，即需求管理。科特勒这样定义营销：“识别目前尚未满足的需要与欲望，估量和确定需要量的大小，选择和决定企业能最好地为它服务的目标市场，并且决定适当的产品、劳务和计划，以便为目标市场服务。” 需求管理说的策略体系大致都是从环境分析开始（包括政治、经济、文化、科技到产业分析、竞争对手分析）到消费者分析，然后根据STP战略（即市场细分、目标市场选择到市场定位），找到细分市场和适当定位之后，来设计营销战术组合。这种战术组合被E.杰罗姆 · 麦卡锡在其《基础营销学》（Basic Marketing）中归纳为4P（Product, Price, Place, Promotion）。之后，科特勒在4P的基础上不断发展，提出过6P（在4P的基础上增加Political Power和Public Relations）以及10P（在6P的基础上增加Probe, Partition, Priority, Position）策略。但不管是4P、6P还是10P，本质上都是在研究如何有效管理客户需求。</p>
+<p>需求管理说过于关注交易前的营销活动，忽视交易后的营销活动。然而不可否认的是，需求管理说在当今营销学说中贡献最大，使用最广，实践性最强。</p>
+<p><strong>3竞争说</strong></p>
+<p>“市场营销的本质不是为客户服务，而是算计，包围并战胜竞争对手。”杰克 · 特劳特（Jack Trout）是竞争说的最典型代表。杰克 · 特劳特认为，营销就是一场战争。他把军事战争理论和实践中的很多概念（尤其是克劳塞维茨（K. Von Clausewitz）的思想）引入到营销学，其著作《商战》（Marketing Warfare，也译为《营销战》）详细论述了进攻战、迂回包抄战（侧翼战）、防御战和游击战等方法。跳出具体的战术，我们看到竞争说也有其硬伤。</p>
+<p><strong>4差异说</strong></p>
+<p>差异说本质就是要和竞争对手进行有效区分，是竞争说思路上的一种延伸。竞争说主要强调击败对手来给企业腾出生存的空间，而到底通过何种手段获得这个空间，竞争说终究只停留在具体的战术层面，而以差异为核心的营销学说试图在指导思想层面上做出解释</p>
+<p>营销如何做到差异化呢？一般来讲，利益上的差异、情感上的差异、价值观上的差异等三个维度可以指导企业营销思路。</p>
+<p><strong>5垄断说</strong></p>
+<p>垄断说是竞争说在另一个维度的演进。与其他社会机构不同的是，盈利是企业的基本目标，即使社会企业也需要以利润为基础。企业要获得竞争优势的目的，是要更好地盈利。</p>
+<p>微观经济学将市场分为四种类型： 完全竞争市场、垄断竞争市场、寡头市场和垄断市场。在完全竞争市场下，每个企业都缺乏对市场的定价权，企业竞争激烈，利润趋向于零；在垄断竞争市场，企业众多，且这些企业生产和销售有差别的同种产品，一个企业的决策对其他企业的影响不大，不易被察觉，可以不考虑其他人的对抗行动；在寡头市场，市场上几个大型企业控制了整个行业的生产和销售，利润由寡头之间的博弈决定；在垄断市场，行业市场被一个大的企业所控制，该企业掌握供应权与定价权，能获取最大的利润。显然，处于完全竞争市场的企业盈利最低，而垄断市场中的企业盈利最大。能够获取垄断地位是每个企业梦寐以求的，因为在这里你有最佳的盈利空间。</p>
+<p><strong>6价值设计说</strong></p>
+<p>2004年8月，AMA揭开了市场营销新定义的面纱，更新了1985年修订的官方营销定义。新定义为：“营销既是一种组织职能，也是为了组织自身及利益相关者的利益而创造、传播、传递客户价值，管理客户关系的一系列过程。”新定义强调了客户价值，认为企业应基于此来综合运用各种营销策略。</p>
+<p>客户价值到底是指什么？我们可以有两个维度：第一是指客户获取的总价值与客户支付总成本之差，即客户让渡价值；第二是指与竞争对手提供的价值对比，企业能提供给客户的价值有多少。价值设计说认为，营销的本质就是通过产品和服务，提供给消费者高于竞争对手的价值。基于此，麦肯锡公司提出了营销要作为“价值传递系统”的概念：价值传递系统由选择价值、提供价值和传递价值三大板块组成。</p>
+<p><strong>7关系管理说</strong></p>
+<p>自20世纪70年代开始，斯堪的拉维亚和北欧的营销学派提出了以建立和管理关系为基础的营销，试图替代传统营销观念。他们认为，营销应是在获利的基础上，通过建立、维持和促进与客户的长期关系，以满足参与交易各方的目标。具体而言，营销的目的在于与客户结成长期的、相互依存的关系，与客户形成一个互动的社区，发展客户与企业及产品之间的连续性交往，以提高忠诚度与巩固市场，促进产品持续销售。</p>
+<p>关系营销在理念上是一种进步。首先，传统营销主要集中于研究商品营销，而对于组织营销研究不够。其次，传统营销注重讨论交易前的活动（最典型的是STP战略），而没有关注交易之后企业怎么去维护市场，保持客户忠诚度，衡量客户ROI（Return On Investment,投资回报率）等等，而在真实世界中，大多数CMO大多在做交易后的客户管理工作。</p>
+<p><strong>8客户资产管理说</strong></p>
+<p>营销为什么要强化品牌的作用？为什么要重点研究顾客满意？为什么又要建立与客户相互嵌入的社区关系？爱因斯坦说，手段的完善和目标的混乱是我们时代的特征。企业建设品牌，做客户满意，建立客户联系只是手段，最终目的还是赢利。营销工作能不能为公司带来赢利、带来价值是必须考虑的，而客户资产就是一个标的。关系说强调与顾客建立联系，而客户资产管理说强调最终目的。</p>
+<p>客户资产并不等价于客户价值。客户价值是指客户让渡价值、相对于竞争对手企业提供的价值，强调企业能通过产品或服务为客户带来什么；而客户资产强调企业能从客户身上获取到什么，具体指企业所有客户终身价值折现的总和。对于企业而言，客户的价值不仅在于当前能给企业带来的利润，更在于客户将来所能贡献利润的净现值。客户资产的提出，更本质地解释了企业营销为何要满足顾客需求、获得顾客满意及维系顾客关系。</p>
+<p>基于客户资产管理说，我们很容易理解为什么很多互联网公司从营销上一开始就瞄准了积累客户群，为什么Google在互联网业务上最大的挑战者是Facebook。以腾讯为例：QQ秀推出之前，腾讯一直为如何盈利而困扰，后来腾讯涉足门户网运营、互联网游戏、彩铃、微博等数十项业务，至此，腾讯的盈利屡创新高。腾讯业务涉足互联网产品之广，业务之成功，让很多互联网公司苦不堪言，乃至有人评论道：腾讯的业务拓展方法就是“走别人的路，让别人无路可走”。腾讯市值已超过400亿美元，这要归功于有3亿人在使用QQ号，腾讯才能不断扩张自己的业务边界和利润区。</p>
+<p>盈利逻辑的变化使得营销的重心开始指向客户资产的管理。企业在营销中不仅要学会计算客户当前所能贡献的显性价值，也要学会算计客户背后存在的隐性价值和成长价值，通过探索和管理客户资产去获得企业面向未来的竞争优势。客户资产管理说把营销上升到了战略层面来解释企业的竞争力所在，是营销关系说在更高层面上的演进。</p>
+<p><strong>9交易成本说</strong></p>
+<p>一般而言，满足需求的方式可分为三种：自行生产或制造，偷窃或强取，用有价物与他人交换产品或服务。斯坦顿教授（William J.Stanton）认为，第三种方式才能称为交易，并且存在交易的情况下才存在营销；而营销的目的，就是促成交易。如果买卖双方对于他们所买卖的标的物在交换之前与之后都能清晰了解，交易过程非常之有效率，这个时候还有营销存在的必要吗？很显然，无摩擦交换下营销没有存在的意义；在真实世界中，营销的目的是消除和降低交换所产生的成本，这就是交易成本说。</p>
+<p>交易成本的概念由经济学家罗纳德 · 科斯（Ronald H. Coase）提出，营销意义上的交易成本构成有很多争论，目前看，主要由客户的信息搜集成本、信任成本和转换成本三个维度组成。信息搜集成本体现在，消费者在购买产品时，花费时间、精力等去搜寻有关该产品的信息。营销策略中的终端拦截、广告传播、差异化策略都是为了降低消费者的信息搜集成本。信任成本体现在，消费者与公司打交道、购买产品时对风险的考虑，害怕受骗。转换成本是指消费者从产品或服务的提供者转向另一个提供者时所产生的一次性成本。这种成本不仅仅是经济上的，也是时间、精力和情感上的。企业守卫市场时要学会建立自身客户的转换成本，建构自身的护城河。</p>
+<p><strong>10信息不对称说</strong></p>
+<p>信息不对称说实际上与交易成本说一脉相承，他们都是从新制度经济学中获取到灵感，来解读营销的本质。信息不对称指的是在商业活动中，交易双方对于将要进行交易的商品或服务拥有并不完全相同的信息。1970年，31岁的乔治 · 阿克洛夫（George Arthur Akerlof）发表了《柠檬市场：质量不确定和市场机制》的论文，开创了逆向选择理论的先河，该论文曾经因为被认为“肤浅”，先后遭到三家权威的经济学刊物拒绝，几经周折才得以在哈佛大学的《经济学季刊》上发表，结果引起巨大反响，并因此获得了2001年的诺贝尔经济学奖。</p>
+<p>在文中，阿克洛夫提出了柠檬市场模型，即信息不对称的极端情况会造成“劣品驱逐良品”，他以二手车市场为案例进行了深入剖析。在二手车市场，卖家比买家拥有更多的信息，所以两者掌握信息的情况呈现非对称性，买者肯定不会相信卖者的话，即使卖家说的天花乱坠。买者唯一的办法就是压低价格以降低信息不对称带来的风险损失，而买者过低的价格使得卖者不愿意提供高质量的产品，从而低质品充斥市场，高质品被逐出市场，最后导致二手车市场萎缩。</p>
+<p>信息不对称、交易成本是营销存在的基础，赋予了营销存在的意义；客户的需求是市场存在的基础，需求管理要求企业贯穿到产品创新与开发、销售、推广等的全营销链，防止企业与市场之间关系的断裂；流通说强调生产领域、流通领域和消费领域的贯穿；竞争说则提醒企业不能只关注客户需求，否则会因为对手的争夺而失去市场；差异说和垄断说是从竞争说出发的两条线索，讨论市场竞争何以有效，研究市场竞争策略的本质目的；需求管理说和竞争说的交汇，形成了价值设计说；关系管理则关注交易完成后的营销工作，注重与客户建立持续交易的基础，与客户相互嵌入、相互约束、形成共享平台；客户资产管理说则把客户关系上升到战略高度，找到营销策略何以升级的线索和基点—何谓可以持续的营销。基于此，我们可以形成了下面这张营销本质的综合图。</p>
+<p>理解营销本质，不仅仅是智力上的乐趣，更多的还是寻找营销策略成功的关键词。管理究竟是科学还是艺术？明茨伯格给出的关键词是：管理既不是科学，也不是艺术，管理应该是科学、艺术和手艺三者的结合。手艺这个词的加入可谓精妙，它形象地刻画出管理工作中管理者所需要的分寸感、拿捏轻重的手感、讲究的质感等。科学、艺术、手艺—这就是明茨伯格的管理三角。受到明茨伯格启示，我把营销中最关键的要素抽离出来，提出了我的营销三角—逻辑、想象力与人性。</p>
+<p>逻辑是指营销策略发起的思考线索，是我们形成自己对市场认知、判断、决策的基础，是规律的总结与提炼。营销学的重要概念和理论，如市场细分、定位、转换成本的管理、接触点管理等等，都应该被囊括到营销逻辑的领域。拥有漂亮的逻辑还远远不够，逻辑要与经验相接合。在市场竞争中，我们看到：改变服装行业的，不是服装公司，是凡客等电商；改变通讯行业的，不是美国电信，是Skpye；改变中国酒店行业的，不是人们熟知的老酒店，而是携程。仅仅依靠逻辑来做决策，难免成为纸上谈兵的营销业赵括。</p>
+<p>爱因斯坦曾说：“想象力比知识更重要！” 营销三角的第二个关键词是想象力（Imagination）。为什么营销需要想象力？首先，逻辑导向容易陷入趋同思考，进入红海。其次，逻辑是对规律的抽象提取，还原需要场景。赫伯特 · 西蒙（Herbert Alexander Simon）曾经指出，因为规律是从具体的场景中抽离并综合得到的，运用时需要结合具体的、即时的管理场景。现在各个行业的边界正在消失，跨行业、跨界的想象能力对营销人来讲尤其重要。第三，营销工作有很多实施想象力的空间，让企业在竞争中“像一头紫牛一样冒出来”，比如说跨界思考，比如说置换型思考—把对手的灵感放进来，拆掉思维中的墙等等。</p>
+<p>人性是营销三角的第三个关键词。谈到人性，又是一个内涵无限深、外延无限广的话题。X理论、Y理论，弗洛伊德（Sigmund Freud）“本我，自我与超我”，“有限理性，情感与主观”都曾试图回答这个问题，而我认为，人性是动物精神和天使心灵的结合。我问过菲利普 · 科特勒所谓“营销3.0”的本质是什么，他说是“人文关怀（human-care）”，这就是人性营销中的“击中善因”，营销3.0就是要用价值观激发客户善的一面，引起共鸣。人性的另一个侧面，欲望张力、贪婪、羊群效益等等，也可以成为营销的出发点，正如物理学家尼尔斯 · 波尔所言：真理的反面是另一个真理。目前，在人性层面做营销的企业极少，而成功营销人性的企业都获得了巨大成功，比如乔布斯在每次新品上市前都做足营销攻势，做足“饥饿营销”，形成消费者的羊群效应。地产界黑马星河湾也是人性营销的高手，对于奢侈品和富人有极其深刻的洞察，把住宅地产卖出了不可想象的天价。星河湾市场部流行这样一句话：有钱人缺的不是钱，缺的是所谓的高尚和爽。</p>
+<p>在营销策略中，能把握住逻辑的人已是良将，能协调逻辑与想象力的人则是高手，而能驾驭逻辑、想象力与人性的则是大师级的人物了。营销需要人们去悟，也许我们可以这样理解：营销的逻辑对应的是消费者的大脑（Mind），想象力对应的是消费者的心灵（Heart），而人性则关注人的灵魂（Soul）！什么是一流智商？或许正如美国“迷惘的一代”代表作家菲茨杰拉德所说，“头脑中同时存在两个互相矛盾的想法而继续思考的能力”。营销需要逻辑，需要突破逻辑的想象力，更需要超越逻辑、想象力的对人性的洞察。</p>
+<p><strong>产业整合</strong>  </p>
+<p>产业云</p>
+<p>从产业整合到资本整合。  在产业的初创和规模化阶段，最重要的市场份额目标，在规模化到集聚阶段，最终要的就是产业整合，所以优先选择容易垄断的环节。其中资本的力量很重要，在初创阶段，资本决定了创新的方向；在集聚阶段，资本决定了谁是最后的王者；在平衡阶段，企业一定会资本化，建立自身资本的演进道路。一方面需要产品经营，另一方面需要资本经营。  资本经营和产业经营是相生互助的。</p>
+<p>随着互联网，电商和金融支付，供应链数字化，柔性生产等技术的进步，生产端和消费端的链条越来越短，竞争趋势向用户端贴近。企业数字化转型是全新的数字经济赛道布局，把数字经济作为一个市场对象，用产业投资的思维去做。未来是软件的王国！！ </p>
+<p><strong>世界经济格局的周期。</strong></p>
+<p> 长周期角度看周期更替，长周期的繁荣缘于“消费国-制造国-资源国的共生模式”在新一轮信息技术革命的支撑下逐步迈向全球化繁荣的高潮。当前的“逆全球化”正标志着这一周期模式的泡沫破裂。</p>
+<hr>
+<p> 经罗马东汉，唐宋阿拉伯，欧美，都是一个生死循环，秩序重组再生的过程。 </p>
+<p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/%E4%B8%96%E7%95%8C%E6%97%B6%E4%BB%A3.jpeg" alt=""></p>
+<p>「世界銀行のGDPデータ」によると、循環しながら、人類の変化の過程において、何を失い、何を獲得してきたかとい う観点から、過去を振り返り、人類の未来を展望する必要がある。古代ギリシアや古代中国の時代から今日に至るまで常に繰り返 し問い続けられてきている。</p>
+<p>比尔曰：People –Needs—Regions—social productivity–culture／civilization–industry</p>
+<p><strong>花士</strong>：老子，孔子，孙子，韩非子，</p>
+<p><strong>花脉</strong>：道德经模型，孙子兵法，</p>
+<p><strong>花肥</strong>： 壁画，东非特产， 金字塔公园， 其外有炎火之山， 撒哈拉沙漠，运河，尼罗河，乞力马扎罗山，玉米，纺织，丝织业。黄河流域，长江流域，养蚕，各级贵族。衣服，丝绸，礼物，祭祀，丝绸，矿石，植物，提纯，染料，制漆业。花生，胭脂红，扶木–仙人掌，墨西哥书法，武当山的时刻，甲骨文的符号，哲学中的二元论来自于阴阳，科罗拉多大峡谷，流金铄石的壮美风光，</p>
+<p>​                                                                                                                                                            <strong>The End.</strong> </p>
+]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
+      <tags>
+        <tag>ABC</tag>
+        <tag>DEF</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数字营销</title>
+    <url>/2020/10/20/5%E5%AE%8B%E5%85%83%E6%98%8E%E6%B8%85%E8%BF%91%E4%BB%A3/</url>
+    <content><![CDATA[<p><strong>穿越到了宋元(960-1368)：</strong></p>
+<p>北宋商业的发展，表现在政府对商利的重视和商业收入的巨大增长上。</p>
+<p>　　北宋承袭唐后期和五代征税的传统，广设税务，征收2%的过税(即过去的关津税)和3%的住税(即过去的市税)。仁宗庆历时一年城乡商税共收入1975万贯(千钱为贯，宋代用“省陌”，法定77文当100文钱用，数字来自张方平《乐全集》卷廿四《论国计事》)。另外，酒税及卖酒收入1710万贯(张方平计算)；卖茶收入64.9万贯(不包括非属商业收入的、园户交纳的茶税——44万贯，由《梦溪笔谈》中的数字计算)；中央掌握的销盐收入715万贯(不包括地方的官卖盐的收入，数亦来自张方平)。另外，从对外贸易中所得收入一年也有53万余贯。五项合计达4600余万贯，来自商业方面的收入要占到整个中央财政收入(包括货币与实物)的1/3强。货币(缗钱)收入更是基本上依赖商业提供。而在唐时(宣宗大中时)，一年的榷酒收入仅为82万贯，盐利278万贯，茶税不过近百万贯；商税收入更是“随而耗竭”，数额并不大。宋代税收稽征数额大增，无疑是商业发展所致。</p>
+<p>正因为商业发展，市场容量扩大，所以北宋中叶每年铸钱数量虽超过盛唐十几倍，铜钱还不够用，有些地区使用铁钱(贱于铜钱)，白银(称“铤”，即银条)也更多地进入流通而作为支付工具；稍后还创行了世界最早的纸币——交子。</p>
+<p>南宋也是因滥发纸币(交子、会子)，大搞通货膨胀，而致城市萧条，店肆昼闭，民心背离；金与之可谓南北如出一辙。</p>
+<p>宋代有蔗糖上市。过去都用麦芽糖做糖，叫饴糖；唐代能以甘蔗作沙糖，但产量很少。北宋时甘蔗推广种植，如四川南溪县繖山等地“山前后为蔗田者十之四，糖霜户十之三”(王灼《糖霜谱》)。“冰盘荐琥珀，何似糖霜美”(苏东坡诗)，人们已不但会制红、白糖，而且还制出水晶似的糖霜(冰糖)。糖已继久盛不衰的茶叶之后，成为“利当十倍”的一项新商品。</p>
+<p>棉布过去是自海外进口或来自西域或西南(哀牢地区)，史称“吉贝”或“白叠”。北宋晚期随着棉花逐渐在闽广种植，那里的人民也学会了纺纱织布；海南黎族妇女织的棉布“染以杂色，异纹炳然”。但棉布尚未成为重要商品。到元代提倡广种棉花，黄道婆将种棉和纺织技术自海南传入松江地区，至此棉布在市场上的地位才逐渐提高。</p>
+<p>传统的以名贵土特产品和奢侈品为主的贩运贸易，在南朝和唐代即已有了改变，进入宋代后变化加速。除了珠玉金银器和广南来的进口的犀象香药宝货尚占重要地位外，粮、帛、茶、盐、铁、瓷(细瓷销城市，粗瓷销农村)、纸、糖、什器等均纷纷然进入较远距离和较大规模地在地区间流转的商品系列之中。贩运贸易的商品种类和比例与过去更加不同，商业在加强地区间经济联系方面的作用比过去更为增大。</p>
+<p>　　这时市场上生活用品的比重日益提高，不但有经商人贩运而自外地输入的，并且有本地生产的；种类繁多的商品充盈于市肆。南宋临安有440个行业，商品种类之多又倍于唐时，其中绝大部分该是日用生活必需品。商业已开始改变其主要为少数顾客服务的狭隘性；由往往是畸形发展转变为建立在比较可靠的基础之上。这是新阶段商业发展的一个进步表现。</p>
+<p>其中不少城市“恃商工为活”，如平江(苏州，当时称“金扑满”)、镇江、吴兴，长江中游的襄阳和上游的成都等，都是很有基础的丝织业中心，手工业和商业在城市经济中已占相当比重。这是宋代尤其南宋城市所具有的一个显明的特点。</p>
+<p>1150 A.D. 造纸术传入罗马，为文艺复兴和媒体的传播奠定了基础。</p>
+<p>1250 A.D. 市场大即不必竞争，故讲“和气生财”，不像西洋的歌颂海盗。十三世纪的威尼斯银行是从高利贷出生。</p>
+<p>1096 -1291 A.D.在拜占庭全盛的时候他的版图几乎接近罗马帝国，但是后来拜占庭对北非和耶路撒冷失去控制了。他的范围就限制在小亚细亚和巴尔干。耶路撒冷落入穆斯林手中。所以才会有基督徒的十字军东征。 中国的宋元时期，十字军东征。</p>
+<p>紫色</p>
+<p><strong>元朝(公元1280—1368年)</strong></p>
+<p>马可波罗记临安户籍有一百六十万家，即或是一百六十万人之误，但那是宋元之际，而同代西洋的大城威尼斯却则有五万人，过去罗马帝国全盛时罗马城亦只三十万人，且罗马与威尼斯都是孤立的，中国则临安这样名城迢递相望，此即是国内市场大。还有通西域及南方海上的贸易，皆沿途兴起新产业，此则是连国外市场亦化为国内的了。南宋旧都临安(杭州)在元时虽失去政治中心地位，但其商业繁华仍不减往日。元杭州商税收入之多实占全国之首位。马可波罗在其《游记》中盛赞杭州，说“人处其中，自信为置身天堂”。</p>
+<p>1350 A.D. 蒙古帝国在极盛时期的人口（1300年）大约袭为1.1亿，占世界百人口总数3.6亿的30.7%。元朝极盛的时候正是罗马帝国强弩之末，西方中世纪开始文艺复兴之时。文艺复兴给欧洲带来了希腊的雕刻与冠剑，耶和华亦又恢复为宙斯，手下又有了艺术之神，工巧之神，爱神，及从罗马时代新添进去的战神，基督教亦分了派别。而且又有了许多半神半兽的英雄，海上的奴隶贸易及城邦的战争。文艺复兴的欧洲岁回到了希腊，但希腊只是罗马初期，到了帝国主义乃至世界苏维埃联邦，亦只是放宽了罗马帝国的限制，而不能越出那限制。西洋的社会现实奴隶社会，后是农奴，再是工资奴隶，再变到国家机关的雇佣奴隶，他们的历史一直是资本为祟，从商业资本到工业资本银行资本国家资本，他们总不能产业的色相自身即是具足。他们革命又革命，只能是从古代自由都市僧侣政治到罗马帝国这一段传奇的反复。他们每次出现新的罗马帝国，而每次又毁灭，造了又拆，拆了又造，而且每次毁灭的原因皆只是这一个，没有人与物的位份，所以大信不立。他们一切有为法，如露亦如电，如梦幻泡影。</p>
+<p>元政府掳掠、拘役大量的手工业工匠，以官府或贵族的作坊，垄断和控制了重要生产部门，民间手工业发展受到很大限制。流通领域又由元统治者假手于色目特权商人集团(中亚及西域降人)进行把持和操纵，并最大限度地加强商品的专卖、加重商税的征收。汉族商人备受歧视，民间商人很难活动。再加元政府也滥发纸币，不计后果。在这样的条件下，商业又出现后退的状况。只有金银珠翠等奢侈品、高级丝织品和高档手工业品充斥市场，供统治阶级消费和国际商人转贩。大都(北京)又出现与马、牛、羊市并列的“人市”，奴隶贸易带有国际规模。这方面商业和对外贸易的发展仍是畸形的发展。</p>
+<p>值得提出的是：元政府经营大都(今北京)，使之成为规模宏伟的国际性城市；为便于对京师的漕运，开凿了从大都到杭州、直北直南的大运河(当时还未很好畅通)；这两件事又给以后明清两代商业的发展带来有利的影响。</p>
+<p>元代市场商品多以奢侈品为主，这是民族矛盾、阶级矛盾日深、贫富对立日甚条件下一时性的对历史的反动。入明以后又有改变，商业进步的趋势并未就此中断。而元代某些产品生产的发展，如著名的元瓷(景德镇白瓷器有“饶玉”之称，青花和五彩瓷器开始生产)、新兴的棉纺织业、毡毯业等，则作为生产力保持下来，对此后商业的发展还是有作用的。</p>
+<p>产业沿着“初创-规模化-集聚-平衡”4个阶段演进，这是产业发展的基本规律，战略的基础。</p>
+<p>马可波罗（1254年—1324）， 杭州</p>
+<p>由于海外贸易的发展，商人“得宝货无算”，专擅海利的主要是色目人；汉人也有，如元末江南富豪、人称家有“聚宝盆”的沈万三，就是作海舶买卖发大财的。元代的许多城市，其繁荣就靠对外贸易支撑起来。国内贸易与对外贸易呈跛行状态，基础不稳固。发展是畸形的。</p>
+<p><strong>明清时期(1368-1912)</strong></p>
+<p>明朝。拜占庭帝国灭亡。莎士比亚(1564 -1616) 4P</p>
+<p>  商品经济特别发达的江南地区城镇的丝织业等行业里，在明后期出现了商业资本投资于生产的引人注目的新动向。过去商人插手生产是和旧制度的残余、过时的生产关系相连——如西汉时盐铁主虽是亦工亦商，但系役使奴隶或农奴进行生产。而这时的情况不同，商人与生产者之间是一种新型的自由的雇佣关系，这是封建社会内部的资本主义萌芽。商业初步改变了独立于生产之外、封闭于流通之内的状态，而开始与生产结合。商业资本在促成生产关系变革中起着积极的推动作用，是古老的商业发展到更新的阶段所出现的新的事物。</p>
+<p> 1550 A.D.十六世纪的英格兰银行是工商业的司令部，而中国的票庄则为盐茶丝及皮货瓷器各业的同行所开设，且一直保持为同行的利益，所以工商业这样繁盛，票庄这样发达，可是货币终不跋扈，唐时“一曲红绡不知数”，宋时“一曲新歌百匹绫”，久久实物与货币并用，此即是有金融而不发生金融资本主义。</p>
+<p> 可是就在万历中晚期，贪得无厌的统治者加紧对商业的掠夺，派出太监到处收税开矿——税监、矿监，“征榷之使急于星火，搜括之命密于牛毛”。遍设栏卡，重捐叠税、横征暴敛。结果是：行旅艰难，市井萧条，机户改业，“佣工无所趋食”，沉重地打击了发展中的工商业，使新生的资本主义萌芽受到摧残。</p>
+<p>乾隆时的商业不仅超过明代，而且也超过了康熙之时。清诗人赵翼在《风气》一诗中所云的“城多新样髻，窖有不时蔬”，“饮坊喧夜肆，游舫泛春渠，翡翠镶花钿，玻璃嵌绮疏，厨羹穷雉兔，灯事舞龙鱼”，“何当人满后，回忆我生初”，即反映乾隆时的繁华景象，大异于他初生之时了(《瓯北诗钞》)。</p>
+<p>　　大量滋生的人口涌向四方，很大部分为东南经济发达地区的城市和新兴市镇的手工业所消纳。在手工业的发展中，商业资本比明代有更多的投入，明末清初一度夭折的资本主义萌芽又重新茁壮成长；在地区上、行业上、商业与生产结合的形式上都比明代有所发展。古代商业在质的方面的变化正步步深入。</p>
+<p>　　盛极则衰，嘉庆道光年间清王朝开始出现转折：财政收不抵支，封建剥削苛重，再加银贵铜贱，赋税负担增加(农民售物收钱，纳税用银)，农民生活更形困苦，购买力萎缩，可供商品量减少。此时清政府对矿业、手工业和沿海贸易限制又转向加强；商税实际加重，贪污盛行，法外横取多于正课。这就削弱了贸易的基础，阻碍了流通的运行。曾几何时商业就由发展的峰巅而滑坡不止！在中国历史上，政局的盛衰很大程度上左右着商业的进退行止，这是又一条屡验不爽的规律。</p>
+<p>如某些地区部分农户集中种植棉花、烟叶、甘蔗、桑树、茶树以至花生，从事织布(如苏松地区)、制糖、养蚕、制茶等专业，即可借以发家致富，获取更多的货币；已不是生产、出售产品仅用以换取自己所不生产的生活和生产资料的那种“简单商品流通”(商品→货币→商品)可比。这是过去农村中罕见的或很难谈起的新情况，这种以实现更多的交换价值为目的的商品流通(货币→商品→更多的货币)，可称为“发达的商品流通”。明清时期，商品流通已在更大范围内、更大程度上自不发达向发达转化，商业正以努力推销产品、供应原料为培育这种发达的商品流通发挥着积极作用。</p>
+<p>明代北京(公元1421年明成祖由南京迁都于此)城内有三百六十行。店铺林立，南北货云集。大街上有许多专业性的市场(批发)，如米市、猪市、羊市、骡马市、煤市、花市、菜市、果子市、缸瓦市等，交易时间主要在早晨。此外还有定期开放的灯市(正月初八至十七日)和庙市(以城隍庙最热闹，每月朔望和二十五日开市)。清代的北京，商业更超过明代，以庙市而论，即由明代的22处，增加到36处，护国寺、白塔寺、隆福寺、土地庙是当时有名的四大庙市。北京而下全国较大的城市在明中叶已有55处，其中很多城市就是商业或手工业中心，而不是“完全与政府的消费有连带关系”的政治中心了。清代有“天下四大聚”——北京、苏州、汉口、佛山和“四大名镇”——佛山镇、景德镇、汉口镇、朱仙镇之称。仅北京是政治中心，其他都是以工商业发达而著称的。如苏州向来是丝织业的中心；佛山是冶铁业的中心；景德镇是制瓷业的中心；汉口镇为长江上下游总汇，“五方杂处，百艺俱全”，盐、米、木、布、当、药六个行业最大；朱仙镇(在开封西南45里处)，元开贾鲁河后成为通往开封的水陆转运点，南船北马于此相接，为重要的商品集散地，其商业发展与宋时汴京之依仗政治中心有所不同。总的说，明清时期城市商业繁盛之处主要集中在南方，北方的商业和南方比，较之宋代更是相形见绌，南北之间已出现了新的不平衡。</p>
+<p>农村商业在明清也比宋代有了新的发展。镇市以下的农村集市贸易较前更旺，集期缩短，市集增多，品种扩充，商人活跃，南方集市尤盛于北方。在北方，“河北郡邑，乃有数十里无聚落”；连德州附近的商河县，也是“其为市不过附近居民贸易有无而已”。而在南方则县里的墟市已很普遍，如广东一个县就有二三十个以至五六十个墟市。有些地方还以一二种大宗商品为主要交易对象，以致形成专业性的市集，如丝墟、竹墟、桑市、蚕市、谷市、鱼市、牛市、鸡鸭市等。</p>
+<p>如苏州的枫桥是一个大粮食市场，湖州的双林镇是一大丝市，上海郊区集镇上有专业的棉花市场，盛产棉布的苏常松各府州县的集镇上则出现了许多棉布交易市场。后者则依托于某项手工业生产的发展，如吴江县盛泽镇可为代表，它的兴起即与丝织业有直接关系。明初这里还是一个五六十户人家的小村，明中叶才改为市，明末就发展成“狭巷穰穰”、“居民稠广”的镇；入清更盛，以至推为吴江诸镇第一。所产丝绸质量好，商人不远万里“辇万金来买者摩肩连袂”。在明代，城里有牙行的同时，镇上也出现了牙行。盛泽镇有绸丝牙行“千百余家”，松江各镇的牙行“奉布商如王侯，而争布商如对垒”(叶梦珠《阅世编》)。为方便客商起见，牙行不仅供给住宿，而且代客买货，有的还代客护送货物，商人未来时牙行也常从农村收购一些货物存着。进入清代，对大宗商品，外地客商很多在镇上自设坐庄，自己收购，不通过牙行，牙行只能起出租房屋介绍情况的作用，而收一些房租和行佣了。但一般农副产品牙行牙人活动余地还很大。有的奸牙欺行霸市，十分无赖。</p>
+<p>明初以来，来自日本的倭寇骚扰沿海，方国珍、张士诚余党逃亡海外，常思卷土重来。海疆不靖促使朱元璋实行海禁政策，严禁本国商人出海贸易，订有告发给赏制度，仅有的一点海外贸易是在“勘合贸易”(旧称朝贡贸易)的形式下进行的。勘合贸易就是对一些有外交关系的国家，规定前来贸易的年限、路程、居住和停留的时日地点，船只数目和随从人数。并须核对明政府所发的“勘合”(信符金牌)，无勘合者拒绝入境。泉州、广州、宁波三市舶司分别接待来自各指定国家的船舶，检验货物，护送来使下榻于南京(时为京城)的“会同馆”内。来使所交贡物明方给以加等的报酬，实际上是一种官方贸易；其附载货物官府也给价收购，余下的部分可在会同馆内开市三五日，在官吏监督、官牙组织下与民贸易。但不准来使“潜入人家交易”，托人收买违禁物品。这种不收税，不抽分，高给价，厚赏赐，优惠颇多，而限制很严的薄来厚往的作法，与宋元的市舶制度及招徕海舶的政策很不相同。对明政府是一个很大的经济负担。</p>
+<p>永乐年间国内统治的巩固和经济的发展，促使统治者想以本国大量生产的商品到海外去换取奇珍异宝，发展中的民间手工业也要求开辟广泛的海外市场。明成祖采取了主动积极姿态，去开拓官府经营的海外贸易。除增设市舶司设置招待外宾的驿馆外，更有郑和下“西洋”的壮举发生(当时把南婆罗洲以西，到非洲东部的广大地区称西洋，婆罗洲以东地区称东洋)。郑和下西洋声势浩大，于永乐三年(公元1405年)首次出航，率领一支由27500多名随行人员(除官府吏员、兵士外，滨海商民、船户、渔民等亦组织在内)、62艘“宝船”组成的庞大船队向大海进发。船最大者长44丈、宽18丈，堪称当时世界之最。船上满载瓷器、铜器、漆器、金、银、印花布和贵重的丝织品，历经占城、爪哇、满剌加、苏门答腊、锡兰，直抵印度西岸的古里，然后返航。每到一处都以所带之货换取当地的特产(香料、染料、珍宝、异兽)，所到国家纷纷遣使随来中国修好通商。以后28年中郑和又六(或七)次远航，共到过30余国，最南到爪哇，最西到非洲西海岸，最北到波斯湾和红海的亚丁以至麦加。郑和下西洋把明王朝的对外贸易推向一个顶峰，促进了国内尤其是沿海地区手工业生产的增长，加强了中国人民和各国尤其是南洋各地人民的经济和文化联系。</p>
+<p>郑和下西洋对外贸易路线示意图</p>
+<p>　　英宗(正统)以后，明王朝日趋腐败，国势转衰，已无财力从事花费巨大的海外经营，永乐时扩大了的勘合贸易走上了下坡路，入贡者稀，库藏宝物虚竭。而另一方面永乐以来随船出海者多，熟悉了海上航道，私人的海外贸易遂日见活跃，外国来的没有勘合的私舶也日益增加。面对这样的变化，统治集团内部主张开放海禁的一派渐占上风，他们主张在既成事实前干脆承认私人出海贸易和非贡舶的合法地位，从中抽税，以解决财政尤其是地方财政的困难。正德十二年(公元1517年)正式确定抽分2/10，海禁已无形中开放了。</p>
+<p>　　但时间不长，由于倭寇的大肆入侵东南沿海地区和葡萄牙人勾结倭寇转掠沿海，强占澳门，嘉靖时明统治者又加强海禁，封锁广州，完全禁止海舶出入，海外贸易的衰落到了最低点。</p>
+<p>　　隆庆年间，随着倭乱平定，开放海禁的呼声又起。明政府决定默许私人出海贸易，借此征收商税，增加收入。当时对本国商人实行“引票”制，由海防官管，兵士巡察，查验引票。领引票要缴“引税”，回航时缴纳“水饷”(按船只大小广狭，由船商缴)和“陆饷”(按入口货物多寡，由铺商缴)。从吕宋回国的商船带的货少，银币多，要缴“加增饷”。外商到后仍归市舶司管(此时已无贡舶、市舶之分)，仍实行抽分，并对之征收水陆饷。海禁开放后，“五方之贾，熙熙水国，……所贸金钱，岁无虑数十万”(《东西洋考序言》)；海外贸易有数倍之利，“泉、漳二郡商民贩东西二洋代农贾之利”者比比皆是(《天下郡国利病书》)。福建地区的关税收入到崇祯时年达五六万两。可海外贸易活动又受到了外来的新的限制。欧洲海盗东来(葡萄牙，继之而来的西班牙、荷兰)，霸占了南洋，中国与南洋间的贸易由他们垄断。去南洋的华商和侨民被虐待、屠杀，经商受到严格的管制，要缴纳重税；只是由于中国商人的艰苦斗争，中国和南洋各地的贸易关系才在极度困难的条件下继续下去。</p>
+<p>清初由于防备郑成功的反清活动，又重复明初的那一套实行海禁政策，且有过之。私自出海者处死，地方官撤职。中外贸易除犯禁走私外，只能通过葡萄牙人侵占的澳门从陆路进行。土货积滞，滨海之民，多半失业。康熙中随台湾的回归而开放海禁，允许国内商人在一定条件下出海贸易。如船只限在500石以下，须先连环结保，由州县许可，所去地方、往返期限、所带商品都有限制。外国商人在指定的口岸通商，口岸是上海、宁波、泉州、广州，设江、浙、闽、广四海关。在陆路则同帝俄订立《尼布楚条约》，开展贸易往来。当时是商舶交于四省，“方物环宝，可效之珍，毕至阙下”(《大清一统志·海防总论》)。“大观园”里也出现了不少洋货，如洋烟、洋呢、金表、挂钟、波斯玩器等。</p>
+<p>清(前期)版图扩大，政治上的统一促进了各民族之间的经济联系，边疆和中原地区的贸易往来也比过去任何时期更为活跃。榷场的边境贸易已为各族商人的直接往来所取代。</p>
+<p>　　汉族商人到蒙古地区做买卖的很多，山西帮最主要，称“旅蒙商”，他们把布匹、绸缎、砖茶、烟丝、面粉、纸张、瓷器、剪刀、铜铁器等运去贩卖，在当地收购皮毛、木材、牲畜、盐碱等土产。呼和浩特与张家口是当时汉蒙人民贸易的中心城市。北京也有来自蒙古的客商做买卖。</p>
+<p>　　在大西北，汉族商人来回疆做买卖的多集中在叶尔羌等城市里。著名的和田丝绸、玉器，叶尔羌、喀什噶尔的革鞯、绒毡、丝毯等都是中原人民喜爱的精美的手工艺品；钢铁、铜锡器，本地维吾尔族人民不能生产，要靠汉族商人输入。新疆北部的哈萨克族，则在乌鲁木齐、伊犁等地，以毛皮皮革同维、蒙、汉各族人民交易。</p>
+<p>　　西藏的手工业品、马匹和皮毛、药材(鹿茸、麝香、冬虫夏草、贝母、红花等)等土特产，常用来和汉族商人交换茶叶和丝、棉织品。打箭炉、西宁等地就是当时定期贸易的集中地。川边贸易则以“贩牛羊毛革与买换茶叶之商贾为巨”。</p>
+<p>　　东北是满族(前身即女真)的发祥地。入清后农田扩大，生产发达，关外的豆、麦等销往关内，关内的棉布、茶叶和各种南货即由运豆麦的沙船回程运到东北。汉族商人到东北，最初是以杂货商形式渗入农村，后来积了钱就经营起手工业来，如制高粱酒、榨豆油等。</p>
+<p>　　在西南的苗族、彝族、壮族、瑶族，在海南的黎族，在台湾的高山族，入清以后同汉族商人的贸易也日益增多。各族人民之间贸易的加强，对推动边疆生产的前进，促进各民族地区经济的开发，有一定的好处。诚然，商人在其间也搞不等价的交换，有时还很严重，但在客观上民族贸易的积极作用还是主要的，不可抹杀的。</p>
+<p>　　乾隆二十年(公元1755年)英人抵制清政府的外贸管理(保商制度)，执意绕开广州，要在宁波进行贸易。为此，二年后，乾隆二十二年(公元1757年)清政府决定撤销江、浙、闽三处与西方商人的通商口岸，只保留广州一处，即变四口通商为一口通商。但一口通商后西方来华商船不仅没有减少，反而有所增加。乾隆二十二年后粤海关在80年间比乾隆二十二年以前四海关贸易总值一直不断增长。事实说明一口通商并未阻碍对外贸易的发展。何况乾隆二十二年后，广东沿海大小港口和宁波、厦门等港口仍然准许往南洋贸易，有时也允许来自吕宋的西班牙船进港(厦门)，并未加上什么限制。</p>
+<p>　　清代的海关代替前代市舶司管理对外贸易，掌管征税稽查，实际事务由官设牙行来办理。广东的十三行就是这样的牙行(后来本身也经营买卖)，由官府给以特权，充当替国家经营外贸的代理人；其主要业务是为外商代缴关税(包括货税和船料)和规礼(海关官吏需索)；代办内地货物出口，承销外洋进口商品；政府命令、外商呈文都经其手下递上呈。十三行建筑商馆，租给外商居住，并对之进行管理，外方雇佣各种人员须由十三行介绍。十三行的共同组织叫公行。除了扇、漆器、刺绣、绘画等小宗商品可让公行以外的散商与外商交易外，茶丝和各种大宗商品贸易都由公行专揽；外商船上货物的出售，也须先向公行接洽，不能直接进行私人交易(如外商自己选定某一商人为交易对象时，仍须以货物之半数分配给公行成员)。进出口商品价格由公行评定；公行明抽货价的3%为“行佣”，实际还有暗扣。行商与外商之间还有“保商”制度(创于1745年)，由总督指定殷实行商数人为外商的保证人，外商须从中找一个作保。保商对来船应缴税款，对船上人员的行动负全部责任，来船给予若干报酬，保商对承保货物有优先交易之权利，但税款如有拖欠、隐漏时，保商须先垫付或代为赔偿。由一般牙行性质的行商，到包办洋务的公行和保商，对外贸易的垄断性质越来越浓厚了。</p>
+<p>　　外国商人不满意清政府通过公行和保商对他们的管理，一直设法摆脱控制；更重要的是中国的茶叶、丝绸、瓷器、药材、糖大量输出，而所需国外的商品不多，除输入棉花、玻璃以及香料、珍宝、钟表等奢侈品外，巨额贸易顺差，使外商不得不以大量的银元来抵付。英国资本家试图在中国推销毛织品和洋纱、洋布，都因缺少销路而白费心计。为了扭转贸易劣势，英国资产阶级无耻地选择鸦片这一毒品，向中国走私倾销。公元1798—1839年41年中共输入43万多箱，约值四亿多银元，从而使中国由出超变成入超，茶、丝等出口抵不上鸦片输入的价值，白银大量外流，造成社会贫困，并给中国人民的身心健康造成极大的危害。</p>
+<p>　　由于鸦片贸易也威胁着清政府的统治(“十年之后无可措之饷、可用之兵”)，道光帝派林则徐为钦差赴广东禁烟。1839年6月3日林则徐在虎门销毁英美鸦片贩子被迫缴出的鸦片20200箱，做了一件大快人心之事。英政府为维护其非法的毒品贸易，派遣侵华远征军，发动了鸦片战争(公元1840—1842年)。鸦片战争因清廷的腐败，投降派的破坏，而致中国方面以失败告终。从此中国一步步沦为半殖民地半封建社会。中国的商业也就开始踏上近代的里程。</p>
+<p>　　清政府对于对外贸易通过海关进行监督、管理；对于外国入侵者的觊觎加以防备、限制，对于鸦片毒品的走私给予打击、查办，这原是主权国家的正当的民族自卫行动，鸦片战争之起，其咎不在中国。不过清政府的对外贸易确是限制多而鼓励少。长于骑射的统治者，面对接踵东来的欧洲海盗，采取的却是消极海防的政策，与汉唐时以至明永乐时的对外开放，积极防御、主动进取确是大为逊色。总的说，清王朝确是偏于内向的，统治者“对新事物特别憎恶，对旧惯例特别固执”(范文澜：《中国近代史》上册89页)。为了维护其少数满族贵族对大多数人的统治，不愿人民与外国人接触，以免引起排满情绪，致使能放眼世界谙于形势者绝少。再加八旗贵族日趋腐化，在庄严的国门前不配做称职的管门人，所以其被动挨打也不是没有原因的。</p>
+<p><strong>五朝人跑到终南山遇见道长</strong></p>
+<p>彼得带领去终南山 道长 </p>
+<p>  「Well, well, how did you stop the flood?」回族兄长问。<br> 道长捋了捋胡须，说到，<br>  「井田自然。找到规律，引流」眼前已是绿油油的山峰峰回路转。</p>
+<p>  彼得还未回答，<strong>突然树林中转出两个灰衣僧人，一高一矮。</strong></p>
+<p>–<strong>印度文明，非洲文明</strong></p>
 <p>The archaeologists tell us that modern humans evolved in Africa about 200,000 years ago. About 100,000 years ago, we began migrating across the globe, and civilization really began about 10,000 B.C.  </p>
-<p>让我们一起来看看世界人口增长的曲线。</p>
 <div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"theme":"#FADFA3","loop":true,"video":{"url":"https://azumiblog.oss-cn-shanghai.aliyuncs.com/global%20population%20growth.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
 
 <blockquote><p>1 A.D.       170M 农耕文化兴起 The advert of farming, population growth picked up.<br>100 A.D.   176M  西方罗马帝国Roman Empire与东方大汉帝国Han Dynasty<br>200 A.D.   182M 丝绸之路兴起 Silk Road Civilization starts<br>300 A.D.   180M  India Golden period 印度黄金时期<br>500 A.D.   177 M  南美洲玛雅文化全盛时期 Maya Culture<br>610 A.D.   179M   伊斯兰文明崛起 the rise of islamic civilization<br>775 A.D.   195 M   日本爆发天花疫情 smallpox epidemic occurred in Japan<br>800 A.D.    215M   中国道士发现火药 The formula of the gunpowder was first discovered by Chinese Taoist alchemists                                                                                                                                                                         1050 A.D.  288 M 欧洲开始使用指南针来导航 the compass spread into Europe for promoting the development of the European marine industry.<br>1250 A.D.  370 M 蒙古政府欧亚大陆 Conquest in Mongol Eurasia<br>1347 A.D.  360 M  欧洲爆发黑牛病 The Black Death struck europe<br>1492 A.D.   403 M 哥伦比亚发现新大陆 Columbia found the new continent                                                                                                       1540 A.D.   470 M 大西洋黑奴贸易  the Atlantic Slave trade started                                                                                                                              1760 A.D.   800 M 欧洲工业革命 industry revolution<br>1914-1918  2,200 M 第一次世界大战 The first world war broke up<br>2000 A.D.    9,500 M 21世纪 The 21th century came<br>2100 A.D.   11,000 M 22世纪 When the 22th centurey comes                                                                                                                                           </p>
@@ -63,18 +538,8 @@
 
 
 
-<hr>
-<p>《创世纪》：According to the book of Genesis, the creation of the universe began around 5,000 B.C. </p>
-<p>公元2020年，3月开春，一片寂静，秋日忽然来临，树上全开了红红的花，茂茂密密地随风晃荡。天空真的好高，难得有黄昏的金光。两外国人到无稽崖华山峰攀岩寻路，气喘吁吁，无畏前途却绕来绕去，绕回原地，忽见一穿白衣的道长，闭目垂眉，在前面一块磐石上静坐不动。 其中一位白发碧眼，花白胡子的西洋大叔用中文慢慢询问道：<br>「Excuse me，请问您知道上山的路怎么走吗？」<br>　这道士似乎无什么动静，另一位有着中国西域长相，但灰头发，披着长袍大衣的回族兄长补充了一句：<br>「we missed the way to the upward mountains, and we noticed you are siting here to see whether you can help us?」<br>　原来现在赶上新冠疫情，不光中原人士，就是老外都想往山中避一避。</p>
-<p>  道士开口道，「师曰，心不驰则心定，形不劳则精至，神不扰则丹结，妙道得矣。」<br>  两个传教士摇了摇头，似乎没怎么太能听懂。但这位道士似乎领会到二位迷路的困惑，表示愿意带路，抖了抖白衣上的尘土，随即起身和两位一起向上走。</p>
-<p>  华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着<br>念到：<br>「At mountains of Ararat,<br> God created the heaven and the earth.<br> God bring a flood of waters to destroy the evil livings,<br> Noah, the upright man without sin in his generation<br> save the world by an ark…」</p>
-<p>道长畅谈开来：<br>  「此洪水也淹到了中国，只是你们只是等洪水退落，方舟来救，而尧舜之世并没因洪水而倾动，举出禹来治平了它。」<br>  「Well, well, how did you stop the flood?」回族兄长问。<br> 道长捋了捋胡须，说到，<br>  「井田自然。找到规律，引流」眼前已是绿油油的山峰峰回路转。</p>
-<p>比尔・波特沿着绿峰转了个圈眺望远方，随后接着往下读那本经书：<br>    「Noah begat Shem, Ham and Japheth, and of them was the whole earth overspread. </p>
-<p>  The children of Shem：<br>      Elam, and Asshur, and Arphaxad, and Lud, and Aram,<br>      dwelling from Mesha, goest unto Sephar：Egypt and Mesopotamia。<br>people invent writing in Cuneiform,<br>and Arabian civilization.  </p>
-<p>  The sons of Japheth:<br>Gomer, Magog, Madai, avan, Tubal, Meshech, and Tiras,<br>then developed into Romance, Germanic, Slavicand,<br>construct Indo-European family. </p>
-<p>  And the sons of Ham:<br>Cush, Mizraim, Phut, Canaan, and Heth,<br>Heth formed Persian civilization.<br>immigrated into America, and Far East,<br>Found Khetae, invented Oracle script and formed Chinese civilization. 」</p>
-<p>西洋早先巴比伦人曾与中国通谱，中国是诺亚的三大子孙之一， 含的子孙。<br>「Hahahaha，」道长笑道，<br>「闪兄沉迷在古兰，雅弗弟疯狂于资本奴隶的驱动，中国形成井田之时起，大家就各家各宗了。」</p>
-<p>此时天色已暗，绿峰背后，回族外长眼前一亮，是一块巨大石岩上刻着一副地图。     </p>
+<p><strong>花脉</strong>有STP + 4P + CRM</p>
+<p>此时天色已暗，绿峰背后，回族外长眼前一亮，是一块巨大石岩上刻着一副地图。 华山峰成黄棕色，但忽见一块大石，碑上字迹分明。用汉字刻着    </p>
 <p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/civilization.jpeg" alt=""></p>
 <blockquote><p>中华文明</p>
 <p>日本文明</p>
@@ -91,49 +556,13 @@
 <p>​               <strong>日本文明</strong>: &lt;2亿。</p>
 <footer><strong>亨廷顿</strong><cite>1993 AD</cite></footer></blockquote>
 
-
-
-<p>そうですよね。世界は一つ、経済は一つ。</p>
-<p> 欲知后事如何，且听下回分解。</p>
-<p>比尔曰：People –Needs—Regions—social productivity–culture／civilization–industry</p>
-]]></content>
-      <categories>
-        <category>花士</category>
-      </categories>
-      <tags>
-        <tag>机器学习</tag>
-        <tag>AI</tag>
-        <tag>花数据预测</tag>
-        <tag>KNN</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>语言 language</title>
-    <url>/2020/07/12/2%E8%AF%AD%E8%A8%80/</url>
-    <content><![CDATA[<p><strong>秦の始皇帝は六国を併呑して，中国を統一した．</strong></p>
-<p>「昔者苍颉作书，而天雨粟，鬼夜哭」</p>
-<p>​     —-汉字的出现，诞生了世界上一个伟大的文明。</p>
-<p>700 A.D. 开始了穿越。A,B,和C三个人穿越到了8世纪的唐朝，那里的人都不是说的北京话，听到唐朝的官话，吴语，日本留学生，中国人民向东南方迁徙。</p>
-<p>中国方言？？？Story-telling  时间序列变化分析图</p>
-<p> 田舍汉</p>
-<p>半书面半口语 切韵音</p>
-<p>洛阳地区的语音，南迁金陵地区 洛阳河北地区 </p>
-<p>中间地区形成中原音 金陵洛下音。《切韵》</p>
-<p>长安关中地区 文化地位不高</p>
-<p>『<strong>切韻</strong>』（せついん）とは、隋の文帝の仁寿元年（601年）の序がある、陸法言によって作られた韻書。唐の科挙の作詩のために広く読まれた。最初は193韻の韻目が立てられていた。陸法言の序によれば、開皇の初め（580年代）に陸法言の家に劉臻ら8人が集まったときに[1]、各地の方言が異なり、既存の韻書も分韻が異なることが問題になった。そこで蕭該・顔之推らが中心になって分韻を決定し、その概略を陸法言が記した。その結果は長く放置されていたが、十数年後に諸字書・韻書に照らして『切韻』5巻にまとめた。</p>
-<p>640 A.D -750 A.D 唐代的经济，人口，需求，地域，文化，演进，创新，形态，政策，时间，更替。</p>
-<p>其实生活中很多名言教条有些表面，</p>
-<p>Be real, be honest. 西方文明鼓励人expressive，但并不是要你不忍耐。</p>
-<p>一个人要隐藏多少秘密，才能顺利地安度此生。</p>
-<p>这句话的真理是：东方文明鼓励含蓄，但并不是要你不诚实。</p>
-<p>我小的时候（其实也不过是5年前都算小时候）就经常理解为表面的意思，后来我学会了联系上下文理解每一个意思才能把话理解全面。但生活中又何尝不是很多人也跟我小时候一样犯同样的错误。这种错误是来自于大众的，来自于底层人民的，而社会意识更多由底层人民形成。</p>
-<p>人类对文化的理解不全面，造成了我们在19世纪到20世纪忽略了中国文化以至中医的价值。而对西方文化的误读，会不会也大量误解西方文化对人类社会的推动。人工智能的发展，会不会也让我们忽略人类文明的价值。</p>
-<p>我指的hot有点接近西方的自由。hot：open，equal，expressive，honest</p>
-<p>东方文化：cold，专制，等级制度，</p>
-<p>日本是极度cold文化里面藏着极度hot。</p>
-<p>中国是东方文化发源的地方，后来中国文化被蒙古，大金，俄罗斯洗刷，进一步走向专制。</p>
-<p>当专制和含蓄出了问题的时候，又会走向西方的民主自由；当西方的民主自由出了问题的时候，又会走向东方的含蓄专制。</p>
-<p>且听下回分解，周期。</p>
+<p>そうですよね。世界は一つ、経済は一つ。—日本文明</p>
+<p><strong>大数据选出文化组合。</strong></p>
+<p>侠是牺牲自己的利益，去帮助别人。有朋自远方来，不亦乐乎？我们看到世界人民的侠义心肠，忠孝仁义。最早韩非子，以不变来应万变。We claim ourselves chivalries, what’s the meaning of chivalry?  Could a chivalry humiliate wounded old men and kill savagely an innocent girl?  A well-known chivalry in Martial world。 Colluded with evil party and did Harm to our five Righteous parties. 五岳派 “两军阵前遇代战，代战公主好威严”，以及双鸳公主追狄青，皆把番女说成很可佩服。</p>
+<p><strong>花士</strong>：老子，孔子，孙子，韩非子，</p>
+<p><strong>花脉</strong>：道德经模型，孙子兵法，</p>
+<p><strong>花肥</strong>： 壁画，东非特产， 金字塔公园， 其外有炎火之山， 撒哈拉沙漠，运河，尼罗河，乞力马扎罗山，玉米，纺织，丝织业。黄河流域，长江流域，养蚕，各级贵族。衣服，丝绸，礼物，祭祀，丝绸，矿石，植物，提纯，染料，制漆业。花生，胭脂红，扶木–仙人掌，墨西哥书法，武当山的时刻，甲骨文的符号，哲学中的二元论来自于阴阳，科罗拉多大峡谷，流金铄石的壮美风光，</p>
+<p>​                                                                                                                                                            <strong>The End.</strong> </p>
 ]]></content>
       <categories>
         <category>花脉</category>
@@ -141,105 +570,14 @@
       <tags>
         <tag>ABC</tag>
         <tag>DEF</tag>
+        <tag>jiaozi</tag>
+        <tag>cotton</tag>
       </tags>
   </entry>
   <entry>
-    <title>GAME!</title>
-    <url>/2020/07/12/4GAME/</url>
-    <content><![CDATA[<pre><code>花脉，花士，花肥的识别</code></pre><p><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8701.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8702.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8703.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/marflowerdistribution.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8708.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8709.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8710.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8711.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8712.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8713.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8714.jpg" alt=""><br><img src="https://azumiblog.oss-cn-shanghai.aliyuncs.com/Marflower%20prediction/%E5%B9%BB%E7%81%AF%E7%89%8715.jpg" alt=""></p>
-]]></content>
-      <categories>
-        <category>花脉</category>
-      </categories>
-      <tags>
-        <tag>机器学习</tag>
-        <tag>AI</tag>
-        <tag>花数据预测</tag>
-        <tag>KNN</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>中世纪的产业 Industry from middle age</title>
-    <url>/2020/07/12/5%E4%B8%AD%E4%B8%96%E7%BA%AA%E7%9A%84%E4%BA%A7%E4%B8%9A/</url>
-    <content><![CDATA[<p><strong>古代的产业整合</strong>  </p>
-<p>产业云</p>
-<p>4000 B.C.　青铜器时代埃及巴比仑走在中国前头，但没有到达像殷周的高度，东亚和欧洲的冶铁技术都来自西亚（赫梯帝国），随之铁器时代亦是罗马抢先，但没有到达像汉朝的高度也萎缩了。</p>
-<p>纺织业、制盐业</p>
-<p>春秋战国时代</p>
-<p>纺织，丝织业。黄河流域，长江流域，养蚕，各级贵族。衣服，丝绸，礼物，祭祀，丝绸。</p>
-<p>矿石，植物，提纯，染料，制漆业。</p>
-<p><img src="file://localhost/private/var/folders/s8/d3b9n7yx5rg5ncc6b8l79j8h0000gn/T/TemporaryItems/msoclip/0/clip_image002.png" alt="说明: http://5b0988e595225.cdn.sohucs.com/images/20190521/3767bb1ae0ff46f4b15e5289a0b28a51.jpeg"><img src="file://localhost/private/var/folders/s8/d3b9n7yx5rg5ncc6b8l79j8h0000gn/T/TemporaryItems/msoclip/0/clip_image004.png" alt="说明: http://5b0988e595225.cdn.sohucs.com/images/20190521/987b122df4374791875bebf17330276e.jpeg"></p>
-<p><img src="file://localhost/private/var/folders/s8/d3b9n7yx5rg5ncc6b8l79j8h0000gn/T/TemporaryItems/msoclip/0/clip_image006.png" alt="说明: http://5b0988e595225.cdn.sohucs.com/images/20190521/e70c5a28eca54954a8c59071881a9bbb.jpeg"></p>
-<p>西方文化看重business sense（尊重商业），主仆意识，艺术品fine art意识，创立bitch精神却出现了文化倒退</p>
-<p>东方文化看重文化教育意识，家庭意识。 </p>
-<p>罗马不是一天建成的。**NLP？词云图</p>
-<p>罗马和汉朝两足鼎立，成为当时世界最强大的国家。 </p>
-<p>罗马实行公民制，富人大庄园，军官凯撒奠定君主制政体模式。在帝国时代，罗马的疆域进一步扩张，陆地面积达到了500万平方公里，海域面积更加可观，在巅峰时代图拉真时代，因征服了两河流域，使面积到达了600万平方公里，超越汉朝成为了世界面积最大的国家。</p>
-<p> 到前1世纪，汉朝的面积扩张了一倍，到达了560万平方公里左右。是世界上面积最大的国家。汉朝是一个农耕文明帝国，因此农业发达那是肯定的。汉朝时期，中国的粮食产量位居世界第一。从人口方面就可以看出，汉朝在到了西汉末期到达了6000万左右，位居世界第一。东汉时期，人口也保持稳定，也达到了6000万左右。</p>
-<p>27 A.D.　公元元年前后，亚欧大陆的两端都被统一大帝国统治。那时东邪西毒没有任何直接交往，这种同步性相当惊人，足以让西方历史分期中的“古典时代”概念推广到大半个大陆。从这个角度来说，秦汉和罗马帝国的确是同一“量级”和“年龄段”的选手，放在一起比较可以得到很多有趣的结论。</p>
-<p><img src="file://localhost/private/var/folders/s8/d3b9n7yx5rg5ncc6b8l79j8h0000gn/T/TemporaryItems/msoclip/0/clip_image008.png" alt="说明: Macintosh HD:Users:apple:Desktop:罗马汉朝.jpg"></p>
-<p>​                source: guancha.cn</p>
-<p> 汉朝建立的是高度集中的中央集权和君主专制体制。在地方上实行“郡国制”，后来又设置了州，总体而言对地方的控制是不断加强的。中央设置了“三公九卿”“内外朝”，实行独裁。 而汉朝的法律就是“王法”，也就是皇帝的工具；但是汉朝的法律没有私法，主要是公法；汉朝没有严谨的司法制度，审判过程充满暴力、盲目，人治色彩明显。汉朝初期，工商业十分繁荣。但是汉武帝推行了“盐铁官营”和“算缗”政策之后，导致大量的商人、作坊破产，工商业发展受到严重的打击。从汉武帝之后，虽然工商业发展有所恢复，但是由于战争、重农抑商等影响，使得工商业的发展始终无法到达汉初的水平。当然，汉朝在商业方面也有一定的贡献，例如开通了丝绸之路，加强了中西经济文化的交流。在一些手工业技术方面，例如纺织、制瓷、钢铁冶炼方面达到了世界领先水平。</p>
-<p>罗马在共和国时代实行的是贵族民主体制。全国最高权力掌握在元老院，而公民大会对元老院的决议有表决权。全国最高行政区掌握在执政官手中，执政官由选举产生。但是随着罗马的扩张，共和国也开始转变为帝制。帝国时代，罗马最高权力掌握在皇帝手中，元老院成为了行政机构。但是罗马的帝制并没有汉朝这么强，皇帝的权力并非是无限的。从政治体制来说，罗马的法律制度的确比汉朝先进好多。首先，罗马的法律有至高无上的权威，就连皇帝也必须服从。其次，罗马的私法十分发达，对于维护个人的财产，解决个人纠纷非常到位，而罗马的司法制度健全，有律师制度，讲究证据。也因为罗马的法律先进，因此目前全世界的法律都是学习了罗马法。 罗马的农业在耕作技术上并没有汉朝先进，不过粮食产量也比较可观。罗马时代埃及不需要精耕细作就能够高产，成为了地中海的粮仓。另外，西班牙、意大利等地的经济作物广泛种植，为工商业繁荣提供了条件。罗马繁荣时期有人口6000万，可见农业也是十分繁荣的。工商业方面，罗马应该是全面领先世界：陶器、呢绒、橄榄油、葡萄酒、玻璃器皿等在世界上非常具有竞争力。其中毛纺织是最为发达的手工业，其工艺之先进，足以傲视世界。罗马虽然没有发明瓷器技术，却拥有十分发达的玻璃制造业。廉价的玻璃器皿成为了陶瓷和金属器物的重要竞争对手，玻璃，已经发展成为一个真正的产业。商业方面，罗马拥有地中海为内湖，交通十分便利，有条条大路通罗马的说法。</p>
-<p>476 A.D. 西罗马灭亡，中国也在南北朝分裂时期。其后北欧蛮族又向罗马从头学起一千年，西方基督教世界那不可以造像的上帝，亦是冠剑尽失的罗马皇帝在天上归位。 </p>
-<p> 而华夏与蛮夷结成一体，阴阳有道，开了汉朝的天下。汉朝人世的城廓山川，田里庐舍，天下世界鱼有鱼路，虾有虾路，可兴可群。中国不堕产业竞争，过去青铜器铁器皆比西洋迟三五百年，但是却能够发展到高度。中国人用细工和经济做产业。西方用资本发展产业，东方用精致发展产业。南北朝经济。</p>
-<p>唐朝和阿拉伯帝国（和伊斯兰教）形成了7-8世纪的世界格局。</p>
-<p>唐朝的国土面积在8世纪达到了850-1150万平方公里（根据领土计算标准不同而有所差异）。</p>
-<p>752 A.D. 唐朝的在籍人口达到了月897万户，5998万人，算上流动人口，总数可能达到了8050万人了。长安街头，络绎不绝。</p>
-<p>724A.D. 阿拉伯帝国的倭马亚王朝的人口增长至约3300万。850A.D.人口达到了6500万，可能超过了同时代的唐朝。 阿凡提</p>
-<p> 受限于技术水平，这里任何大国都无法形成全球性的影响力。某个区域内的超级大国甚至没能力压过相邻地区国力低一等级的大国（比如吐蕃之于唐，法兰克、印度三国之于阿拉伯）。因此，这一时期任何国家的强大，都是非常有限的。</p>
-<p>穿越到了宋元：</p>
-<p>“初日照高林”，一朝有一朝的产业新规模，都大过从前，如马可波罗所记宋元之际的生产力即不仅为同代西洋所不及，而亦非汉唐所曾有。 </p>
-<p> 中国是市场大。马可波罗记临安户籍有一百六十万家，即或是一百六十万人之误，但那是宋元之际，而同代西洋的大城威尼斯却则有五万人，过去罗马帝国全盛时罗马城亦只三十万人，且罗马与威尼斯都是孤立的，中国则临安这样名城迢递相望，此即是国内市场大。还有通西域及南方海上的贸易，皆沿途兴起新产业，此则是连国外市场亦化为国内的了。</p>
-<p><img src="file://localhost/private/var/folders/s8/d3b9n7yx5rg5ncc6b8l79j8h0000gn/T/TemporaryItems/msoclip/0/clip_image010.png" alt="说明: Macintosh HD:Users:apple:Desktop:唐朝罗马.jpeg"></p>
-<p>1150 A.D. 造纸术传入罗马，为文艺复兴和媒体的传播奠定了基础。</p>
-<p>1250 A.D. 市场大即不必竞争，故讲“和气生财”，不像西洋的歌颂海盗。十三世纪的威尼斯银行是从高利贷出生。</p>
-<p>1096 -1291 A.D.在拜占庭全盛的时候他的版图几乎接近罗马帝国，但是后来拜占庭对北非和耶路撒冷失去控制了。他的范围就限制在小亚细亚和巴尔干。耶路撒冷落入穆斯林手中。所以才会有基督徒的十字军东征。 中国的宋元时期，十字军东征。</p>
-<p><img src="file://localhost/private/var/folders/s8/d3b9n7yx5rg5ncc6b8l79j8h0000gn/T/TemporaryItems/msoclip/0/clip_image012.png" alt="说明: Macintosh HD:private:var:folders:s8:d3b9n7yx5rg5ncc6b8l79j8h0000gn:T:TemporaryItems:3b292df5e0fe992502fc8f683ca85edf8db17112.jpg"></p>
-<p>紫色</p>
-<p>1350 A.D. 蒙古帝国在极盛时期的人口（1300年）大约袭为1.1亿，占世界百人口总数3.6亿的30.7%。元朝极盛的时候正是罗马帝国强弩之末，西方中世纪开始文艺复兴之时。文艺复兴给欧洲带来了希腊的雕刻与冠剑，耶和华亦又恢复为宙斯，手下又有了艺术之神，工巧之神，爱神，及从罗马时代新添进去的战神，基督教亦分了派别。而且又有了许多半神半兽的英雄，海上的奴隶贸易及城邦的战争。文艺复兴的欧洲岁回到了希腊，但希腊只是罗马初期，到了帝国主义乃至世界苏维埃联邦，亦只是放宽了罗马帝国的限制，而不能越出那限制。西洋的社会现实奴隶社会，后是农奴，再是工资奴隶，再变到国家机关的雇佣奴隶，他们的历史一直是资本为祟，从商业资本到工业资本银行资本国家资本，他们总不能产业的色相自身即是具足。他们革命又革命，只能是从古代自由都市僧侣政治到罗马帝国这一段传奇的反复。他们每次出现新的罗马帝国，而每次又毁灭，造了又拆，拆了又造，而且每次毁灭的原因皆只是这一个，没有人与物的位份，所以大信不立。他们一切有为法，如露亦如电，如梦幻泡影。</p>
-<p> <img src="file://localhost/private/var/folders/s8/d3b9n7yx5rg5ncc6b8l79j8h0000gn/T/TemporaryItems/msoclip/0/clip_image014.png" alt="说明: Macintosh HD:Users:apple:Desktop:元朝世界.jpg"></p>
-<p> 西洋经济一靠对外掠夺，二靠国家财政。中国则外国年年进贡，岁岁来朝，并不为打经济的主意，虽如汉武帝问大宛要马，唐明皇问交趾要象，亦并非拿它来裨补财政，虽战胜外国，亦从来没有订立要他岁输财物若干的条约，只有突厥辽金元对中国曾经如此，但是中国到底平了他们。明朝。拜占庭帝国灭亡。</p>
-<p>产业沿着“初创-规模化-集聚-平衡”4个阶段演进，这是产业发展的基本规律，战略的基础。</p>
-]]></content>
-      <categories>
-        <category>花脉</category>
-      </categories>
-      <tags>
-        <tag>ABC</tag>
-        <tag>DEF</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>资本与产业整合</title>
-    <url>/2020/07/12/6%E8%B5%84%E6%9C%AC%E4%B8%8E%E4%BA%A7%E4%B8%9A%E6%95%B4%E5%90%88/</url>
-    <content><![CDATA[<p>资本主义世界的来临。</p>
-<p> 1550 A.D.十六世纪的英格兰银行是工商业的司令部，而中国的票庄则为盐茶丝及皮货瓷器各业的同行所开设，且一直保持为同行的利益，所以工商业这样繁盛，票庄这样发达，可是货币终不跋扈，唐时“一曲红绡不知数”，宋时“一曲新歌百匹绫”，久久实物与货币并用，此即是有金融而不发生金融资本主义。</p>
-<p>  1760 A.D. 1860 A.D. 1960 A.D.当英国兰开夏的纺织业开始用机器时，全欧洲的总生产量尚不及同时代中国的五分之一乃至八分之一，可是他们的手工业已走到尽头了。他们是这样急遽的跳入了机器时代。现代距离蒸汽器的第一次出现还不到二百年，他们又走尽了头，非原子能不能打开窘境了。机器时代亦不过是迟了一二百年。中国的手工业时代这样长，是在培养可以行于机器的产业与人的性情，到了明清这样的高度，即使无西洋的发明在先，亦下去自然会有一天出现机器时代，依顺序不会太远的。现在西洋虽然抢了先，亦仍要照中国的法子，才能有机器时代的天下清安。</p>
-<p> 西洋像罗马帝国全盛时亦不能统一欧洲，大英帝国全盛时亦不能统一世界，罗马帝国与大英帝国又皆崩溃了即从此不能再合，由此可知华夏的有大一统，及分裂了又能结合，是有他的本领的。</p>
-<p> 中国只要政治有办法，产业是很快可以现代化的。产业并不能保障西洋，连科学亦不能自保，过去埃及巴比仑皆有高度的生产力与科学而亡，近代英国德国法国亦好景不长在，国际的力量对比不尽取决于生产力，而亦取决于形势，此即我们有着许多机会可以出头。我们能来天下之物，则他国之富可以亦即是我之富，而且依照自己的意思来安排现代产业。</p>
-<p>从产业整合到资本整合。  在产业的初创和规模化阶段，最重要的市场份额目标，在规模化到集聚阶段，最终要的就是产业整合，所以优先选择容易垄断的环节。其中资本的力量很重要，在初创阶段，资本决定了创新的方向；在集聚阶段，资本决定了谁是最后的王者；在平衡阶段，企业一定会资本化，建立自身资本的演进道路。一方面需要产品经营，另一方面需要资本经营。  资本经营和产业经营是相生互助的。</p>
-<p>随着互联网，电商和金融支付，供应链数字化，柔性生产等技术的进步，生产端和消费端的链条越来越短，竞争趋势向用户端贴近。企业数字化转型是全新的数字经济赛道布局，把数字经济作为一个市场对象，用产业投资的思维去做。未来是软件的王国！！</p>
-<p><img src="file://localhost/private/var/folders/s8/d3b9n7yx5rg5ncc6b8l79j8h0000gn/T/TemporaryItems/msoclip/0/clip_image016.png" alt="说明: Macintosh HD:Users:apple:Desktop:iphnoe产业.jpeg"></p>
-<p><strong>世界**</strong>经济<strong>**格局</strong>的周期。</p>
-<p><img src="file://localhost/private/var/folders/s8/d3b9n7yx5rg5ncc6b8l79j8h0000gn/T/TemporaryItems/msoclip/0/clip_image018.png" alt="说明: Macintosh HD:Users:apple:Desktop:世界时代.jpeg"></p>
-<p> 长周期角度看周期更替，长周期的繁荣缘于“消费国-制造国-资源国的共生模式”在新一轮信息技术革命的支撑下逐步迈向全球化繁荣的高潮。当前的“逆全球化”正标志着这一周期模式的泡沫破裂。</p>
-<hr>
-<p> 经罗马东汉，唐宋阿拉伯，欧美，都是一个生死循环，秩序重组再生的过程。 </p>
-]]></content>
-      <categories>
-        <category>花脉</category>
-      </categories>
-      <tags>
-        <tag>ABC</tag>
-        <tag>DEF</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数字营销 Digital marketing ecosystem</title>
-    <url>/2020/07/12/7%E6%95%B0%E5%AD%97%E8%90%A5%E9%94%80/</url>
-    <content><![CDATA[<ol>
-<li><p>l 数字营销环境</p>
+    <title>数字营销与新文明</title>
+    <url>/2020/10/20/7%E6%96%B0%E6%96%87%E6%98%8E/</url>
+    <content><![CDATA[<p>l 数字营销环境</p>
 <p>xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 <p>东邪 日本的数字营销环境，</p>
 <p>甲方：</p>
@@ -257,53 +595,15 @@
 <p>媒体：微信，微博，京东，淘宝，天猫，小红书，大众点评，海淘（爱德威app，）</p>
 <p>上海的渠道与消费者，各地的消费者</p>
 <p>2020年新冠疫情在全球蔓延和爆发， 让我们看到10亿人口经济体的市场这个宏大的背景， 10亿人口市场产生了重大的经验并帮助全世界对抗疫情。 企业家顺应需求创造新的需求，而需求的实现则需要企业家从产业，市场，场景这三个角度去构建三位一体的战略，必须认真研究你所处的产业处于何阶段，以及演进到下一个阶段所需要的时间。根据产业发展的阶段，去制定相应的战略，阶段性地去发展产业。 如果把数字营销在电子产业的产业打造，那么芯片是骨骼，软件是血肉，算法是脉理，营销监测是营养，而文明文化是<strong>灵**</strong>魂**。骨骼和血肉需要实实在在的建造，营养需要汲取，灵魂具有个性，而脉理是世界语言，可以通用活用。</p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>花脉</category>
-      </categories>
-      <tags>
-        <tag>ABC</tag>
-        <tag>DEF</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>终点</title>
-    <url>/2020/07/12/8%E7%BB%88%E7%82%B9/</url>
-    <content><![CDATA[<p><strong>Marflower**</strong>之周期**</p>
-<blockquote><p>公元1320年<br>     Laugh in the Wind!<br>                Change in the world!<br>  增长，增长，增长！</p>
-<p>更替，减熵，创新，发展   无稽崖华山峰下，<br>      俄见生得骨格不凡，丰神迥异的一<br>                     僧一道远远而来，<br>   高僧奏琴，<br>                 流道吟诗: A.I. 智能生<br>       Devoted friend, play a piece of music,<br>       incisively and vividly，<br>       No match for our laughing in the wind.<br>                Laugh in the wind?</p>
-<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
-
-<p>（一加一，能量守恒，减熵）</p>
-<p>1bit信息熵 = kln2（J/K）热力学熵。对抗规律 K*log2m m:微观态个数</p>
-<blockquote>
-<p>$1+1=2$<br>$\text{E} = mc^2$<br>$\text{S} = -\sum_iPi*lnPi$<br>$\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right)<br>              = -x[class] + \log\left(\sum_j \exp(x[j])\right)$</p>
-</blockquote>
-<blockquote><p>$1+1=2$<br>$\text{E} = mc^2$<br>$\text{S} = -\sum_iPi*lnPi$<br>$\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right)<br>                 = -x[class] + \log\left(\sum_j \exp(x[j])\right)$</p>
-<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
-
-<p>生命是一个减熵的过程。智能在开放系统中，积极有效地<strong>减熵</strong>做功。（熵：系统中不可逆且永远在增加的无效能量，一个从有序到无序直至死亡的过程。–）熵减 Changes of Zhou 熵，系统中的无效能量，不可逆，且永远在增加，从有序到无序，直至死亡。开放系统，积极做功于规律，更加智能。打破平衡，非线性逻辑。减熵的终极方向是智能化，所以营销也走向智能化。</p>
 <a id="more"></a>
 
 <p>  <strong>现代市场营销-数字营销</strong></p>
-<p>   产业也是一个规律可循的发展过程，其演进是市场战略的核心内容， 而创新就是在演进过程中，曾经世界上都是NO.1 的公司也很难维持长久不衰的地位，反映了人类社会的进步，长江后浪推前浪。市场创新往往来源于市场的边缘地带，而底层创新最后改变世界。在趋势和现实共频中保持上进，建立新秩序。所以，营销的终点是“物极必反，更替发展”。移动互联网时代有云，“市场之道，流量为王”。市场营销发展到数字营销，数字营销是我魅力在于有数据可见，我们可以分析出网站哪里做得好，哪里需要优化。做了SEO，投了AdWords，监控结果如何。</p>
-<p>  <strong><em>市场营销是以人口为基础，创造价值为目标进行减熵和绩效管理，最终回到文明的选择。</em></strong></p>
-<p>看起来文明是个大概念，其实细致入微地关系到我们日常的生活幸福。折射在生活中，文明带给我们的价值就是生活的幸福。那么我们应当选择什么样的文明呢？</p>
+<p>产业也是一个规律可循的发展过程，其演进是市场战略的核心内容， 而创新就是在演进过程中，曾经世界上都是NO.1 的公司也很难维持长久不衰的地位，反映了人类社会的进步，长江后浪推前浪。市场创新往往来源于市场的边缘地带，而底层创新最后改变世界。在趋势和现实共频中保持上进，建立新秩序。所以，营销的终点是“物极必反，更替发展”。移动互联网时代有云，“市场之道，流量为王”。市场营销发展到数字营销，数字营销是我魅力在于有数据可见，我们可以分析出网站哪里做得好，哪里需要优化。做了SEO，投了AdWords，监控结果如何。</p>
+<p>营销有不同的学派schools</p>
 <p>人工知能によって統御される世界と、共生する世界。</p>
 <p>人工知能によって統御される世界と、人間と人工知能がペアを組んで共生するようになる世界と、どちらの分派が優勢になるか。</p>
-<p>原始文明，奴隶文明，农业文明，近代文明，AI文明这些文明并不矛盾。</p>
-<p>64 hexagrams 12 hexagrams《易》道广大，无所不包。假到真时真亦假，无为有处有还无。世界就是一个周期，循环而更新。万物有繁荣有低谷，有诞生有灭亡，有新秩序重建，但总是成螺旋上升，所以要相信真善美，因为主线是不变的。namely harmoney between yin and yang. 阴阳中和 laid the foundation of the mode of thinking of yin and yang, people are of Ying and Yang nature, so are all things in the universe.  </p>
-<p><img src="/Users/apple/Desktop/Blog%E5%8E%9F%E7%A8%BF/iching.jpg" alt="iching"></p>
-<p>  从人类诞生，我们花了两三百万年才进化到今天这个样子。在宇宙面前我们是如此的渺小。未来何去何从。战略是穿越时空的预见与安排。时间周期更替，宇宙和股票规律，佛曰：“成，住，坏，空，万法皆空，因果不空”；儒曰：”逝者如斯夫，不舍昼夜“。道曰：“玄之又玄，众妙之门。盛极而衰，否极泰来；生克制化，自有应期；反者，道之动；弱者，道之用。天下万物生于有，有生于无。” </p>
-<p> ”有物混成，先天地生，寂兮廖兮，不知其名，强字之曰道，强为之名曰大，大曰逝，逝曰远，远曰反。故道大，天大，地大，人亦大，而人居其首。”</p>
-<p> 「《道德经》。」 那位西洋男士抢说到：「道学曰：“浑然天成，阴阳循环”。在西方也有“太初有言”。」　东邪西毒中神通。阴阳有道，增长，增长，增长！大道至简，靠阴阳循环。</p>
-<p>  人口产生需求，需求因地域而产生不同的社会产品和生产力，发展形成了不同的文明。 但谁也逃不过循环，说不定转到中东文明，非洲文明，但社会总是向前推进的。市场营销的本质是知识—能力素养—良知仁义的过程。数学，哲学。文化共存，需要寻求大多数文明的共同点，而不是促进假设中的某个文明的普遍特征。在多文明的世界里，建设性的道路是摒弃普世主义，接受多样性和寻求共同性。（P294）吸取精华，地球人类的世界文明。文化组合。</p>
-<p>中国和日本都是东方世界，不同的地方在于中国吸收西方文化比日本更分开一点。比如中国人学英语比日本人要看起来纯正，中国人的英语背后是西方国家的文化。日本不一样，日本人的英语背后还是日本文化，日本的英语教育趋势是把西方文化化成日语的片假名，嚼碎了变成日本文化。所以日本人英语不见得有中国人讲得好，文化里却已经融入了西方商业文明下的自由主义。而当中国强调中华文化复兴的时候，便只顾着排挤西方了。</p>
-<p>  我认为市场营销需要做几个极点的准备，既要传统，又要前卫；既要现实，又要高山流水；既要自由主义，又要加强管理。我发现美国文化跟其他的english-speaking国家比还是有一点点不同，虽然整体的自由世界都在被破坏，但自由主义的精髓值得我们学习。虽然中国的“文化自觉”和“文化自信”正在崛起，但以什么样的方式理解西方的自由主义已经做出的功劳也是一个值得讨论的话题。这本书对中国怎样学习西方，还有西方怎样反过来学习东方文化的精髓，希望有一些借鉴作用。</p>
-<p>  日本的伟大之处，是以东方文化为表象，却把东西方文化都做得很极致。 这是值得我们学习的。有一点给西方圈的朋友俏皮的的夹心饼建议：how about跟日本模式反过来，以西方文化为导向，把东方文化夹在西方文化中都做到极致？那么中国可否学日本，也做个是以东方文化为表象，却把西方文化也当夹心饼一样吸收掉？如果不愿意表里不一，how about让hot culture和cold culture并行发展呢。当天地有知，阴阳和谐，东西方平衡，世界就完整了。思维上包容各种各样的文化，体会各种各样文化的价值观，但在行动上一定要跟当地文化结合在一起。中华文明是四大古老文明中唯一存续的文明，有很多文化挖掘可能性。我写##花士##就是从文明的角度去理解东西方不同的文化，借武侠骑士的友谊和英雄故事展现世界的营销界的文化道场。  </p>
-<p>侠是牺牲自己的利益，去帮助别人。有朋自远方来，不亦乐乎？我们看到世界人民的侠义心肠，忠孝仁义。最早韩非子，以不变来应万变。We claim ourselves chivalries, what’s the meaning of chivalry?  Could a chivalry humiliate wounded old men and kill savagely an innocent girl?  A well-known chivalry in Martial world。 Colluded with evil party and did Harm to our five Righteous parties. 五岳派 “两军阵前遇代战，代战公主好威严”，以及双鸳公主追狄青，皆把番女说成很可佩服。</p>
+<p>原始文明，奴隶文明，农业文明，近代文明，AI文明，拜占庭文明，基督教文明，伊斯兰文明，中华文明，日本文明。   从人类诞生，我们花了两三百万年才进化到今天这个样子。在宇宙面前我们是如此的渺小。未来何去何从。战略是穿越时空的预见与安排。时间周期更替，宇宙和股票规律，佛曰：“成，住，坏，空，万法皆空，因果不空”；儒曰：”逝者如斯夫，不舍昼夜“。道曰：“玄之又玄，众妙之门。盛极而衰，否极泰来；生克制化，自有应期；反者，道之动；弱者，道之用。天下万物生于有，有生于无。” </p>
+<p> ”有物混成，先天地生，寂兮廖兮，不知其名，强字之曰道，强为之名曰大，大曰逝，逝曰远，远曰反。故道大，天大，地大，人亦大，而人居其首。”  八大人类文明+数字营销智能化—新文明。</p>
 <p><strong>营销的误区</strong></p>
 <ol>
 <li>着重在渠道是没跟上时代，只看kpi是把营销当成了销售，营销的本质在于回归到文明和人类贡献，创造品牌价值</li>
@@ -325,23 +625,26 @@
 <footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
 
 <p> <strong>Marflower ecosystem</strong>   </p>
-<p>Marflower生态中，##花脉##是关于算法modeling的博客，##花士##写一些人物和小故事；而##花肥##是对营销监测的补充。##花裙##辅助电商/境外电商，介绍一些五湖四海，异国他乡的奇珍异宝。过去以渠道和KPI做营销，虽然现在也做media channel，O2O, 但更需要做用户研究，品牌定位，产品价值，俯瞰全局，多面考量，专注执行。</p>
-<p>##花脉## module.  算法modeling</p>
-<p>l 电商： 数据处理 异常值，渠道筛选 渠道展示 </p>
-<p>l 营销分析： 媒体组合优化（宏观），营销归因分析（微观），广告营销之A/B test， 增量模型 Uplift Modeling, 随即森林之应用random Forest in Marketing  </p>
-<p>l DSP／SSP程序化：人群looklike，聚类分组，调试参数，逻辑回归，决策树</p>
-<p>l 自然言语处理：数据字典，词频统计，关键词挖掘，话题关联，场景关联</p>
-<p>l deep learning, regression, Clustering, Random Forest</p>
-<p>##花士## personality   文学IP Creative writing</p>
+<p>##花士## Character</p>
 <p>艺术 ，人文，文明，人性，战略</p>
 <p>以东方和西方世界为背景，从人类文明起源讲述东西方不同的文化、市场环境变迁，产业结构变化，武侠骑士的友谊，竞争和英雄故事，以及花脉系列的武林秘笈在江湖中应用的故事。从四维的角度来写营销的故事。东邪西毒中神通，哪一位更高？印度，巴比伦，俄罗斯，哪一位花士营销哲学哪一位更高？</p>
 <p>企业家传记，每一个公司背后有一个伟大的企业家，IBM有沃森，美国钢铁背后是摩根，苹果背后是乔布斯，这些人都是非常有个性的人。所以整个人类商业的发展史，是一部公司兴衰的更替史，也是产业兴衰的更替史，也是一部创新史，也是企业家的一部发展史。</p>
 <p>##花肥网站##营销监测 Marketing Analytics。</p>
 <p>对生态的全渠道进行监测和数字优化，Media + Messege + Mechanisms 管理，物流贸易，企业经营调查</p>
-<p>目前这三个网站是有半年（2020年6月-2020年12月）的测试期。测试期间并不想把重心放在流量上，而是放在品牌建设上.2021年1月预计开通相应的微信公众号，可进行品牌推广和流量建设。品牌建设期间，欢迎大家参与内容建议和指正，提出各种宝贵的意见。更替，补足。</p>
+<hr>
+<p><strong>花士</strong>：老子，孔子，孙子，韩非子，</p>
+<p><strong>花脉</strong>：道德经模型，孙子兵法，</p>
+<p><strong>花肥</strong>： 壁画，东非特产， 金字塔公园， 其外有炎火之山， 撒哈拉沙漠，运河，尼罗河，乞力马扎罗山，玉米，纺织，丝织业。黄河流域，长江流域，养蚕，各级贵族。衣服，丝绸，礼物，祭祀，丝绸，矿石，植物，提纯，染料，制漆业。花生，胭脂红，扶木–仙人掌，墨西哥书法，武当山的时刻，甲骨文的符号，哲学中的二元论来自于阴阳，科罗拉多大峡谷，流金铄石的壮美风光，</p>
+<p>​                                                                                                                                                            <strong>The End.</strong> </p>
 ]]></content>
+      <categories>
+        <category>花脉</category>
+      </categories>
       <tags>
-        <tag>self-introduction</tag>
+        <tag>AI</tag>
+        <tag>DEF</tag>
+        <tag>language</tag>
+        <tag>digital marketing</tag>
       </tags>
   </entry>
 </search>
